@@ -17,5 +17,62 @@
       "latitude": 29.3593701,
       "longitude": -98.4158002
     }
+  },
+  "HVAC13": {
+    "business": "Concord HVAC Corporation",
+    "phone": "+1 210-796-2436",
+    "location": "San Antonio, Texas",
+    "reviewLink": "https://www.google.com/maps/place/Concord+HVAC+Corporation/@29.614235599999997,-98.4829604,13.99z/data=!4m16!1m7!3m6!1s0x865c890409d7e785:0x7a2374e3df63e1d3!2sConcord+HVAC+Corporation!8m2!3d29.614235599999997!4d-98.4829604!16s%2Fg%2F11ckvg1dmb!3m7!1s0x865c890409d7e785:0x7a2374e3df63e1d3!8m2!3d29.614235599999997!4d-98.4829604!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
+    "heroImage": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nFU9Heh7aMPaFGkdaF3SHA&cb_client=search.gws-prod.gps&w=800&h=500&yaw=95.172264&pitch=0&thumbfov=100",
+    "aboutLabel": "Concord HVAC Corporation Heating & Cooling",
+    "aboutTitle": "Expert HVAC Solutions",
+    "aboutDescription": "Our team of certified professionals brings you comprehensive heating and cooling solutions. With years of experience and dedication to excellence, we ensure your complete comfort.",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Certified Professionals"
+    },
+    "coordinates": {
+      "latitude": 29.6142356,
+      "longitude": -98.4829604
+    }
+  },
+  "HVAC14": {
+    "business": "B-KOOL A/C AND HEATING CO",
+    "phone": "+1 210-723-1288",
+    "location": ", ",
+    "reviewLink": "https://www.google.com/maps/place/B-KOOL+A%2FC+AND+HEATING+CO/@29.4585735,-98.51437639999999,13.99z/data=!4m16!1m7!3m6!1s0x865c61d608643cc3:0xc7594faff33b20b5!2sB-KOOL+A%2FC+AND+HEATING+CO!8m2!3d29.4585735!4d-98.51437639999999!16s%2Fg%2F11ckvg1dmb!3m7!1s0x865c61d608643cc3:0xc7594faff33b20b5!8m2!3d29.4585735!4d-98.51437639999999!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
+    "heroImage": "https://lh5.googleusercontent.com/p/AF1QipOd4q-iw_Re5lsn8JVmtwNPTIt6Q8aTw9LaOKvS=w800-h500-k-no",
+    "aboutLabel": "B-KOOL A/C AND HEATING CO Heating & Cooling",
+    "aboutTitle": "Expert HVAC Solutions",
+    "aboutDescription": "Our team of certified professionals brings you comprehensive heating and cooling solutions. With years of experience and dedication to excellence, we ensure your complete comfort.",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Certified Professionals"
+    },
+    "coordinates": {
+      "latitude": 29.4585735,
+      "longitude": -98.5143764
+    }
+  },
+  "HVAC15": {
+    "business": "COMFORT GODS AC & HEATING LLC",
+    "phone": "+1 210-436-1482",
+    "location": ", ",
+    "reviewLink": "https://www.google.com/maps/place/COMFORT+GODS+AC+%26+HEATING+LLC/@29.600226199999998,-98.4166746,13.99z/data=!4m16!1m7!3m6!1s0x431956f9723a9ed1:0x5123abe4ef499830!2sCOMFORT+GODS+AC+%26+HEATING+LLC!8m2!3d29.600226199999998!4d-98.4166746!16s%2Fg%2F11ckvg1dmb!3m7!1s0x431956f9723a9ed1:0x5123abe4ef499830!8m2!3d29.600226199999998!4d-98.4166746!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
+    "heroImage": "https://lh5.googleusercontent.com/p/AF1QipPNJtCjDLa_4PX8aBLk1mk7y2-FwDiDoQzFQeHb=w800-h500-k-no",
+    "aboutLabel": "COMFORT GODS AC & HEATING LLC Heating & Cooling",
+    "aboutTitle": "Expert HVAC Solutions",
+    "aboutDescription": "Our team of certified professionals brings you comprehensive heating and cooling solutions. With years of experience and dedication to excellence, we ensure your complete comfort.",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Certified Professionals"
+    },
+    "coordinates": {
+      "latitude": 29.6002262,
+      "longitude": -98.4166746
+    }
   }
 }
