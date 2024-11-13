@@ -74,5 +74,62 @@
       "latitude": 29.6002262,
       "longitude": -98.4166746
     }
+  },
+  "HVAC19": {
+    "business": "MTY Air Conditioning And Heating",
+    "phone": "+1 210-853-7314",
+    "location": "San Antonio, Texas",
+    "reviewLink": "https://www.google.com/maps/place/MTY+Air+Conditioning+And+Heating/@29.4061451,-98.6489295,13.99z/data=!4m16!1m7!3m6!1s0x865c8d8c44364d29:0x7a555409592d4000!2sMTY+Air+Conditioning+And+Heating!8m2!3d29.4061451!4d-98.6489295!16s%2Fg%2F11ckvg1dmb!3m7!1s0x865c8d8c44364d29:0x7a555409592d4000!8m2!3d29.4061451!4d-98.6489295!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
+    "heroImage": "https://lh5.googleusercontent.com/p/AF1QipPuftsSky-f7ybbYR09oS0e5HxdLYD0VZe_bi4U=w800-h500-k-no",
+    "aboutLabel": "MTY Air Conditioning And Heating Heating & Cooling",
+    "aboutTitle": "Expert HVAC Solutions",
+    "aboutDescription": "Our team of certified professionals brings you comprehensive heating and cooling solutions. With years of experience and dedication to excellence, we ensure your complete comfort.",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Certified Professionals"
+    },
+    "coordinates": {
+      "latitude": 29.4061451,
+      "longitude": -98.6489295
+    }
+  },
+  "HVAC20": {
+    "business": "DM Mechanical",
+    "phone": "+1 512-743-8919",
+    "location": "San Antonio, Texas",
+    "reviewLink": "https://www.google.com/maps/place/DM+Mechanical/@29.5696604,-98.5222323,13.99z/data=!4m16!1m7!3m6!1s0x865c61f4b79ef7eb:0x2f5426b054460cdc!2sDM+Mechanical!8m2!3d29.5696604!4d-98.5222323!16s%2Fg%2F11ckvg1dmb!3m7!1s0x865c61f4b79ef7eb:0x2f5426b054460cdc!8m2!3d29.5696604!4d-98.5222323!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
+    "heroImage": "",
+    "aboutLabel": "DM Mechanical Heating & Cooling",
+    "aboutTitle": "Expert HVAC Solutions",
+    "aboutDescription": "Our team of certified professionals brings you comprehensive heating and cooling solutions. With years of experience and dedication to excellence, we ensure your complete comfort.",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Certified Professionals"
+    },
+    "coordinates": {
+      "latitude": 29.5696604,
+      "longitude": -98.5222323
+    }
+  },
+  "HVAC21": {
+    "business": "First Rate Services",
+    "phone": "+1 830-480-2106",
+    "location": "San Antonio, Texas",
+    "reviewLink": "https://www.google.com/maps/place/First+Rate+Services/@29.476083799999998,-98.526535,13.99z/data=!4m16!1m7!3m6!1s0x865c5fac95b130a7:0x9d96d02736740934!2sFirst+Rate+Services!8m2!3d29.476083799999998!4d-98.526535!16s%2Fg%2F11ckvg1dmb!3m7!1s0x865c5fac95b130a7:0x9d96d02736740934!8m2!3d29.476083799999998!4d-98.526535!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
+    "heroImage": "https://lh5.googleusercontent.com/p/AF1QipPYHwWea29xOULHsXAU2_NVcQOIzTl9kZSkJ7rM=w800-h500-k-no",
+    "aboutLabel": "First Rate Services Heating & Cooling",
+    "aboutTitle": "Expert HVAC Solutions",
+    "aboutDescription": "Our team of certified professionals brings you comprehensive heating and cooling solutions. With years of experience and dedication to excellence, we ensure your complete comfort.",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Certified Professionals"
+    },
+    "coordinates": {
+      "latitude": 29.4760838,
+      "longitude": -98.526535
+    }
   }
 }
