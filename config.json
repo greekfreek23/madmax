@@ -1,18 +1,34 @@
 {
     "TEST1": {
-        "business": "HVAC Pro",
-        "phone": "(210) 456-7890",
+        "business": "Comfort Zone HVAC",
+        "phone": "(210) 555-1234",
         "location": "San Antonio, TX",
-        "reviewLink": "https://g.page/r/ABC123review",
-        "serviceArea": "San Antonio",
-        "heroImage": "https://example.com/image1.jpg"
+        "reviewLink": "https://g.page/r/comfort-zone-hvac",
+        "serviceArea": "Greater San Antonio",
+        "heroImage": "/api/placeholder/800/600"
     },
     "TEST2": {
-        "business": "Cool Air Masters",
-        "phone": "(512) 749-1234",
+        "business": "Elite Air Systems",
+        "phone": "(512) 555-9876",
         "location": "Austin, TX",
-        "reviewLink": "https://g.page/r/XYZ789review",
-        "serviceArea": "Austin",
-        "heroImage": "https://example.com/image2.jpg"
+        "reviewLink": "https://g.page/r/elite-air-systems",
+        "serviceArea": "Austin Metropolitan Area",
+        "heroImage": "/api/placeholder/800/600"
+    },
+    "TEST3": {
+        "business": "Texas Climate Control",
+        "phone": "(713) 555-4321",
+        "location": "Houston, TX",
+        "reviewLink": "https://g.page/r/texas-climate",
+        "serviceArea": "Houston and Surrounding Areas",
+        "heroImage": "/api/placeholder/800/600"
+    },
+    "TEST4": {
+        "business": "Precision Air & Heat",
+        "phone": "(469) 555-7890",
+        "location": "Dallas, TX",
+        "reviewLink": "https://g.page/r/precision-air",
+        "serviceArea": "Dallas-Fort Worth Metroplex",
+        "heroImage": "/api/placeholder/800/600"
     }
 }
