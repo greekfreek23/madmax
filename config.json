@@ -1,34 +1,21 @@
 {
-    "TEST1": {
-        "business": "Comfort Zone HVAC",
-        "phone": "(210) 555-1234",
-        "location": "San Antonio, TX",
-        "reviewLink": "https://g.page/r/comfort-zone-hvac",
-        "serviceArea": "Greater San Antonio",
-        "heroImage": "/api/placeholder/800/600"
+  "HVAC6": {
+    "business": "All Seasons Mechanical, San Antonio Texas",
+    "phone": "+1 210-273-6037",
+    "location": "San Antonio, Texas",
+    "reviewLink": "https://www.google.com/maps/place/All+Seasons+Mechanical%2C+San+Antonio+Texas/@29.475444699999997,-98.52285479999999,13.99z/data=!4m16!1m7!3m6!1s0x865c5f4a7cd8fe53:0x94fbb9e9280f43ee!2sAll+Seasons+Mechanical%2C+San+Antonio+Texas!8m2!3d29.475444699999997!4d-98.52285479999999!16s%2Fg%2F11ckvg1dmb!3m7!1s0x865c5f4a7cd8fe53:0x94fbb9e9280f43ee!8m2!3d29.475444699999997!4d-98.52285479999999!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
+    "heroImage": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ESJygPfHuOUkmtiHIw5ROg&cb_client=search.gws-prod.gps&w=800&h=500&yaw=349.55484&pitch=0&thumbfov=100",
+    "aboutLabel": "All Seasons Mechanical, San Antonio Texas Heating & Cooling",
+    "aboutTitle": "Expert HVAC Solutions",
+    "aboutDescription": "Our team of certified professionals brings you comprehensive heating and cooling solutions. With years of experience and dedication to excellence, we ensure your complete comfort.",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Certified Professionals"
     },
-    "TEST2": {
-        "business": "Elite Air Systems",
-        "phone": "(512) 555-9876",
-        "location": "Austin, TX",
-        "reviewLink": "https://g.page/r/elite-air-systems",
-        "serviceArea": "Austin Metropolitan Area",
-        "heroImage": "/api/placeholder/800/600"
-    },
-    "TEST3": {
-        "business": "Texas Climate Control",
-        "phone": "(713) 555-4321",
-        "location": "Houston, TX",
-        "reviewLink": "https://g.page/r/texas-climate",
-        "serviceArea": "Houston and Surrounding Areas",
-        "heroImage": "/api/placeholder/800/600"
-    },
-    "TEST4": {
-        "business": "Precision Air & Heat",
-        "phone": "(469) 555-7890",
-        "location": "Dallas, TX",
-        "reviewLink": "https://g.page/r/precision-air",
-        "serviceArea": "Dallas-Fort Worth Metroplex",
-        "heroImage": "/api/placeholder/800/600"
+    "coordinates": {
+      "latitude": 29.4754447,
+      "longitude": -98.5228548
     }
+  }
 }
