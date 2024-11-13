@@ -1,12 +1,18 @@
 {
     "TEST1": {
-        "business": "Test Company One",
-        "phone": "(555) 123-4567",
-        "location": "Atlanta, GA"
+        "business": "HVAC Pro",
+        "phone": "(210) 456-7890",
+        "location": "San Antonio, TX",
+        "reviewLink": "https://g.page/r/ABC123review",
+        "serviceArea": "San Antonio",
+        "heroImage": "https://example.com/image1.jpg"
     },
     "TEST2": {
-        "business": "Test Company Two",
-        "phone": "(555) 987-6543",
-        "location": "Miami, FL"
+        "business": "Cool Air Masters",
+        "phone": "(512) 789-1234",
+        "location": "Austin, TX",
+        "reviewLink": "https://g.page/r/XYZ789review",
+        "serviceArea": "Austin",
+        "heroImage": "https://example.com/image2.jpg"
     }
 }
