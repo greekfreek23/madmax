@@ -210,5 +210,65 @@
       "instagram": "",
       "twitter": ""
     }
+  },
+  "PLUMB3": {
+    "business": "Chaplin Plumbing & Heating",
+    "phone": "(170) 623-12849",
+    "location": "Augusta, Georgia",
+    "reviewLink": "https://www.google.com/maps/place/Chaplin+Plumbing+%26+Heating/@33.496196999999995,-82.123128,13.99z/data=!4m16!1m7!3m6!1s0x88f9d3814e3ce4e3:0xbfe2e3d23360b11f!2sChaplin+Plumbing+%26+Heating!8m2!3d33.496196999999995!4d-82.123128!16s%2Fg%2F11ckvg1dmb!3m7!1s0x88f9d3814e3ce4e3:0xbfe2e3d23360b11f!8m2!3d33.496196999999995!4d-82.123128!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
+    "serviceArea": "Augusta and surrounding areas",
+    "coordinates": {
+      "latitude": 33.4961969999999,
+      "longitude": -82.123128
+    },
+    "aboutLabel": "Chaplin Plumbing & Heating Professional Plumbing",
+    "aboutTitle": "Expert Plumbing Solutions",
+    "aboutDescription": "Our team of licensed plumbers brings you comprehensive plumbing solutions. From emergency repairs to new installations, we ensure quality service every time.",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Professional Plumbers"
+    },
+    "primaryColor": "#003366",
+    "secondaryColor": "#e24a4a",
+    "rating": 5,
+    "reviewCount": 18,
+    "businessStatus": "OPERATIONAL",
+    "website": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    }
+  },
+  "PLUMB4": {
+    "business": "Cut Rate Sewer Services",
+    "phone": "(170) 673-34103",
+    "location": "Augusta, Georgia",
+    "reviewLink": "https://www.google.com/maps/place/Cut+Rate+Sewer+Services/@33.4139254,-82.0109062,13.99z/data=!4m16!1m7!3m6!1s0x88f9ce4f07ab4925:0x40ff5798c11d9d2d!2sCut+Rate+Sewer+Services!8m2!3d33.4139254!4d-82.0109062!16s%2Fg%2F11ckvg1dmb!3m7!1s0x88f9ce4f07ab4925:0x40ff5798c11d9d2d!8m2!3d33.4139254!4d-82.0109062!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
+    "serviceArea": "Augusta and surrounding areas",
+    "coordinates": {
+      "latitude": 33.4139254,
+      "longitude": -82.0109062
+    },
+    "aboutLabel": "Cut Rate Sewer Services Professional Plumbing",
+    "aboutTitle": "Expert Plumbing Solutions",
+    "aboutDescription": "Our team of licensed plumbers brings you comprehensive plumbing solutions. From emergency repairs to new installations, we ensure quality service every time.",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Professional Plumbers"
+    },
+    "primaryColor": "#003366",
+    "secondaryColor": "#e24a4a",
+    "rating": 4.7,
+    "reviewCount": 14,
+    "businessStatus": "OPERATIONAL",
+    "website": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    }
   }
 }
