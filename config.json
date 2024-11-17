@@ -183,9 +183,9 @@
   },
   "PLUMB2": {
     "business": "Weigle Plumbing",
-    "phone": "(170) 679-09200",
+    "phone": "(706) 790-9200",
     "location": "Augusta, Georgia",
-    "reviewLink": "https://www.google.com/maps/place/Weigle+Plumbing/@33.406749999999995,-82.0390819,13.99z/data=!4m16!1m7!3m6!1s0x88f9cfd534be44e9:0x43409b47cbbe84b7!2sWeigle+Plumbing!8m2!3d33.406749999999995!4d-82.0390819!16s%2Fg%2F11ckvg1dmb!3m7!1s0x88f9cfd534be44e9:0x43409b47cbbe84b7!8m2!3d33.406749999999995!4d-82.0390819!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJ6US-NNXP-YgRt4S-y0ebQEM&q=plumber,+30901,+Augusta,+GA,+US&authuser=0&hl=en&gl=US",
     "serviceArea": "Augusta and surrounding areas",
     "coordinates": {
       "latitude": 33.4067499999999,
@@ -204,7 +204,8 @@
     "rating": 4.5,
     "reviewCount": 16,
     "businessStatus": "OPERATIONAL",
-    "website": "",
+    "workingHours": "",
+    "address": "3133 Richmond Hill Rd, Augusta, GA 30906",
     "socialMedia": {
       "facebook": "",
       "instagram": "",
@@ -213,9 +214,9 @@
   },
   "PLUMB3": {
     "business": "Chaplin Plumbing & Heating",
-    "phone": "(170) 623-12849",
+    "phone": "(706) 231-2849",
     "location": "Augusta, Georgia",
-    "reviewLink": "https://www.google.com/maps/place/Chaplin+Plumbing+%26+Heating/@33.496196999999995,-82.123128,13.99z/data=!4m16!1m7!3m6!1s0x88f9d3814e3ce4e3:0xbfe2e3d23360b11f!2sChaplin+Plumbing+%26+Heating!8m2!3d33.496196999999995!4d-82.123128!16s%2Fg%2F11ckvg1dmb!3m7!1s0x88f9d3814e3ce4e3:0xbfe2e3d23360b11f!8m2!3d33.496196999999995!4d-82.123128!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJ4-Q8ToHT-YgRH7FgM9Lj4r8&q=plumber,+30901,+Augusta,+GA,+US&authuser=0&hl=en&gl=US",
     "serviceArea": "Augusta and surrounding areas",
     "coordinates": {
       "latitude": 33.4961969999999,
@@ -234,7 +235,8 @@
     "rating": 5,
     "reviewCount": 18,
     "businessStatus": "OPERATIONAL",
-    "website": "",
+    "workingHours": "",
+    "address": "167 Kestwick Dr E, Augusta, GA 30907",
     "socialMedia": {
       "facebook": "",
       "instagram": "",
