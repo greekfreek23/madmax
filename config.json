@@ -272,5 +272,36 @@
       "instagram": "",
       "twitter": ""
     }
+  },
+  "PLUMB6": {
+    "business": "All Drain Plumbing Augusta",
+    "phone": "(762) 249-5931",
+    "location": ", ",
+    "reviewLink": "",
+    "serviceArea": " and surrounding areas",
+    "coordinates": {
+      "latitude": 33.3860406,
+      "longitude": -82.0909175
+    },
+    "aboutLabel": "All Drain Plumbing Augusta Professional Plumbing",
+    "aboutTitle": "Expert Plumbing Solutions",
+    "aboutDescription": "Our team of licensed plumbers brings you comprehensive plumbing solutions. From emergency repairs to new installations, we ensure quality service every time.",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Professional Plumbers"
+    },
+    "primaryColor": "#003366",
+    "secondaryColor": "#e24a4a",
+    "rating": 5,
+    "reviewCount": 1,
+    "businessStatus": "OPERATIONAL",
+    "workingHours": "",
+    "address": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    }
   }
 }
