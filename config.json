@@ -303,5 +303,98 @@
       "instagram": "",
       "twitter": ""
     }
+  },
+  "PLUMB7": {
+    "business": "Byrd's Electric & Plumbing Inc",
+    "phone": "(706) 722-6702",
+    "location": "Augusta, Georgia",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJI1KkCoHO-YgRk4KdBK5B05Q&q=plumber,+30901,+Augusta,+GA,+US&authuser=0&hl=en&gl=US",
+    "serviceArea": "Augusta and surrounding areas",
+    "coordinates": {
+      "latitude": 33.4456609,
+      "longitude": -81.9931869999999
+    },
+    "aboutLabel": "Byrd's Electric & Plumbing Inc Professional Plumbing",
+    "aboutTitle": "Expert Plumbing Solutions",
+    "aboutDescription": "Our team of licensed plumbers brings you comprehensive plumbing solutions. From emergency repairs to new installations, we ensure quality service every time.",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Professional Plumbers"
+    },
+    "primaryColor": "#003366",
+    "secondaryColor": "#e24a4a",
+    "rating": 5,
+    "reviewCount": 1,
+    "businessStatus": "OPERATIONAL",
+    "workingHours": "",
+    "address": "2001 Old Savannah Rd, Augusta, GA 30901",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    }
+  },
+  "PLUMB8": {
+    "business": "Mobley Plumbing and Septic, LLC",
+    "phone": "(706) 699-5534",
+    "location": ", ",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJNy90JMeUQaMRhP8d9I98Q4U&q=plumber,+30901,+Augusta,+GA,+US&authuser=0&hl=en&gl=US",
+    "serviceArea": " and surrounding areas",
+    "coordinates": {
+      "latitude": 33.439793,
+      "longitude": -82.1766813999999
+    },
+    "aboutLabel": "Mobley Plumbing and Septic, LLC Professional Plumbing",
+    "aboutTitle": "Expert Plumbing Solutions",
+    "aboutDescription": "Our team of licensed plumbers brings you comprehensive plumbing solutions. From emergency repairs to new installations, we ensure quality service every time.",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Professional Plumbers"
+    },
+    "primaryColor": "#003366",
+    "secondaryColor": "#e24a4a",
+    "rating": 5,
+    "reviewCount": 3,
+    "businessStatus": "OPERATIONAL",
+    "workingHours": "{\"Monday\": \"7:30AM-5:30PM\", \"Tuesday\": \"7:30AM-5:30PM\", \"Wednesday\": \"7:30AM-5:30PM\", \"Thursday\": \"7:30AM-5:30PM\", \"Friday\": \"7:30AM-5:30PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "address": "",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    }
+  },
+  "PLUMB9": {
+    "business": "Liberty Plumbing of Augusta",
+    "phone": "(762) 257-7102",
+    "location": "Martinez, Georgia",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJy7EuBHzT-YgRUbvU64FoayQ&q=plumber,+30901,+Augusta,+GA,+US&authuser=0&hl=en&gl=US",
+    "serviceArea": "Martinez and surrounding areas",
+    "coordinates": {
+      "latitude": 33.5074432,
+      "longitude": -82.1228156
+    },
+    "aboutLabel": "Liberty Plumbing of Augusta Professional Plumbing",
+    "aboutTitle": "Expert Plumbing Solutions",
+    "aboutDescription": "Our team of licensed plumbers brings you comprehensive plumbing solutions. From emergency repairs to new installations, we ensure quality service every time.",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Professional Plumbers"
+    },
+    "primaryColor": "#003366",
+    "secondaryColor": "#e24a4a",
+    "rating": 5,
+    "reviewCount": 6,
+    "businessStatus": "OPERATIONAL",
+    "workingHours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+    "address": "4232 Columbia Rd, Martinez, GA 30907",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    }
   }
 }
