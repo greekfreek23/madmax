@@ -131,5 +131,24 @@
       "latitude": 29.4760838,
       "longitude": -98.526535
     }
+  },
+  "HVAC2": {
+    "business": "Weigle Plumbing",
+    "phone": "+1 706-790-9200",
+    "location": "Augusta, Georgia",
+    "reviewLink": "https://www.google.com/maps/place/Weigle+Plumbing/@33.406749999999995,-82.0390819,13.99z/data=!4m16!1m7!3m6!1s0x88f9cfd534be44e9:0x43409b47cbbe84b7!2sWeigle+Plumbing!8m2!3d33.406749999999995!4d-82.0390819!16s%2Fg%2F11ckvg1dmb!3m7!1s0x88f9cfd534be44e9:0x43409b47cbbe84b7!8m2!3d33.406749999999995!4d-82.0390819!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
+    "heroImage": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=hpJqAPYjWTn9cN-40RqSnw&cb_client=search.gws-prod.gps&w=800&h=500&yaw=307.33688&pitch=0&thumbfov=100",
+    "aboutLabel": "Weigle Plumbing Heating & Cooling",
+    "aboutTitle": "Expert HVAC Solutions",
+    "aboutDescription": "Our team of certified professionals brings you comprehensive heating and cooling solutions. With years of experience and dedication to excellence, we ensure your complete comfort.",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Certified Professionals"
+    },
+    "coordinates": {
+      "latitude": 33.4067499999999,
+      "longitude": -82.0390819
+    }
   }
 }
