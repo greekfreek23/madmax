@@ -456,5 +456,135 @@
       "instagram": "",
       "twitter": ""
     }
+  },
+  "PLUMB14": {
+    "business": "Barcenas Reliable Plumbing Pros",
+    "phone": "17624446866",
+    "location": ", ",
+    "fullAddress": "",
+    "serviceArea": {
+      "mainCity": "",
+      "state": "",
+      "radius": 30,
+      "coordinates": {
+        "latitude": 33.587531,
+        "longitude": -81.8150419999999
+      },
+      "cities": [],
+      "description": "Serving  and surrounding areas within 30 miles",
+      "nearbyCities": []
+    },
+    "reviews": {
+      "rating": 3,
+      "count": 1,
+      "link": "",
+      "breakdown": {
+        "total": 1,
+        "fiveStars": 0,
+        "fourStars": 0,
+        "threeStars": 0,
+        "twoStars": 0,
+        "oneStar": 0
+      }
+    },
+    "media": {
+      "photos": 0,
+      "mainPhoto": "",
+      "streetView": "",
+      "logo": "https://lh5.googleusercontent.com/-dkEs8gU9_qw/AAAAAAAAAAI/AAAAAAAAAAA/vVKH5iSESPQ/s44-p-k-no-ns-nd/photo.jpg"
+    },
+    "operations": {
+      "status": "OPERATIONAL",
+      "hours": {
+        "Monday": "Open 24 hours",
+        "Tuesday": "Open 24 hours",
+        "Wednesday": "Open 24 hours",
+        "Thursday": "Open 24 hours",
+        "Friday": "Open 24 hours",
+        "Saturday": "Open 24 hours",
+        "Sunday": "7AM-12AM"
+      },
+      "about": {
+        "Payments": {
+          "Cash-only": true
+        }
+      }
+    },
+    "theme": {
+      "primaryColor": "#003366",
+      "secondaryColor": "#e24a4a"
+    },
+    "content": {
+      "aboutTitle": "Professional Plumbing Services",
+      "aboutDescription": "Our team of licensed plumbers brings you comprehensive plumbing solutions. From emergency repairs to new installations, we ensure quality service every time.",
+      "features": {
+        "feature1": "Licensed & Insured",
+        "feature2": "24/7 Emergency Service",
+        "feature3": "Professional Plumbers"
+      }
+    }
+  },
+  "PLUMB15": {
+    "business": "Garden City Plumbers",
+    "phone": "17062671169",
+    "location": "Augusta, Georgia",
+    "fullAddress": "2703 Springwood Dr, Augusta, GA 30909",
+    "serviceArea": {
+      "mainCity": "Augusta",
+      "state": "Georgia",
+      "radius": 30,
+      "coordinates": {
+        "latitude": 33.5178647,
+        "longitude": -82.0145136
+      },
+      "cities": [],
+      "description": "Serving Augusta and surrounding areas within 30 miles",
+      "nearbyCities": []
+    },
+    "reviews": {
+      "rating": 5,
+      "count": 3,
+      "link": "https://search.google.com/local/reviews?placeid=ChIJ1xs1Ez7N-YgR30N3m7cSz9w&q=plumber,+30903,+Augusta,+GA,+US&authuser=0&hl=en&gl=US",
+      "breakdown": {
+        "total": 3,
+        "fiveStars": 0,
+        "fourStars": 0,
+        "threeStars": 0,
+        "twoStars": 0,
+        "oneStar": 0
+      }
+    },
+    "media": {
+      "photos": 2,
+      "mainPhoto": "https://lh5.googleusercontent.com/p/AF1QipOtYfKj4D9idN5Mf19S66C-FE9yq3cch1Htal4r=w800-h500-k-no",
+      "streetView": "https://lh5.googleusercontent.com/p/AF1QipOtYfKj4D9idN5Mf19S66C-FE9yq3cch1Htal4r=w1600-h1000-k-no",
+      "logo": "https://lh3.googleusercontent.com/-kSGPNO4zUXo/AAAAAAAAAAI/AAAAAAAAAAA/_ToTx9HBkaY/s44-p-k-no-ns-nd/photo.jpg"
+    },
+    "operations": {
+      "status": "OPERATIONAL",
+      "hours": {
+        "Monday": "7AM-7PM",
+        "Tuesday": "7AM-7PM",
+        "Wednesday": "7AM-7PM",
+        "Thursday": "7AM-7PM",
+        "Friday": "7AM-7PM",
+        "Saturday": "7AM-7PM",
+        "Sunday": "7AM-7PM"
+      },
+      "about": {}
+    },
+    "theme": {
+      "primaryColor": "#003366",
+      "secondaryColor": "#e24a4a"
+    },
+    "content": {
+      "aboutTitle": "Professional Plumbing Services",
+      "aboutDescription": "Our team of licensed plumbers brings you comprehensive plumbing solutions. From emergency repairs to new installations, we ensure quality service every time.",
+      "features": {
+        "feature1": "Licensed & Insured",
+        "feature2": "24/7 Emergency Service",
+        "feature3": "Professional Plumbers"
+      }
+    }
   }
 }
