@@ -191,25 +191,42 @@
       "latitude": 33.4067499999999,
       "longitude": -82.0390819
     },
-    "aboutLabel": "Weigle Plumbing Professional Plumbing",
-    "aboutTitle": "Expert Plumbing Solutions",
-    "aboutDescription": "Our team of licensed plumbers brings you comprehensive plumbing solutions. From emergency repairs to new installations, we ensure quality service every time.",
-    "features": {
-      "feature1": "Licensed & Insured",
-      "feature2": "24/7 Emergency Service",
-      "feature3": "Professional Plumbers"
+    "photos": {
+      "main": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=hpJqAPYjWTn9cN-40RqSnw&cb_client=search.gws-prod.gps&w=800&h=500&yaw=307.33688&pitch=0&thumbfov=100",
+      "streetView": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=hpJqAPYjWTn9cN-40RqSnw&cb_client=search.gws-prod.gps&w=1600&h=1000&yaw=307.33688&pitch=0&thumbfov=100",
+      "logo": ""
     },
-    "primaryColor": "#003366",
-    "secondaryColor": "#e24a4a",
-    "rating": 4.5,
-    "reviewCount": 16,
-    "businessStatus": "OPERATIONAL",
-    "workingHours": "",
-    "address": "3133 Richmond Hill Rd, Augusta, GA 30906",
-    "socialMedia": {
-      "facebook": "",
-      "instagram": "",
-      "twitter": ""
+    "reviews": {
+      "rating": 4.5,
+      "count": 16,
+      "link": "https://search.google.com/local/reviews?placeid=ChIJ6US-NNXP-YgRt4S-y0ebQEM&q=plumber,+30901,+Augusta,+GA,+US&authuser=0&hl=en&gl=US",
+      "breakdown": {
+        "total": 16,
+        "fiveStars": 0,
+        "fourStars": 0,
+        "threeStars": 0,
+        "twoStars": 0,
+        "oneStar": 0
+      }
+    },
+    "operationalInfo": {
+      "status": "OPERATIONAL",
+      "hours": {},
+      "serviceOptions": {}
+    },
+    "content": {
+      "aboutLabel": "Weigle Plumbing Professional Plumbing",
+      "aboutTitle": "Expert Plumbing Solutions",
+      "aboutDescription": "Our team of licensed plumbers brings you comprehensive plumbing solutions. From emergency repairs to new installations, we ensure quality service every time.",
+      "features": {
+        "feature1": "Licensed & Insured",
+        "feature2": "24/7 Emergency Service",
+        "feature3": "Professional Plumbers"
+      }
+    },
+    "theme": {
+      "primaryColor": "#003366",
+      "secondaryColor": "#e24a4a"
     }
   },
   "PLUMB3": {
@@ -222,55 +239,98 @@
       "latitude": 33.4961969999999,
       "longitude": -82.123128
     },
-    "aboutLabel": "Chaplin Plumbing & Heating Professional Plumbing",
-    "aboutTitle": "Expert Plumbing Solutions",
-    "aboutDescription": "Our team of licensed plumbers brings you comprehensive plumbing solutions. From emergency repairs to new installations, we ensure quality service every time.",
-    "features": {
-      "feature1": "Licensed & Insured",
-      "feature2": "24/7 Emergency Service",
-      "feature3": "Professional Plumbers"
+    "photos": {
+      "main": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2B_rtscSPKth0bH390Bo4w&cb_client=search.gws-prod.gps&w=800&h=500&yaw=20.864511&pitch=0&thumbfov=100",
+      "streetView": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2B_rtscSPKth0bH390Bo4w&cb_client=search.gws-prod.gps&w=1600&h=1000&yaw=20.864511&pitch=0&thumbfov=100",
+      "logo": ""
     },
-    "primaryColor": "#003366",
-    "secondaryColor": "#e24a4a",
-    "rating": 5,
-    "reviewCount": 18,
-    "businessStatus": "OPERATIONAL",
-    "workingHours": "",
-    "address": "167 Kestwick Dr E, Augusta, GA 30907",
-    "socialMedia": {
-      "facebook": "",
-      "instagram": "",
-      "twitter": ""
+    "reviews": {
+      "rating": 5,
+      "count": 18,
+      "link": "https://search.google.com/local/reviews?placeid=ChIJ4-Q8ToHT-YgRH7FgM9Lj4r8&q=plumber,+30901,+Augusta,+GA,+US&authuser=0&hl=en&gl=US",
+      "breakdown": {
+        "total": 18,
+        "fiveStars": 0,
+        "fourStars": 0,
+        "threeStars": 0,
+        "twoStars": 0,
+        "oneStar": 0
+      }
+    },
+    "operationalInfo": {
+      "status": "OPERATIONAL",
+      "hours": {},
+      "serviceOptions": {}
+    },
+    "content": {
+      "aboutLabel": "Chaplin Plumbing & Heating Professional Plumbing",
+      "aboutTitle": "Expert Plumbing Solutions",
+      "aboutDescription": "Our team of licensed plumbers brings you comprehensive plumbing solutions. From emergency repairs to new installations, we ensure quality service every time.",
+      "features": {
+        "feature1": "Licensed & Insured",
+        "feature2": "24/7 Emergency Service",
+        "feature3": "Professional Plumbers"
+      }
+    },
+    "theme": {
+      "primaryColor": "#003366",
+      "secondaryColor": "#e24a4a"
     }
   },
   "PLUMB4": {
     "business": "Cut Rate Sewer Services",
-    "phone": "(170) 673-34103",
+    "phone": "(706) 733-4103",
     "location": "Augusta, Georgia",
-    "reviewLink": "https://www.google.com/maps/place/Cut+Rate+Sewer+Services/@33.4139254,-82.0109062,13.99z/data=!4m16!1m7!3m6!1s0x88f9ce4f07ab4925:0x40ff5798c11d9d2d!2sCut+Rate+Sewer+Services!8m2!3d33.4139254!4d-82.0109062!16s%2Fg%2F11ckvg1dmb!3m7!1s0x88f9ce4f07ab4925:0x40ff5798c11d9d2d!8m2!3d33.4139254!4d-82.0109062!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJJUmrB0_O-YgRLZ0dwZhX_0A&q=plumber,+30901,+Augusta,+GA,+US&authuser=0&hl=en&gl=US",
     "serviceArea": "Augusta and surrounding areas",
     "coordinates": {
       "latitude": 33.4139254,
       "longitude": -82.0109062
     },
-    "aboutLabel": "Cut Rate Sewer Services Professional Plumbing",
-    "aboutTitle": "Expert Plumbing Solutions",
-    "aboutDescription": "Our team of licensed plumbers brings you comprehensive plumbing solutions. From emergency repairs to new installations, we ensure quality service every time.",
-    "features": {
-      "feature1": "Licensed & Insured",
-      "feature2": "24/7 Emergency Service",
-      "feature3": "Professional Plumbers"
+    "photos": {
+      "main": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ab_ViCuNKYSiwkF_tI5Xbw&cb_client=search.gws-prod.gps&w=800&h=500&yaw=325.33295&pitch=0&thumbfov=100",
+      "streetView": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ab_ViCuNKYSiwkF_tI5Xbw&cb_client=search.gws-prod.gps&w=1600&h=1000&yaw=325.33295&pitch=0&thumbfov=100",
+      "logo": ""
     },
-    "primaryColor": "#003366",
-    "secondaryColor": "#e24a4a",
-    "rating": 4.7,
-    "reviewCount": 14,
-    "businessStatus": "OPERATIONAL",
-    "website": "",
-    "socialMedia": {
-      "facebook": "",
-      "instagram": "",
-      "twitter": ""
+    "reviews": {
+      "rating": 4.7,
+      "count": 14,
+      "link": "https://search.google.com/local/reviews?placeid=ChIJJUmrB0_O-YgRLZ0dwZhX_0A&q=plumber,+30901,+Augusta,+GA,+US&authuser=0&hl=en&gl=US",
+      "breakdown": {
+        "total": 14,
+        "fiveStars": 0,
+        "fourStars": 0,
+        "threeStars": 0,
+        "twoStars": 0,
+        "oneStar": 0
+      }
+    },
+    "operationalInfo": {
+      "status": "OPERATIONAL",
+      "hours": {
+        "Monday": "9AM-6PM",
+        "Tuesday": "9AM-6PM",
+        "Wednesday": "9AM-6PM",
+        "Thursday": "9AM-6PM",
+        "Friday": "9AM-6PM",
+        "Saturday": "Closed",
+        "Sunday": "Closed"
+      },
+      "serviceOptions": {}
+    },
+    "content": {
+      "aboutLabel": "Cut Rate Sewer Services Professional Plumbing",
+      "aboutTitle": "Expert Plumbing Solutions",
+      "aboutDescription": "Our team of licensed plumbers brings you comprehensive plumbing solutions. From emergency repairs to new installations, we ensure quality service every time.",
+      "features": {
+        "feature1": "Licensed & Insured",
+        "feature2": "24/7 Emergency Service",
+        "feature3": "Professional Plumbers"
+      }
+    },
+    "theme": {
+      "primaryColor": "#003366",
+      "secondaryColor": "#e24a4a"
     }
   },
   "PLUMB6": {
