@@ -586,5 +586,83 @@
         "feature3": "Professional Plumbers"
       }
     }
+  },
+  "PLUMB16": {
+    "business": "Lane Plumbing Co",
+    "phone": "(706) 267-7259",
+    "location": "Augusta, Georgia",
+    "reviewLink": "",
+    "serviceArea": "Augusta and surrounding areas",
+    "coordinates": {
+      "latitude": 33.4710384,
+      "longitude": -82.0134121999999
+    },
+    "reviews": {
+      "rating": "0.0",
+      "count": 0,
+      "formattedRating": "0.0 out of 5",
+      "stars": "",
+      "link": "#",
+      "breakdown": {
+        "total": 0,
+        "fiveStars": 0,
+        "fourStars": 0,
+        "threeStars": 0,
+        "twoStars": 0,
+        "oneStar": 0
+      }
+    },
+    "hours": {
+      "Monday": "Open 24 hours",
+      "Tuesday": "Open 24 hours",
+      "Wednesday": "Open 24 hours",
+      "Thursday": "Open 24 hours",
+      "Friday": "8AM-8PM",
+      "Saturday": "Open 24 hours",
+      "Sunday": "Open 24 hours"
+    },
+    "theme": {
+      "primaryColor": "#003366",
+      "secondaryColor": "#e24a4a"
+    }
+  },
+  "PLUMB17": {
+    "business": "Augusta Plumbing Inc",
+    "phone": "(706) 868-8918",
+    "location": "Martinez, Georgia",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJHUE8AFnU-YgRGYXCzNiMElQ&q=*&authuser=0&hl=en&gl=US",
+    "serviceArea": "Martinez and surrounding areas",
+    "coordinates": {
+      "latitude": 33.5006763999999,
+      "longitude": -82.1576566999999
+    },
+    "reviews": {
+      "rating": "2.6",
+      "count": 5,
+      "formattedRating": "2.6 out of 5",
+      "stars": "???",
+      "link": "https://search.google.com/local/reviews?placeid=ChIJHUE8AFnU-YgRGYXCzNiMElQ&q=*&authuser=0&hl=en&gl=US",
+      "breakdown": {
+        "total": 5,
+        "fiveStars": 0,
+        "fourStars": 0,
+        "threeStars": 0,
+        "twoStars": 0,
+        "oneStar": 0
+      }
+    },
+    "hours": {
+      "Monday": "9AM-5PM",
+      "Tuesday": "9AM-5PM",
+      "Wednesday": "9AM-5PM",
+      "Thursday": "9AM-5PM",
+      "Friday": "9AM-5PM",
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    },
+    "theme": {
+      "primaryColor": "#003366",
+      "secondaryColor": "#e24a4a"
+    }
   }
 }
