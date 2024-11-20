@@ -334,96 +334,63 @@
     }
   },
   "PLUMB6": {
-    "business": "All Drain Plumbing Augusta",
-    "phone": "(762) 249-5931",
-    "location": ", ",
+    "business": "Lane Plumbing Co",
+    "phone": "+1 706-267-7259",
+    "location": "Augusta, Georgia",
     "reviewLink": "",
-    "serviceArea": " and surrounding areas",
-    "coordinates": {
-      "latitude": 33.3860406,
-      "longitude": -82.0909175
-    },
-    "aboutLabel": "All Drain Plumbing Augusta Professional Plumbing",
-    "aboutTitle": "Expert Plumbing Solutions",
-    "aboutDescription": "Our team of licensed plumbers brings you comprehensive plumbing solutions. From emergency repairs to new installations, we ensure quality service every time.",
+    "heroImage": "https://lh5.googleusercontent.com/p/AF1QipMj9N-T8qZyyys2nNAxUQOF6QrINRaxlEoF-58J=w800-h500-k-no",
+    "aboutLabel": "Lane Plumbing Co - Your Trusted Local Plumber",
+    "aboutTitle": "Professional Plumbing Services",
+    "aboutDescription": "Lane Plumbing Co is your trusted plumbing partner, serving Augusta and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "photos": "https://lh5.googleusercontent.com/p/AF1QipMj9N-T8qZyyys2nNAxUQOF6QrINRaxlEoF-58J=w800-h500-k-no",
     "features": {
       "feature1": "Licensed & Insured",
       "feature2": "24/7 Emergency Service",
-      "feature3": "Professional Plumbers"
+      "feature3": "Expert Plumbers"
     },
-    "primaryColor": "#003366",
-    "secondaryColor": "#e24a4a",
-    "rating": 5,
-    "reviewCount": 1,
-    "businessStatus": "OPERATIONAL",
-    "workingHours": "",
-    "address": "",
-    "socialMedia": {
-      "facebook": "",
-      "instagram": "",
-      "twitter": ""
+    "coordinates": {
+      "latitude": 33.4710384,
+      "longitude": -82.0134121999999
     }
   },
   "PLUMB7": {
-    "business": "Byrd's Electric & Plumbing Inc",
-    "phone": "(706) 722-6702",
-    "location": "Augusta, Georgia",
-    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJI1KkCoHO-YgRk4KdBK5B05Q&q=plumber,+30901,+Augusta,+GA,+US&authuser=0&hl=en&gl=US",
-    "serviceArea": "Augusta and surrounding areas",
-    "coordinates": {
-      "latitude": 33.4456609,
-      "longitude": -81.9931869999999
-    },
-    "aboutLabel": "Byrd's Electric & Plumbing Inc Professional Plumbing",
-    "aboutTitle": "Expert Plumbing Solutions",
-    "aboutDescription": "Our team of licensed plumbers brings you comprehensive plumbing solutions. From emergency repairs to new installations, we ensure quality service every time.",
+    "business": "Augusta Plumbing Inc",
+    "phone": "+1 706-868-8918",
+    "location": "Martinez, Georgia",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJHUE8AFnU-YgRGYXCzNiMElQ&q=*&authuser=0&hl=en&gl=US",
+    "heroImage": "https://lh5.googleusercontent.com/p/AF1QipOgzqJGgVcqe1gHfsLuoIj2EdzSUaE1M5Z6CmPs=w800-h500-k-no",
+    "aboutLabel": "Augusta Plumbing Inc - Your Trusted Local Plumber",
+    "aboutTitle": "Professional Plumbing Services",
+    "aboutDescription": "Augusta Plumbing Inc is your trusted plumbing partner, serving Martinez and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "photos": "https://lh5.googleusercontent.com/p/AF1QipOgzqJGgVcqe1gHfsLuoIj2EdzSUaE1M5Z6CmPs=w800-h500-k-no",
     "features": {
       "feature1": "Licensed & Insured",
       "feature2": "24/7 Emergency Service",
-      "feature3": "Professional Plumbers"
+      "feature3": "Expert Plumbers"
     },
-    "primaryColor": "#003366",
-    "secondaryColor": "#e24a4a",
-    "rating": 5,
-    "reviewCount": 1,
-    "businessStatus": "OPERATIONAL",
-    "workingHours": "",
-    "address": "2001 Old Savannah Rd, Augusta, GA 30901",
-    "socialMedia": {
-      "facebook": "",
-      "instagram": "",
-      "twitter": ""
+    "coordinates": {
+      "latitude": 33.5006763999999,
+      "longitude": -82.1576566999999
     }
   },
   "PLUMB8": {
-    "business": "Mobley Plumbing and Septic, LLC",
-    "phone": "(706) 699-5534",
-    "location": ", ",
-    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJNy90JMeUQaMRhP8d9I98Q4U&q=plumber,+30901,+Augusta,+GA,+US&authuser=0&hl=en&gl=US",
-    "serviceArea": " and surrounding areas",
-    "coordinates": {
-      "latitude": 33.439793,
-      "longitude": -82.1766813999999
-    },
-    "aboutLabel": "Mobley Plumbing and Septic, LLC Professional Plumbing",
-    "aboutTitle": "Expert Plumbing Solutions",
-    "aboutDescription": "Our team of licensed plumbers brings you comprehensive plumbing solutions. From emergency repairs to new installations, we ensure quality service every time.",
+    "business": "Mahoney plumbing llc",
+    "phone": "+1 706-723-2039",
+    "location": "",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJF88-snvH-4IR6COWCzaeFeQ&q=*&authuser=0&hl=en&gl=US",
+    "heroImage": "https://lh5.googleusercontent.com/p/AF1QipMIak_k4IXUFkWlnh9OxpSJt3T7xXoM_dD5yv73=w800-h500-k-no",
+    "aboutLabel": "Mahoney plumbing llc - Your Trusted Local Plumber",
+    "aboutTitle": "Professional Plumbing Services",
+    "aboutDescription": "Mahoney plumbing llc is your trusted plumbing partner, serving  and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "photos": "https://lh5.googleusercontent.com/p/AF1QipMIak_k4IXUFkWlnh9OxpSJt3T7xXoM_dD5yv73=w800-h500-k-no",
     "features": {
       "feature1": "Licensed & Insured",
       "feature2": "24/7 Emergency Service",
-      "feature3": "Professional Plumbers"
+      "feature3": "Expert Plumbers"
     },
-    "primaryColor": "#003366",
-    "secondaryColor": "#e24a4a",
-    "rating": 5,
-    "reviewCount": 3,
-    "businessStatus": "OPERATIONAL",
-    "workingHours": "{\"Monday\": \"7:30AM-5:30PM\", \"Tuesday\": \"7:30AM-5:30PM\", \"Wednesday\": \"7:30AM-5:30PM\", \"Thursday\": \"7:30AM-5:30PM\", \"Friday\": \"7:30AM-5:30PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
-    "address": "",
-    "socialMedia": {
-      "facebook": "",
-      "instagram": "",
-      "twitter": ""
+    "coordinates": {
+      "latitude": 46.423669,
+      "longitude": -129.9427086
     }
   },
   "PLUMB9": {
@@ -431,11 +398,11 @@
     "phone": "+1 706-860-3271",
     "location": "Augusta, Georgia",
     "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJPYkG7Q3T-YgRC81hd5kltEA&q=*&authuser=0&hl=en&gl=US",
-    "heroImage": "",
+    "heroImage": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9T4iX9h_mPQvmrdMKC-5Kg&cb_client=search.gws-prod.gps&w=800&h=500&yaw=263.1187&pitch=0&thumbfov=100",
     "aboutLabel": "Huttos Plumbing - Your Trusted Local Plumber",
     "aboutTitle": "Professional Plumbing Services",
-    "aboutDescription": "Huttos Plumbing proudly serves Augusta and the surrounding communities including Evans, Georgia, Martinez, Georgia, , , Augusta, Georgia, Augusta, Georgia. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We believe in delivering prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
-    "photos": "",
+    "aboutDescription": "Huttos Plumbing is your trusted plumbing partner, serving Augusta and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "photos": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9T4iX9h_mPQvmrdMKC-5Kg&cb_client=search.gws-prod.gps&w=800&h=500&yaw=263.1187&pitch=0&thumbfov=100",
     "features": {
       "feature1": "Licensed & Insured",
       "feature2": "24/7 Emergency Service",
@@ -444,164 +411,46 @@
     "coordinates": {
       "latitude": 33.5120885,
       "longitude": -82.101666
-    },
-    "serviceAreas": [
-      "Evans, Georgia",
-      "Martinez, Georgia",
-      ", ",
-      "Augusta, Georgia",
-      "Augusta, Georgia",
-      "Augusta, Georgia",
-      "Evans, Georgia",
-      "Augusta, Georgia",
-      "Augusta, Georgia",
-      "Augusta, Georgia",
-      ", ",
-      "Augusta, Georgia",
-      ", ",
-      "Augusta, Georgia",
-      "Augusta, Georgia",
-      ", ",
-      "Belvedere, South Carolina",
-      ", ",
-      ", ",
-      "North Augusta, South Carolina",
-      "Augusta, Georgia",
-      ", ",
-      ", ",
-      "Blythe, Georgia",
-      "Appling, Georgia",
-      ", "
-    ]
+    }
   },
   "PLUMB14": {
-    "business": "Barcenas Reliable Plumbing Pros",
-    "phone": "17624446866",
-    "location": ", ",
-    "fullAddress": "",
-    "serviceArea": {
-      "mainCity": "",
-      "state": "",
-      "radius": 30,
-      "coordinates": {
-        "latitude": 33.587531,
-        "longitude": -81.8150419999999
-      },
-      "cities": [],
-      "description": "Serving  and surrounding areas within 30 miles",
-      "nearbyCities": []
+    "business": "Ellis Plumbing Services LLC,",
+    "phone": "+1 706-691-1009",
+    "location": "Blythe, Georgia",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJca83xQ7Z-YgRjC84tYkI7VI&q=plumber,+30904,+Augusta,+GA,+US&authuser=0&hl=en&gl=US",
+    "heroImage": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Dwvso0edGj9xfjBDG0zq2w&cb_client=search.gws-prod.gps&w=800&h=500&yaw=300.55228&pitch=0&thumbfov=100",
+    "aboutLabel": "Ellis Plumbing Services LLC, - Your Trusted Local Plumber",
+    "aboutTitle": "Professional Plumbing Services",
+    "aboutDescription": "Ellis Plumbing Services LLC, is your trusted plumbing partner, serving Blythe and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "photos": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Dwvso0edGj9xfjBDG0zq2w&cb_client=search.gws-prod.gps&w=800&h=500&yaw=300.55228&pitch=0&thumbfov=100",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Expert Plumbers"
     },
-    "reviews": {
-      "rating": 3,
-      "count": 1,
-      "link": "",
-      "breakdown": {
-        "total": 1,
-        "fiveStars": 0,
-        "fourStars": 0,
-        "threeStars": 0,
-        "twoStars": 0,
-        "oneStar": 0
-      }
-    },
-    "media": {
-      "photos": 0,
-      "mainPhoto": "",
-      "streetView": "",
-      "logo": "https://lh5.googleusercontent.com/-dkEs8gU9_qw/AAAAAAAAAAI/AAAAAAAAAAA/vVKH5iSESPQ/s44-p-k-no-ns-nd/photo.jpg"
-    },
-    "operations": {
-      "status": "OPERATIONAL",
-      "hours": {
-        "Monday": "Open 24 hours",
-        "Tuesday": "Open 24 hours",
-        "Wednesday": "Open 24 hours",
-        "Thursday": "Open 24 hours",
-        "Friday": "Open 24 hours",
-        "Saturday": "Open 24 hours",
-        "Sunday": "7AM-12AM"
-      },
-      "about": {
-        "Payments": {
-          "Cash-only": true
-        }
-      }
-    },
-    "theme": {
-      "primaryColor": "#003366",
-      "secondaryColor": "#e24a4a"
-    },
-    "content": {
-      "aboutTitle": "Professional Plumbing Services",
-      "aboutDescription": "Our team of licensed plumbers brings you comprehensive plumbing solutions. From emergency repairs to new installations, we ensure quality service every time.",
-      "features": {
-        "feature1": "Licensed & Insured",
-        "feature2": "24/7 Emergency Service",
-        "feature3": "Professional Plumbers"
-      }
+    "coordinates": {
+      "latitude": 33.3119033,
+      "longitude": -82.1967040999999
     }
   },
   "PLUMB15": {
-    "business": "Garden City Plumbers",
-    "phone": "17062671169",
+    "business": "Bestway Septic Tank",
+    "phone": "+1 706-830-4173",
     "location": "Augusta, Georgia",
-    "fullAddress": "2703 Springwood Dr, Augusta, GA 30909",
-    "serviceArea": {
-      "mainCity": "Augusta",
-      "state": "Georgia",
-      "radius": 30,
-      "coordinates": {
-        "latitude": 33.5178647,
-        "longitude": -82.0145136
-      },
-      "cities": [],
-      "description": "Serving Augusta and surrounding areas within 30 miles",
-      "nearbyCities": []
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJVVVVVRXP-YgRPZHGTdKvvc4&q=plumber,+30904,+Augusta,+GA,+US&authuser=0&hl=en&gl=US",
+    "heroImage": "https://lh5.googleusercontent.com/p/AF1QipMK4j1dHZVWGdUdfKBc0RfVhmG-dRVhuJVFwDLE=w800-h500-k-no",
+    "aboutLabel": "Bestway Septic Tank - Your Trusted Local Plumber",
+    "aboutTitle": "Professional Plumbing Services",
+    "aboutDescription": "Bestway Septic Tank is your trusted plumbing partner, serving Augusta and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "photos": "https://lh5.googleusercontent.com/p/AF1QipMK4j1dHZVWGdUdfKBc0RfVhmG-dRVhuJVFwDLE=w800-h500-k-no",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Expert Plumbers"
     },
-    "reviews": {
-      "rating": 5,
-      "count": 3,
-      "link": "https://search.google.com/local/reviews?placeid=ChIJ1xs1Ez7N-YgR30N3m7cSz9w&q=plumber,+30903,+Augusta,+GA,+US&authuser=0&hl=en&gl=US",
-      "breakdown": {
-        "total": 3,
-        "fiveStars": 0,
-        "fourStars": 0,
-        "threeStars": 0,
-        "twoStars": 0,
-        "oneStar": 0
-      }
-    },
-    "media": {
-      "photos": 2,
-      "mainPhoto": "https://lh5.googleusercontent.com/p/AF1QipOtYfKj4D9idN5Mf19S66C-FE9yq3cch1Htal4r=w800-h500-k-no",
-      "streetView": "https://lh5.googleusercontent.com/p/AF1QipOtYfKj4D9idN5Mf19S66C-FE9yq3cch1Htal4r=w1600-h1000-k-no",
-      "logo": "https://lh3.googleusercontent.com/-kSGPNO4zUXo/AAAAAAAAAAI/AAAAAAAAAAA/_ToTx9HBkaY/s44-p-k-no-ns-nd/photo.jpg"
-    },
-    "operations": {
-      "status": "OPERATIONAL",
-      "hours": {
-        "Monday": "7AM-7PM",
-        "Tuesday": "7AM-7PM",
-        "Wednesday": "7AM-7PM",
-        "Thursday": "7AM-7PM",
-        "Friday": "7AM-7PM",
-        "Saturday": "7AM-7PM",
-        "Sunday": "7AM-7PM"
-      },
-      "about": {}
-    },
-    "theme": {
-      "primaryColor": "#003366",
-      "secondaryColor": "#e24a4a"
-    },
-    "content": {
-      "aboutTitle": "Professional Plumbing Services",
-      "aboutDescription": "Our team of licensed plumbers brings you comprehensive plumbing solutions. From emergency repairs to new installations, we ensure quality service every time.",
-      "features": {
-        "feature1": "Licensed & Insured",
-        "feature2": "24/7 Emergency Service",
-        "feature3": "Professional Plumbers"
-      }
+    "coordinates": {
+      "latitude": 33.3804249999999,
+      "longitude": -81.9752994999999
     }
   },
   "PLUMB16": {
@@ -609,11 +458,11 @@
     "phone": "+1 706-908-8860",
     "location": "",
     "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJ82rD80bP-YgRs9tB6Z-6rPU&q=*&authuser=0&hl=en&gl=US",
-    "heroImage": "",
-    "aboutLabel": "Southern boy's \"DO IT ALL\" LLC Plumbing Services",
-    "aboutTitle": "Professional Plumbing Solutions",
-    "aboutDescription": "Our team of certified plumbers provides comprehensive plumbing solutions. With years of experience and commitment to quality, we ensure your plumbing needs are met efficiently.",
-    "photos": "",
+    "heroImage": "https://lh5.googleusercontent.com/p/AF1QipOqaBkJ6-ZSE6l3Kxs6F1Ky1BlNEfl9_eRJ76FZ=w800-h500-k-no",
+    "aboutLabel": "Southern boy's \"DO IT ALL\" LLC - Your Trusted Local Plumber",
+    "aboutTitle": "Professional Plumbing Services",
+    "aboutDescription": "Southern boy's \"DO IT ALL\" LLC is your trusted plumbing partner, serving  and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "photos": "https://lh5.googleusercontent.com/p/AF1QipOqaBkJ6-ZSE6l3Kxs6F1Ky1BlNEfl9_eRJ76FZ=w800-h500-k-no",
     "features": {
       "feature1": "Licensed & Insured",
       "feature2": "24/7 Emergency Service",
@@ -629,11 +478,11 @@
     "phone": "+1 706-251-5361",
     "location": "Augusta, Georgia",
     "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJBy_jYZCyYqgR5rl4OcwmD9c&q=*&authuser=0&hl=en&gl=US",
-    "heroImage": "",
-    "aboutLabel": "Sherrills Construction LLC Plumbing Services",
-    "aboutTitle": "Professional Plumbing Solutions",
-    "aboutDescription": "Our team of certified plumbers provides comprehensive plumbing solutions. With years of experience and commitment to quality, we ensure your plumbing needs are met efficiently.",
-    "photos": "",
+    "heroImage": "https://lh5.googleusercontent.com/p/AF1QipPJ4K8Y0Wb4yTRn73IW--00bXM9qLJpWca21pgg=w800-h500-k-no",
+    "aboutLabel": "Sherrills Construction LLC - Your Trusted Local Plumber",
+    "aboutTitle": "Professional Plumbing Services",
+    "aboutDescription": "Sherrills Construction LLC is your trusted plumbing partner, serving Augusta and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "photos": "https://lh5.googleusercontent.com/p/AF1QipPJ4K8Y0Wb4yTRn73IW--00bXM9qLJpWca21pgg=w800-h500-k-no",
     "features": {
       "feature1": "Licensed & Insured",
       "feature2": "24/7 Emergency Service",
@@ -849,11 +698,11 @@
     "phone": "+1 706-755-3885",
     "location": "Appling, Georgia",
     "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJqyob-8XT-YgRczc2-BCBErc&q=plumber,+30905,+Augusta,+GA,+US&authuser=0&hl=en&gl=US",
-    "heroImage": "",
-    "aboutLabel": "Sanders Plumbing Service Inc. Plumbing Services",
-    "aboutTitle": "Professional Plumbing Solutions",
-    "aboutDescription": "Our team of certified plumbers provides comprehensive plumbing solutions. With years of experience and commitment to quality, we ensure your plumbing needs are met efficiently.",
-    "photos": "",
+    "heroImage": "https://lh5.googleusercontent.com/p/AF1QipN3MdNDp5dDGHByYPSwdJtYq5xNOEyu6nnULjzc=w800-h500-k-no",
+    "aboutLabel": "Sanders Plumbing Service Inc. - Your Trusted Local Plumber",
+    "aboutTitle": "Professional Plumbing Services",
+    "aboutDescription": "Sanders Plumbing Service Inc. is your trusted plumbing partner, serving Appling and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "photos": "https://lh5.googleusercontent.com/p/AF1QipN3MdNDp5dDGHByYPSwdJtYq5xNOEyu6nnULjzc=w800-h500-k-no",
     "features": {
       "feature1": "Licensed & Insured",
       "feature2": "24/7 Emergency Service",
@@ -869,11 +718,11 @@
     "phone": "+1 706-210-8191",
     "location": "Evans, Georgia",
     "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJOS88-o7U-YgR6FKkqK95Qhg&q=*&authuser=0&hl=en&gl=US",
-    "heroImage": "",
-    "aboutLabel": "Integrity Plumbing Plumbing Services",
-    "aboutTitle": "Professional Plumbing Solutions",
-    "aboutDescription": "Our team of certified plumbers provides comprehensive plumbing solutions. With years of experience and commitment to quality, we ensure your plumbing needs are met efficiently.",
-    "photos": "",
+    "heroImage": "https://lh5.googleusercontent.com/p/AF1QipPOYK2R_QR3Kv6u31GsYg9nRfWeZ599-7uh7HSc=w800-h500-k-no",
+    "aboutLabel": "Integrity Plumbing - Your Trusted Local Plumber",
+    "aboutTitle": "Professional Plumbing Services",
+    "aboutDescription": "Integrity Plumbing is your trusted plumbing partner, serving Evans and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "photos": "https://lh5.googleusercontent.com/p/AF1QipPOYK2R_QR3Kv6u31GsYg9nRfWeZ599-7uh7HSc=w800-h500-k-no",
     "features": {
       "feature1": "Licensed & Insured",
       "feature2": "24/7 Emergency Service",
@@ -1045,6 +894,106 @@
     "coordinates": {
       "latitude": 32.665036,
       "longitude": -84.95871
+    }
+  },
+  "PLUMB10": {
+    "business": "Gold Heating and Cooling Services",
+    "phone": "+1 706-493-6729",
+    "location": "Augusta, Georgia",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJNZDMr1rM-YgRcdyOBuC7HBw&q=*&authuser=0&hl=en&gl=US",
+    "heroImage": "https://lh5.googleusercontent.com/p/AF1QipNzfZL6NSjPDBh8IWZ4XvlDVH2M-geQqX5p6OqW=w800-h500-k-no",
+    "aboutLabel": "Gold Heating and Cooling Services - Your Trusted Local Plumber",
+    "aboutTitle": "Professional Plumbing Services",
+    "aboutDescription": "Gold Heating and Cooling Services is your trusted plumbing partner, serving Augusta and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "photos": "https://lh5.googleusercontent.com/p/AF1QipNzfZL6NSjPDBh8IWZ4XvlDVH2M-geQqX5p6OqW=w800-h500-k-no",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Expert Plumbers"
+    },
+    "coordinates": {
+      "latitude": 33.481924,
+      "longitude": -81.9850792
+    }
+  },
+  "PLUMB11": {
+    "business": "Cowboy & JG Maintenance",
+    "phone": "+1 706-830-0092",
+    "location": "",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJbyBiX7vF-YgRHudlZpg5uWQ&q=*&authuser=0&hl=en&gl=US",
+    "heroImage": "https://lh5.googleusercontent.com/p/AF1QipNYgVLIKCOy1CYTU0YrQURm0qCl8EBIjyCuFBrD=w800-h500-k-no",
+    "aboutLabel": "Cowboy & JG Maintenance - Your Trusted Local Plumber",
+    "aboutTitle": "Professional Plumbing Services",
+    "aboutDescription": "Cowboy & JG Maintenance is your trusted plumbing partner, serving  and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "photos": "https://lh5.googleusercontent.com/p/AF1QipNYgVLIKCOy1CYTU0YrQURm0qCl8EBIjyCuFBrD=w800-h500-k-no",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Expert Plumbers"
+    },
+    "coordinates": {
+      "latitude": 33.388494,
+      "longitude": -82.1749708999999
+    }
+  },
+  "PLUMB12": {
+    "business": "Corley's Septic and Sewer",
+    "phone": "+1 706-833-0298",
+    "location": "",
+    "reviewLink": "",
+    "heroImage": "https://lh5.googleusercontent.com/p/AF1QipOLmsQ2IlcrxEJimAvt8ULwrGTuFWBep-s_zcoI=w800-h500-k-no",
+    "aboutLabel": "Corley's Septic and Sewer - Your Trusted Local Plumber",
+    "aboutTitle": "Professional Plumbing Services",
+    "aboutDescription": "Corley's Septic and Sewer is your trusted plumbing partner, serving  and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "photos": "https://lh5.googleusercontent.com/p/AF1QipOLmsQ2IlcrxEJimAvt8ULwrGTuFWBep-s_zcoI=w800-h500-k-no",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Expert Plumbers"
+    },
+    "coordinates": {
+      "latitude": 33.4639044,
+      "longitude": -82.1355909999999
+    }
+  },
+  "PLUMB13": {
+    "business": "Caputo Plumbing",
+    "phone": "+1 706-814-7814",
+    "location": "",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJyYyQ3zijYgkRCaLhKlQ62fU&q=plumber,+30904,+Augusta,+GA,+US&authuser=0&hl=en&gl=US",
+    "heroImage": "https://lh5.googleusercontent.com/p/AF1QipOGfPxLGK7plfkmEXmRmqrXSSYeyXVjXG7maA3q=w800-h500-k-no",
+    "aboutLabel": "Caputo Plumbing - Your Trusted Local Plumber",
+    "aboutTitle": "Professional Plumbing Services",
+    "aboutDescription": "Caputo Plumbing is your trusted plumbing partner, serving  and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "photos": "https://lh5.googleusercontent.com/p/AF1QipOGfPxLGK7plfkmEXmRmqrXSSYeyXVjXG7maA3q=w800-h500-k-no",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Expert Plumbers"
+    },
+    "coordinates": {
+      "latitude": 33.3930705,
+      "longitude": -82.0909175
+    }
+  },
+  "PLUMB20": {
+    "business": "ALL ASPECTS HANDYMAN SERVICES OF AUGUSTA INC 3617 Elliott Blvd Augusta ga 30906",
+    "phone": "",
+    "location": "",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJTYPxPo_R-YgR6-U8Md-A__M&q=*&authuser=0&hl=en&gl=US",
+    "heroImage": "https://lh5.googleusercontent.com/p/AF1QipPgy4cwTw3eZaGp1Z4oby2FQ5KNlDnhBRdEcYn2=w800-h500-k-no",
+    "aboutLabel": "ALL ASPECTS HANDYMAN SERVICES OF AUGUSTA INC 3617 Elliott Blvd Augusta ga 30906 - Your Trusted Local Plumber",
+    "aboutTitle": "Professional Plumbing Services",
+    "aboutDescription": "ALL ASPECTS HANDYMAN SERVICES OF AUGUSTA INC 3617 Elliott Blvd Augusta ga 30906 is your trusted plumbing partner, serving  and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "photos": "https://lh5.googleusercontent.com/p/AF1QipPgy4cwTw3eZaGp1Z4oby2FQ5KNlDnhBRdEcYn2=w800-h500-k-no",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Expert Plumbers"
+    },
+    "coordinates": {
+      "latitude": 33.3860406,
+      "longitude": -82.0909175
     }
   }
 }
