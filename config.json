@@ -158,5 +158,25 @@
       "latitude": 32.1033486,
       "longitude": -81.2261291
     }
+  },
+  "PLUMB77": {
+    "business": "PlumbBest Plumbing",
+    "phone": "+1 912-655-3056",
+    "location": "",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJy_WgHrF1-4gRDPaoDmXGRfs&q=plumber,+31403,+Savannah,+GA,+US&authuser=0&hl=en&gl=US",
+    "heroImage": "https://lh5.googleusercontent.com/p/AF1QipPca-eolwcoPv_qxcko5Qze-nwNrqneqjQqEo4s=w800-h500-k-no",
+    "aboutLabel": "PlumbBest Plumbing - Your Trusted Local Plumber",
+    "aboutTitle": "Professional Plumbing Services",
+    "aboutDescription": "PlumbBest Plumbing is your trusted plumbing partner, serving and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "photos": "https://lh5.googleusercontent.com/p/AF1QipPca-eolwcoPv_qxcko5Qze-nwNrqneqjQqEo4s=w800-h500-k-no",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Expert Plumbers"
+    },
+    "coordinates": {
+      "latitude": 32.0065678,
+      "longitude": -81.1047617999999
+    }
   }
 }
