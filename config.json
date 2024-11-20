@@ -678,5 +678,65 @@
       "latitude": 36.0313103999999,
       "longitude": -87.205396
     }
+  },
+  "PLUMB159": {
+    "business": "Devolt Electric",
+    "phone": "+1 865-438-7200",
+    "location": "",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJlzt-VH8vXIgR-N_L2WZ3bmQ&q=plumber,+37922,+Knoxville,+TN,+US&authuser=0&hl=en&gl=US",
+    "heroImage": "https://lh5.googleusercontent.com/p/AF1QipPTp1UdNMcrzVVxDo_GfNtI5uQ05tOAuMLxOU6B=w800-h500-k-no",
+    "aboutLabel": "Devolt Electric - Your Trusted Local Plumber",
+    "aboutTitle": "Professional Plumbing Services",
+    "aboutDescription": "Devolt Electric is your trusted plumbing partner, serving and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "photos": "https://lh5.googleusercontent.com/p/AF1QipPTp1UdNMcrzVVxDo_GfNtI5uQ05tOAuMLxOU6B=w800-h500-k-no",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Expert Plumbers"
+    },
+    "coordinates": {
+      "latitude": 35.881161,
+      "longitude": -83.850701
+    }
+  },
+  "PLUMB160": {
+    "business": "Fitzgerald???s Plumbing Repair",
+    "phone": "+1 423-309-7515",
+    "location": "",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJhwTiTwyrkK8RVrQc8GvVSyU&q=plumber,+37419,+Chattanooga,+TN,+US&authuser=0&hl=en&gl=US",
+    "heroImage": "https://lh5.googleusercontent.com/p/AF1QipOVt9jaqB6OJMcFsvQV3bs6lHdmbKSVzNMjUtQ5=w800-h500-k-no",
+    "aboutLabel": "Fitzgerald???s Plumbing Repair - Your Trusted Local Plumber",
+    "aboutTitle": "Professional Plumbing Services",
+    "aboutDescription": "Fitzgerald???s Plumbing Repair is your trusted plumbing partner, serving and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "photos": "https://lh5.googleusercontent.com/p/AF1QipOVt9jaqB6OJMcFsvQV3bs6lHdmbKSVzNMjUtQ5=w800-h500-k-no",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Expert Plumbers"
+    },
+    "coordinates": {
+      "latitude": 35.306252,
+      "longitude": -84.926959
+    }
+  },
+  "PLUMB161": {
+    "business": "Just-In-Time Services",
+    "phone": "+1 865-318-6422",
+    "location": "",
+    "reviewLink": "",
+    "heroImage": "https://lh5.googleusercontent.com/p/AF1QipMRSo61GkI-6RtOCjuYbP2B1l4L8klSn648XwDo=w800-h500-k-no",
+    "aboutLabel": "Just-In-Time Services - Your Trusted Local Plumber",
+    "aboutTitle": "Professional Plumbing Services",
+    "aboutDescription": "Just-In-Time Services is your trusted plumbing partner, serving and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "photos": "https://lh5.googleusercontent.com/p/AF1QipMRSo61GkI-6RtOCjuYbP2B1l4L8klSn648XwDo=w800-h500-k-no",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Expert Plumbers"
+    },
+    "coordinates": {
+      "latitude": 36.0058031,
+      "longitude": -83.998094
+    }
   }
 }
