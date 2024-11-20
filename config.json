@@ -1026,5 +1026,25 @@
       "latitude": 32.4899993999999,
       "longitude": -85.0391576
     }
+  },
+  "PLUMB118": {
+    "business": "Kelly C. Williams Plumbing, Inc.",
+    "phone": "+1 706-322-2159",
+    "location": "Fortson, Georgia",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJkcb1yd-0jIgRRzV2S_ksF8I&q=plumber,+31914,+Columbus,+GA,+US&authuser=0&hl=en&gl=US",
+    "heroImage": "https://lh5.googleusercontent.com/p/AF1QipPbjCOePRcRGMf8vg6-soPUGehWs8X3Hy4ui_Du=w800-h500-k-no",
+    "aboutLabel": "Kelly C. Williams Plumbing, Inc. - Your Trusted Local Plumber",
+    "aboutTitle": "Professional Plumbing Services",
+    "aboutDescription": "Kelly C. Williams Plumbing, Inc. is your trusted plumbing partner, serving Fortson and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "photos": "https://lh5.googleusercontent.com/p/AF1QipPbjCOePRcRGMf8vg6-soPUGehWs8X3Hy4ui_Du=w800-h500-k-no",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Expert Plumbers"
+    },
+    "coordinates": {
+      "latitude": 32.665036,
+      "longitude": -84.95871
+    }
   }
 }
