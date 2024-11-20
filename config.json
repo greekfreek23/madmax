@@ -238,5 +238,45 @@
       "latitude": 32.3824259999999,
       "longitude": -83.6004844
     }
+  },
+  "PLUMB105": {
+    "business": "South Georgia plumbing",
+    "phone": "+1 706-681-8162",
+    "location": "",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJs3vlSaK8L0MR6PgmbjyPUFM&q=*&authuser=0&hl=en&gl=US",
+    "heroImage": "https://lh5.googleusercontent.com/p/AF1QipOJV1C0wWT35oX9rnBXDycXwAeb0w8U8h4dQ8g0=w800-h500-k-no",
+    "aboutLabel": "South Georgia plumbing - Your Trusted Local Plumber",
+    "aboutTitle": "Professional Plumbing Services",
+    "aboutDescription": "South Georgia plumbing is your trusted plumbing partner, serving and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "photos": "https://lh5.googleusercontent.com/p/AF1QipOJV1C0wWT35oX9rnBXDycXwAeb0w8U8h4dQ8g0=w800-h500-k-no",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Expert Plumbers"
+    },
+    "coordinates": {
+      "latitude": 32.4862169999999,
+      "longitude": -84.8808304
+    }
+  },
+  "PLUMB106": {
+    "business": "Precision Plumbing, LLC",
+    "phone": "+1 706-681-3889",
+    "location": "",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJ0fqaQyUIpE0RxAe-aneAYYw&q=*&authuser=0&hl=en&gl=US",
+    "heroImage": "https://lh5.googleusercontent.com/p/AF1QipNBg_waFWmJeGt3UIwAjwkHA9wwq5uC3hevtrzI=w800-h500-k-no",
+    "aboutLabel": "Precision Plumbing, LLC - Your Trusted Local Plumber",
+    "aboutTitle": "Professional Plumbing Services",
+    "aboutDescription": "Precision Plumbing, LLC is your trusted plumbing partner, serving and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "photos": "https://lh5.googleusercontent.com/p/AF1QipNBg_waFWmJeGt3UIwAjwkHA9wwq5uC3hevtrzI=w800-h500-k-no",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Expert Plumbers"
+    },
+    "coordinates": {
+      "latitude": 32.7109139999999,
+      "longitude": -84.9439804
+    }
   }
 }
