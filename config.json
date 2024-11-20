@@ -138,5 +138,25 @@
       "latitude": 0,
       "longitude": 0
     }
+  },
+  "PLUMB75": {
+    "business": "Gary McBride Plumbing Services Inc",
+    "phone": "+1 912-748-8000",
+    "location": "",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJkWjD4L-m-4gRckkbAfjuwu0&q=plumber,+31402,+Savannah,+GA,+US&authuser=0&hl=en&gl=US",
+    "heroImage": "https://lh5.googleusercontent.com/p/AF1QipO4Arr_VBLOhTnP1prbVLgCFN2hUaySi4DZUXWN=w800-h500-k-no",
+    "aboutLabel": "Gary McBride Plumbing Services Inc - Your Trusted Local Plumber",
+    "aboutTitle": "Professional Plumbing Services",
+    "aboutDescription": "Gary McBride Plumbing Services Inc is your trusted plumbing partner, serving and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "photos": "https://lh5.googleusercontent.com/p/AF1QipO4Arr_VBLOhTnP1prbVLgCFN2hUaySi4DZUXWN=w800-h500-k-no",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Expert Plumbers"
+    },
+    "coordinates": {
+      "latitude": 32.1033486,
+      "longitude": -81.2261291
+    }
   }
 }
