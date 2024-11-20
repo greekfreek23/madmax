@@ -427,35 +427,52 @@
     }
   },
   "PLUMB9": {
-    "business": "Liberty Plumbing of Augusta",
-    "phone": "(762) 257-7102",
-    "location": "Martinez, Georgia",
-    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJy7EuBHzT-YgRUbvU64FoayQ&q=plumber,+30901,+Augusta,+GA,+US&authuser=0&hl=en&gl=US",
-    "serviceArea": "Martinez and surrounding areas",
-    "coordinates": {
-      "latitude": 33.5074432,
-      "longitude": -82.1228156
-    },
-    "aboutLabel": "Liberty Plumbing of Augusta Professional Plumbing",
-    "aboutTitle": "Expert Plumbing Solutions",
-    "aboutDescription": "Our team of licensed plumbers brings you comprehensive plumbing solutions. From emergency repairs to new installations, we ensure quality service every time.",
+    "business": "Huttos Plumbing",
+    "phone": "+1 706-860-3271",
+    "location": "Augusta, Georgia",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJPYkG7Q3T-YgRC81hd5kltEA&q=*&authuser=0&hl=en&gl=US",
+    "heroImage": "",
+    "aboutLabel": "Huttos Plumbing - Your Trusted Local Plumber",
+    "aboutTitle": "Professional Plumbing Services",
+    "aboutDescription": "Huttos Plumbing proudly serves Augusta and the surrounding communities including Evans, Georgia, Martinez, Georgia, , , Augusta, Georgia, Augusta, Georgia. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We believe in delivering prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "photos": "",
     "features": {
       "feature1": "Licensed & Insured",
       "feature2": "24/7 Emergency Service",
-      "feature3": "Professional Plumbers"
+      "feature3": "Expert Plumbers"
     },
-    "primaryColor": "#003366",
-    "secondaryColor": "#e24a4a",
-    "rating": 5,
-    "reviewCount": 6,
-    "businessStatus": "OPERATIONAL",
-    "workingHours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
-    "address": "4232 Columbia Rd, Martinez, GA 30907",
-    "socialMedia": {
-      "facebook": "",
-      "instagram": "",
-      "twitter": ""
-    }
+    "coordinates": {
+      "latitude": 33.5120885,
+      "longitude": -82.101666
+    },
+    "serviceAreas": [
+      "Evans, Georgia",
+      "Martinez, Georgia",
+      ", ",
+      "Augusta, Georgia",
+      "Augusta, Georgia",
+      "Augusta, Georgia",
+      "Evans, Georgia",
+      "Augusta, Georgia",
+      "Augusta, Georgia",
+      "Augusta, Georgia",
+      ", ",
+      "Augusta, Georgia",
+      ", ",
+      "Augusta, Georgia",
+      "Augusta, Georgia",
+      ", ",
+      "Belvedere, South Carolina",
+      ", ",
+      ", ",
+      "North Augusta, South Carolina",
+      "Augusta, Georgia",
+      ", ",
+      ", ",
+      "Blythe, Georgia",
+      "Appling, Georgia",
+      ", "
+    ]
   },
   "PLUMB14": {
     "business": "Barcenas Reliable Plumbing Pros",
