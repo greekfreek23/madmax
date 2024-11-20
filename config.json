@@ -986,5 +986,25 @@
       "latitude": 32.4165551,
       "longitude": -84.9454803
     }
+  },
+  "PLUMB116": {
+    "business": "Healthy Plumbing",
+    "phone": "+1 706-366-4057",
+    "location": "Cataula, Georgia",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJ8QqlRIkyGEURos2WYFD02Gk&q=plumber,+31914,+Columbus,+GA,+US&authuser=0&hl=en&gl=US",
+    "heroImage": "https://lh5.googleusercontent.com/p/AF1QipPmOrh3BRIh-DUPBM1ODSRe6nTPjmCyZvDu46r_=w800-h500-k-no",
+    "aboutLabel": "Healthy Plumbing - Your Trusted Local Plumber",
+    "aboutTitle": "Professional Plumbing Services",
+    "aboutDescription": "Healthy Plumbing is your trusted plumbing partner, serving Cataula and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "photos": "https://lh5.googleusercontent.com/p/AF1QipPmOrh3BRIh-DUPBM1ODSRe6nTPjmCyZvDu46r_=w800-h500-k-no",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Expert Plumbers"
+    },
+    "coordinates": {
+      "latitude": 32.6936618999999,
+      "longitude": -84.9728548
+    }
   }
 }
