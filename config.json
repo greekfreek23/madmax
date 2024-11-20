@@ -28,5 +28,25 @@
       "instagram": "instagram",
       "twitter": "twitter"
     }
+  },
+  "PLUMB19": {
+    "business": "Integrity Plumbing",
+    "phone": "+1 706-210-8191",
+    "location": "Evans, Georgia",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJOS88-o7U-YgR6FKkqK95Qhg&q=*&authuser=0&hl=en&gl=US",
+    "heroImage": "https://lh5.googleusercontent.com/p/AF1QipPOYK2R_QR3Kv6u31GsYg9nRfWeZ599-7uh7HSc=w800-h500-k-no",
+    "aboutLabel": "Integrity Plumbing - Your Trusted Local Plumber",
+    "aboutTitle": "Professional Plumbing Services",
+    "aboutDescription": "Integrity Plumbing is your trusted plumbing partner, serving Evans and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "photos": "https://lh5.googleusercontent.com/p/AF1QipPOYK2R_QR3Kv6u31GsYg9nRfWeZ599-7uh7HSc=w800-h500-k-no",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Expert Plumbers"
+    },
+    "coordinates": {
+      "latitude": 33.5104458,
+      "longitude": -82.1421041999999
+    }
   }
 }
