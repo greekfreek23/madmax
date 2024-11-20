@@ -118,5 +118,25 @@
       "latitude": 33.4911337,
       "longitude": -81.9229704999999
     }
+  },
+  "PLUMB370": {
+    "business": "Joe's Plumbing & Repair LLC",
+    "phone": "+1 423-552-4434",
+    "location": "",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJHzBqXp9oUIgRcZzoJGUxmjQ&q=plumber,+37621,+Bristol,+TN,+US&authuser=0&hl=en&gl=US",
+    "heroImage": "https://lh5.googleusercontent.com/p/AF1QipNDylWz0OB2iqaJHGnV1N0iFOoSdZMuCzdhTsI0=w800-h500-k-no",
+    "aboutLabel": "Joe's Plumbing & Repair LLC - Your Trusted Local Plumber",
+    "aboutTitle": "Professional Plumbing Services",
+    "aboutDescription": "Joe's Plumbing & Repair LLC is your trusted plumbing partner, serving and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "photos": "https://lh5.googleusercontent.com/p/AF1QipNDylWz0OB2iqaJHGnV1N0iFOoSdZMuCzdhTsI0=w800-h500-k-no",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Expert Plumbers"
+    },
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    }
   }
 }
