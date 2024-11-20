@@ -1015,5 +1015,385 @@
       "latitude": 33.5352251,
       "longitude": -81.9443752
     }
+  },
+  "PLUMB34": {
+    "business": "Davis and Tice Plumbing Company",
+    "phone": "+1 478-742-0105",
+    "location": "Macon, Georgia",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJSwf9UXdU8YgRGrDXUguKFNA&q=plumber,+31201,+Macon,+GA,+US&authuser=0&hl=en&gl=US",
+    "heroImage": "https://lh5.googleusercontent.com/p/AF1QipOmSYMA-9JfoxFlXjbpZrbeF7eHz96zei5EtJg4=w800-h500-k-no",
+    "aboutLabel": "Davis and Tice Plumbing Company - Your Trusted Local Plumber",
+    "aboutTitle": "Professional Plumbing Services",
+    "aboutDescription": "Davis and Tice Plumbing Company is your trusted plumbing partner, serving Macon and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "photos": "https://lh5.googleusercontent.com/p/AF1QipOmSYMA-9JfoxFlXjbpZrbeF7eHz96zei5EtJg4=w800-h500-k-no",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Expert Plumbers"
+    },
+    "coordinates": {
+      "latitude": 32.8562052,
+      "longitude": -83.5056249
+    }
+  },
+  "PLUMB35": {
+    "business": "Donnelly's PEACH Services",
+    "phone": "+1 478-755-1792",
+    "location": "Macon, Georgia",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJPRtSVcb884gRg-5ZdsyOmwY&q=plumber,+31202,+Macon,+GA,+US&authuser=0&hl=en&gl=US",
+    "heroImage": "https://lh5.googleusercontent.com/p/AF1QipNtr_hfQF6QR62FnYQldimGzOPPpN4vM9u-rhAP=w800-h500-k-no",
+    "aboutLabel": "Donnelly's PEACH Services - Your Trusted Local Plumber",
+    "aboutTitle": "Professional Plumbing Services",
+    "aboutDescription": "Donnelly's PEACH Services is your trusted plumbing partner, serving Macon and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "photos": "https://lh5.googleusercontent.com/p/AF1QipNtr_hfQF6QR62FnYQldimGzOPPpN4vM9u-rhAP=w800-h500-k-no",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Expert Plumbers"
+    },
+    "coordinates": {
+      "latitude": 32.8468411,
+      "longitude": -83.6692267
+    }
+  },
+  "PLUMB36": {
+    "business": "Alliance Plumbing",
+    "phone": "+1 478-449-1350",
+    "location": "",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJwWcMyYfEr2kRFioeHlAisQI&q=plumber,+31202,+Macon,+GA,+US&authuser=0&hl=en&gl=US",
+    "heroImage": "https://lh5.googleusercontent.com/p/AF1QipM3tA5zu6BTUDh-mO9vBMmQ9LpPjkyb2CR9zl1W=w800-h500-k-no",
+    "aboutLabel": "Alliance Plumbing - Your Trusted Local Plumber",
+    "aboutTitle": "Professional Plumbing Services",
+    "aboutDescription": "Alliance Plumbing is your trusted plumbing partner, serving  and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "photos": "https://lh5.googleusercontent.com/p/AF1QipM3tA5zu6BTUDh-mO9vBMmQ9LpPjkyb2CR9zl1W=w800-h500-k-no",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Expert Plumbers"
+    },
+    "coordinates": {
+      "latitude": 32.593466,
+      "longitude": -83.6619675
+    }
+  },
+  "PLUMB37": {
+    "business": "Marlers Plumbing Services",
+    "phone": "+1 478-447-0026",
+    "location": "",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJrc5CLkkA9IgRp4NoN9C5Gxo&q=*&authuser=0&hl=en&gl=US",
+    "heroImage": "https://lh5.googleusercontent.com/p/AF1QipNRRN_vxysTAFruMJo6qDflPydmxGPiVZZM8bsi=w800-h500-k-no",
+    "aboutLabel": "Marlers Plumbing Services - Your Trusted Local Plumber",
+    "aboutTitle": "Professional Plumbing Services",
+    "aboutDescription": "Marlers Plumbing Services is your trusted plumbing partner, serving  and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "photos": "https://lh5.googleusercontent.com/p/AF1QipNRRN_vxysTAFruMJo6qDflPydmxGPiVZZM8bsi=w800-h500-k-no",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Expert Plumbers"
+    },
+    "coordinates": {
+      "latitude": 32.827416,
+      "longitude": -83.5346864999999
+    }
+  },
+  "PLUMB38": {
+    "business": "Kitchens and Young Well and Septic Service",
+    "phone": "+1 478-742-7423",
+    "location": "Macon, Georgia",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJDXnpd_ZT8YgRZ3Ny71i5LSQ&q=plumber,+31204,+Macon,+GA,+US&authuser=0&hl=en&gl=US",
+    "heroImage": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5_tmfpk6YIHUHxKISZqYcA&cb_client=search.gws-prod.gps&w=800&h=500&yaw=357.16257&pitch=0&thumbfov=100",
+    "aboutLabel": "Kitchens and Young Well and Septic Service - Your Trusted Local Plumber",
+    "aboutTitle": "Professional Plumbing Services",
+    "aboutDescription": "Kitchens and Young Well and Septic Service is your trusted plumbing partner, serving Macon and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "photos": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5_tmfpk6YIHUHxKISZqYcA&cb_client=search.gws-prod.gps&w=800&h=500&yaw=357.16257&pitch=0&thumbfov=100",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Expert Plumbers"
+    },
+    "coordinates": {
+      "latitude": 32.8377414,
+      "longitude": -83.4971724
+    }
+  },
+  "PLUMB39": {
+    "business": "Moskaly Plumbing Inc",
+    "phone": "+1 478-474-2582",
+    "location": "Macon, Georgia",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJCd11Qhz384gRMX6iUe1zlFI&q=plumber,+31205,+Macon,+GA,+US&authuser=0&hl=en&gl=US",
+    "heroImage": "https://lh5.googleusercontent.com/p/AF1QipPYmnhIzI0MdfwiYXVaJN_zN-FO-jMQHlOxCgDa=w800-h500-k-no",
+    "aboutLabel": "Moskaly Plumbing Inc - Your Trusted Local Plumber",
+    "aboutTitle": "Professional Plumbing Services",
+    "aboutDescription": "Moskaly Plumbing Inc is your trusted plumbing partner, serving Macon and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "photos": "https://lh5.googleusercontent.com/p/AF1QipPYmnhIzI0MdfwiYXVaJN_zN-FO-jMQHlOxCgDa=w800-h500-k-no",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Expert Plumbers"
+    },
+    "coordinates": {
+      "latitude": 32.8654584,
+      "longitude": -83.8007918
+    }
+  },
+  "PLUMB40": {
+    "business": "Webber's Handyman services",
+    "phone": "+1 754-801-9215",
+    "location": "",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJcXWnXQhZXGURAL0EuN36MbA&q=plumber,+31205,+Macon,+GA,+US&authuser=0&hl=en&gl=US",
+    "heroImage": "https://lh5.googleusercontent.com/p/AF1QipP0f-ogD3uLzho931gcXgxsYvLi-gnMjrNqwz3f=w800-h500-k-no",
+    "aboutLabel": "Webber's Handyman services - Your Trusted Local Plumber",
+    "aboutTitle": "Professional Plumbing Services",
+    "aboutDescription": "Webber's Handyman services is your trusted plumbing partner, serving  and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "photos": "https://lh5.googleusercontent.com/p/AF1QipP0f-ogD3uLzho931gcXgxsYvLi-gnMjrNqwz3f=w800-h500-k-no",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Expert Plumbers"
+    },
+    "coordinates": {
+      "latitude": 33.0755034999999,
+      "longitude": -83.8495264
+    }
+  },
+  "PLUMB41": {
+    "business": "Joel the Contractor",
+    "phone": "+1 706-351-3531",
+    "location": "Macon, Georgia",
+    "reviewLink": "",
+    "heroImage": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=z0tlXRsHpSU1mxKxRtK_ow&cb_client=search.gws-prod.gps&w=800&h=500&yaw=178.79028&pitch=0&thumbfov=100",
+    "aboutLabel": "Joel the Contractor - Your Trusted Local Plumber",
+    "aboutTitle": "Professional Plumbing Services",
+    "aboutDescription": "Joel the Contractor is your trusted plumbing partner, serving Macon and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "photos": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=z0tlXRsHpSU1mxKxRtK_ow&cb_client=search.gws-prod.gps&w=800&h=500&yaw=178.79028&pitch=0&thumbfov=100",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Expert Plumbers"
+    },
+    "coordinates": {
+      "latitude": 32.8424452,
+      "longitude": -83.6904552
+    }
+  },
+  "PLUMB42": {
+    "business": "Kelco Mechanical And HVAC",
+    "phone": "+1 478-960-8411",
+    "location": "Macon, Georgia",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJZfjo4cv_84gRms9ovwbZOIA&q=plumber,+31205,+Macon,+GA,+US&authuser=0&hl=en&gl=US",
+    "heroImage": "https://lh5.googleusercontent.com/p/AF1QipMFdYaCB99fF6IK0pD95XrhcyGK81J8sjhKrx7x=w800-h500-k-no",
+    "aboutLabel": "Kelco Mechanical And HVAC - Your Trusted Local Plumber",
+    "aboutTitle": "Professional Plumbing Services",
+    "aboutDescription": "Kelco Mechanical And HVAC is your trusted plumbing partner, serving Macon and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "photos": "https://lh5.googleusercontent.com/p/AF1QipMFdYaCB99fF6IK0pD95XrhcyGK81J8sjhKrx7x=w800-h500-k-no",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Expert Plumbers"
+    },
+    "coordinates": {
+      "latitude": 32.8460105,
+      "longitude": -83.6364325999999
+    }
+  },
+  "PLUMB43": {
+    "business": "Central Georgia Handyman",
+    "phone": "+1 678-328-8321",
+    "location": "",
+    "reviewLink": "",
+    "heroImage": "https://lh5.googleusercontent.com/p/AF1QipM5mRmxEcnHsEGy3-9t8zgZJFBdPejIUNuj1XiC=w800-h500-k-no",
+    "aboutLabel": "Central Georgia Handyman - Your Trusted Local Plumber",
+    "aboutTitle": "Professional Plumbing Services",
+    "aboutDescription": "Central Georgia Handyman is your trusted plumbing partner, serving  and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "photos": "https://lh5.googleusercontent.com/p/AF1QipM5mRmxEcnHsEGy3-9t8zgZJFBdPejIUNuj1XiC=w800-h500-k-no",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Expert Plumbers"
+    },
+    "coordinates": {
+      "latitude": 32.8327181,
+      "longitude": -83.6441694
+    }
+  },
+  "PLUMB44": {
+    "business": "Ben Fleming Construction",
+    "phone": "+1 478-808-8888",
+    "location": "",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJfUga6l-wQqoRRw0qNbDnqzE&q=plumber,+31205,+Macon,+GA,+US&authuser=0&hl=en&gl=US",
+    "heroImage": "https://lh5.googleusercontent.com/p/AF1QipOavM7v1iJY57WBVGL86kp7p4qUK2PssmGxpqxy=w800-h500-k-no",
+    "aboutLabel": "Ben Fleming Construction - Your Trusted Local Plumber",
+    "aboutTitle": "Professional Plumbing Services",
+    "aboutDescription": "Ben Fleming Construction is your trusted plumbing partner, serving  and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "photos": "https://lh5.googleusercontent.com/p/AF1QipOavM7v1iJY57WBVGL86kp7p4qUK2PssmGxpqxy=w800-h500-k-no",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Expert Plumbers"
+    },
+    "coordinates": {
+      "latitude": 32.844361,
+      "longitude": -83.6053404
+    }
+  },
+  "PLUMB45": {
+    "business": "All trades and Fabrications llc",
+    "phone": "+1 478-228-5955",
+    "location": "",
+    "reviewLink": "",
+    "heroImage": "https://lh5.googleusercontent.com/p/AF1QipNEuDMWfmujpFdWG8uQSFWj57v3zRZJH59iYmmw=w800-h500-k-no",
+    "aboutLabel": "All trades and Fabrications llc - Your Trusted Local Plumber",
+    "aboutTitle": "Professional Plumbing Services",
+    "aboutDescription": "All trades and Fabrications llc is your trusted plumbing partner, serving  and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "photos": "https://lh5.googleusercontent.com/p/AF1QipNEuDMWfmujpFdWG8uQSFWj57v3zRZJH59iYmmw=w800-h500-k-no",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Expert Plumbers"
+    },
+    "coordinates": {
+      "latitude": 32.6785299999999,
+      "longitude": -83.1940623999999
+    }
+  },
+  "PLUMB46": {
+    "business": "Mr. Electric of Middle Georgia",
+    "phone": "+1 478-784-1105",
+    "location": "Macon, Georgia",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJazMAACr684gRDFWQMRHhkxY&q=plumber,+31205,+Macon,+GA,+US&authuser=0&hl=en&gl=US",
+    "heroImage": "https://lh5.googleusercontent.com/p/AF1QipPbfqvccbS1ocPS8h7znRJhz2CSPuwYs_VaJzCb=w800-h500-k-no",
+    "aboutLabel": "Mr. Electric of Middle Georgia - Your Trusted Local Plumber",
+    "aboutTitle": "Professional Plumbing Services",
+    "aboutDescription": "Mr. Electric of Middle Georgia is your trusted plumbing partner, serving Macon and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "photos": "https://lh5.googleusercontent.com/p/AF1QipPbfqvccbS1ocPS8h7znRJhz2CSPuwYs_VaJzCb=w800-h500-k-no",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Expert Plumbers"
+    },
+    "coordinates": {
+      "latitude": 32.8319502,
+      "longitude": -83.7253142
+    }
+  },
+  "PLUMB47": {
+    "business": "Mateo G Remodeling LLC",
+    "phone": "+1 478-345-3780",
+    "location": "",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJ9eV77ybuw0ERP2PE2zgfRnU&q=plumber,+31205,+Macon,+GA,+US&authuser=0&hl=en&gl=US",
+    "heroImage": "https://lh5.googleusercontent.com/p/AF1QipNlaZiwJl60IXZOh9ndOlASWoEkh8Y9MgOxGdoV=w800-h500-k-no",
+    "aboutLabel": "Mateo G Remodeling LLC - Your Trusted Local Plumber",
+    "aboutTitle": "Professional Plumbing Services",
+    "aboutDescription": "Mateo G Remodeling LLC is your trusted plumbing partner, serving  and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "photos": "https://lh5.googleusercontent.com/p/AF1QipNlaZiwJl60IXZOh9ndOlASWoEkh8Y9MgOxGdoV=w800-h500-k-no",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Expert Plumbers"
+    },
+    "coordinates": {
+      "latitude": 32.7405575,
+      "longitude": -83.6326954
+    }
+  },
+  "PLUMB48": {
+    "business": "BLC Plumbing, LLC",
+    "phone": "+1 478-244-6559",
+    "location": "",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJ2bIiyrWV84gR3YNicCc2Mv0&q=plumber,+31205,+Macon,+GA,+US&authuser=0&hl=en&gl=US",
+    "heroImage": "https://lh5.googleusercontent.com/p/AF1QipNSmotpxSmaFLGSR1HSxdGMKb5M8fbZ1cJOQr2U=w800-h500-k-no",
+    "aboutLabel": "BLC Plumbing, LLC - Your Trusted Local Plumber",
+    "aboutTitle": "Professional Plumbing Services",
+    "aboutDescription": "BLC Plumbing, LLC is your trusted plumbing partner, serving  and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "photos": "https://lh5.googleusercontent.com/p/AF1QipNSmotpxSmaFLGSR1HSxdGMKb5M8fbZ1cJOQr2U=w800-h500-k-no",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Expert Plumbers"
+    },
+    "coordinates": {
+      "latitude": 32.5413995,
+      "longitude": -83.7460919999999
+    }
+  },
+  "PLUMB49": {
+    "business": "Harris Plumbing & Electrical",
+    "phone": "+1 478-987-9980",
+    "location": "Hawkinsville, Georgia",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJYdHb9QTY84gRU_vtQCRyVGk&q=plumber,+31205,+Macon,+GA,+US&authuser=0&hl=en&gl=US",
+    "heroImage": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3Kj8jsOT8d9RxrbQVVM47Q&cb_client=search.gws-prod.gps&w=800&h=500&yaw=357.00934&pitch=0&thumbfov=100",
+    "aboutLabel": "Harris Plumbing & Electrical - Your Trusted Local Plumber",
+    "aboutTitle": "Professional Plumbing Services",
+    "aboutDescription": "Harris Plumbing & Electrical is your trusted plumbing partner, serving Hawkinsville and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "photos": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3Kj8jsOT8d9RxrbQVVM47Q&cb_client=search.gws-prod.gps&w=800&h=500&yaw=357.00934&pitch=0&thumbfov=100",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Expert Plumbers"
+    },
+    "coordinates": {
+      "latitude": 32.3824259999999,
+      "longitude": -83.6004844
+    }
+  },
+  "PLUMB50": {
+    "business": "New Millennial Electrical Contracting LLC",
+    "phone": "+1 478-388-7556",
+    "location": "",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJo-g2qTLKrYIRJ0qnhW2ajSg&q=plumber,+31205,+Macon,+GA,+US&authuser=0&hl=en&gl=US",
+    "heroImage": "https://lh5.googleusercontent.com/p/AF1QipPhSlCYLMUwU6olVsWVxKrp4s5sg6QOrWNAYGEi=w800-h500-k-no",
+    "aboutLabel": "New Millennial Electrical Contracting LLC - Your Trusted Local Plumber",
+    "aboutTitle": "Professional Plumbing Services",
+    "aboutDescription": "New Millennial Electrical Contracting LLC is your trusted plumbing partner, serving  and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "photos": "https://lh5.googleusercontent.com/p/AF1QipPhSlCYLMUwU6olVsWVxKrp4s5sg6QOrWNAYGEi=w800-h500-k-no",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Expert Plumbers"
+    },
+    "coordinates": {
+      "latitude": 32.8251987999999,
+      "longitude": -83.923581
+    }
+  },
+  "PLUMB51": {
+    "business": "Newberry Plumbing Co",
+    "phone": "+1 478-922-8251",
+    "location": "Bonaire, Georgia",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJ5VzRBGPg84gR_cjMmw4HI5s&q=plumber,+31205,+Macon,+GA,+US&authuser=0&hl=en&gl=US",
+    "heroImage": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Mhh_lY9VxdkTt9jMXPUalQ&cb_client=search.gws-prod.gps&w=800&h=500&yaw=279.86697&pitch=0&thumbfov=100",
+    "aboutLabel": "Newberry Plumbing Co - Your Trusted Local Plumber",
+    "aboutTitle": "Professional Plumbing Services",
+    "aboutDescription": "Newberry Plumbing Co is your trusted plumbing partner, serving Bonaire and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "photos": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Mhh_lY9VxdkTt9jMXPUalQ&cb_client=search.gws-prod.gps&w=800&h=500&yaw=279.86697&pitch=0&thumbfov=100",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Expert Plumbers"
+    },
+    "coordinates": {
+      "latitude": 32.570473,
+      "longitude": -83.631709
+    }
+  },
+  "PLUMB52": {
+    "business": "Hughey's Plumbing Company",
+    "phone": "+1 770-856-5068",
+    "location": "",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJv5m1Zutz9IgRFW0oEkErmek&q=plumber,+31210,+Macon,+GA,+US&authuser=0&hl=en&gl=US",
+    "heroImage": "https://lh5.googleusercontent.com/p/AF1QipNNkQs5gwz30Gh3OvGtWt2yAS7-9UxgP0VccEbq=w800-h500-k-no",
+    "aboutLabel": "Hughey's Plumbing Company - Your Trusted Local Plumber",
+    "aboutTitle": "Professional Plumbing Services",
+    "aboutDescription": "Hughey's Plumbing Company is your trusted plumbing partner, serving  and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "photos": "https://lh5.googleusercontent.com/p/AF1QipNNkQs5gwz30Gh3OvGtWt2yAS7-9UxgP0VccEbq=w800-h500-k-no",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Expert Plumbers"
+    },
+    "coordinates": {
+      "latitude": 33.2047606,
+      "longitude": -84.0496715
+    }
   }
 }
