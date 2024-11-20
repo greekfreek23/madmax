@@ -1628,24 +1628,4 @@
       "longitude": -81.6652313
     }
   },
-  "PLUMB385": {
-    "business": "Barnard's construction and handyman services",
-    "phone": "+1 865-621-8156",
-    "location": "",
-    "reviewLink": "",
-    "heroImage": "",
-    "aboutLabel": "Barnard's construction and handyman services Plumbing Services",
-    "aboutTitle": "Professional Plumbing Solutions",
-    "aboutDescription": "Our team of certified plumbers provides comprehensive plumbing solutions. With years of experience and commitment to quality, we ensure your plumbing needs are met efficiently.",
-    "photos": "",
-    "features": {
-      "feature1": "Licensed & Insured",
-      "feature2": "24/7 Emergency Service",
-      "feature3": "Expert Plumbers"
-    },
-    "coordinates": {
-      "latitude": 35.958462,
-      "longitude": -83.9250825
-    }
-  }
-}
+
