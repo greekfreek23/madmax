@@ -1,13 +1,13 @@
 {
   "PLUMB1": {
-    "business": "name_for_emails",
+    "business": "name",
     "phone": "",
     "location": "",
     "reviewLink": "reviews_link",
     "heroImage": "photo",
-    "aboutLabel": "name_for_emails - Your Trusted Local Plumber",
+    "aboutLabel": "name - Your Trusted Local Plumber",
     "aboutTitle": "Professional Plumbing Services",
-    "aboutDescription": "name_for_emails is your trusted plumbing partner, serving and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "aboutDescription": "name is your trusted plumbing partner, serving and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
     "photos": "photo",
     "features": {
       "feature1": "Licensed & Insured",
