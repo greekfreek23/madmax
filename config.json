@@ -78,5 +78,25 @@
       "latitude": 36.2039070999999,
       "longitude": -81.6652313
     }
+  },
+  "PLUMB9": {
+    "business": "Huttos Plumbing",
+    "phone": "+1 706-860-3271",
+    "location": "",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJPYkG7Q3T-YgRC81hd5kltEA&q=*&authuser=0&hl=en&gl=US",
+    "heroImage": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9T4iX9h_mPQvmrdMKC-5Kg&cb_client=search.gws-prod.gps&w=800&h=500&yaw=263.1187&pitch=0&thumbfov=100",
+    "aboutLabel": "Huttos Plumbing - Your Trusted Local Plumber",
+    "aboutTitle": "Professional Plumbing Services",
+    "aboutDescription": "Huttos Plumbing is your trusted plumbing partner, serving and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "photos": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9T4iX9h_mPQvmrdMKC-5Kg&cb_client=search.gws-prod.gps&w=800&h=500&yaw=263.1187&pitch=0&thumbfov=100",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Expert Plumbers"
+    },
+    "coordinates": {
+      "latitude": 33.5120885,
+      "longitude": -82.101666
+    }
   }
 }
