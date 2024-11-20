@@ -38,5 +38,25 @@
       "latitude": 33.439793,
       "longitude": -82.1766814
     }
+  },
+  "PLUMB12": {
+    "business": "Corleys Septic And Sewer",
+    "phone": "+1 706-833-0298",
+    "location": "",
+    "reviewLink": "",
+    "heroImage": "https://lh5.googleusercontent.com/p/AF1QipOLmsQ2IlcrxEJimAvt8ULwrGTuFWBep-s_zcoI=w800-h500-k-no",
+    "aboutLabel": "Corleys Septic And Sewer - Your Trusted Local Plumber",
+    "aboutTitle": "Professional Plumbing Services",
+    "aboutDescription": "Corleys Septic And Sewer is your trusted plumbing partner, serving and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "photos": "https://lh5.googleusercontent.com/p/AF1QipOLmsQ2IlcrxEJimAvt8ULwrGTuFWBep-s_zcoI=w800-h500-k-no",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Expert Plumbers"
+    },
+    "coordinates": {
+      "latitude": 33.4639044,
+      "longitude": -82.1355909999999
+    }
   }
 }
