@@ -946,5 +946,25 @@
       "latitude": 32.5153333,
       "longitude": -85.019915
     }
+  },
+  "PLUMB131": {
+    "business": "Dirty Mike's Septic & Hydro Jetting service",
+    "phone": "+1 706-326-5065",
+    "location": "Cataula, Georgia",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJSbnR-qu2jIgR-XtPJIBA-AY&q=plumber,+31917,+Columbus,+GA,+US&authuser=0&hl=en&gl=US",
+    "heroImage": "",
+    "aboutLabel": "Dirty Mike's Septic & Hydro Jetting service Plumbing Services",
+    "aboutTitle": "Professional Plumbing Solutions",
+    "aboutDescription": "Our team of certified plumbers provides comprehensive plumbing solutions. With years of experience and commitment to quality, we ensure your plumbing needs are met efficiently.",
+    "photos": "",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Expert Plumbers"
+    },
+    "coordinates": {
+      "latitude": 32.666035,
+      "longitude": -84.9567112
+    }
   }
 }
