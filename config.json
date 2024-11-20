@@ -803,5 +803,25 @@
       "latitude": 33.3860406,
       "longitude": -82.0909175
     }
+  },
+  "HVAC17": {
+    "business": "Sherrills Construction LLC",
+    "phone": "+1 706-251-5361",
+    "location": "Augusta, Georgia",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJBy_jYZCyYqgR5rl4OcwmD9c&q=*&authuser=0&hl=en&gl=US",
+    "heroImage": "",
+    "aboutLabel": "Sherrills Construction LLC Heating & Cooling",
+    "aboutTitle": "Expert HVAC Solutions",
+    "aboutDescription": "Our team of certified professionals brings you comprehensive heating and cooling solutions. With years of experience and dedication to excellence, we ensure your complete comfort.",
+    "photos": "",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Certified Professionals"
+    },
+    "coordinates": {
+      "latitude": 33.3918856999999,
+      "longitude": -82.0304326999999
+    }
   }
 }
