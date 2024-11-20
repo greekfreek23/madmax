@@ -218,5 +218,25 @@
       "latitude": 33.5358821999999,
       "longitude": -82.3782525
     }
+  },
+  "PLUMB49": {
+    "business": "Harris Plumbing & Electrical",
+    "phone": "+1 478-987-9980",
+    "location": "",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJYdHb9QTY84gRU_vtQCRyVGk&q=plumber,+31205,+Macon,+GA,+US&authuser=0&hl=en&gl=US",
+    "heroImage": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3Kj8jsOT8d9RxrbQVVM47Q&cb_client=search.gws-prod.gps&w=800&h=500&yaw=357.00934&pitch=0&thumbfov=100",
+    "aboutLabel": "Harris Plumbing & Electrical - Your Trusted Local Plumber",
+    "aboutTitle": "Professional Plumbing Services",
+    "aboutDescription": "Harris Plumbing & Electrical is your trusted plumbing partner, serving and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "photos": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3Kj8jsOT8d9RxrbQVVM47Q&cb_client=search.gws-prod.gps&w=800&h=500&yaw=357.00934&pitch=0&thumbfov=100",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Expert Plumbers"
+    },
+    "coordinates": {
+      "latitude": 32.3824259999999,
+      "longitude": -83.6004844
+    }
   }
 }
