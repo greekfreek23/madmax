@@ -666,42 +666,23 @@
     }
   },
   "PLUMB30": {
-    "business": "B & N Mechanical Contractors",
-    "phone": "(706) 860-6383",
+    "business": "Jenkins Home Repair",
+    "phone": "+1 706-560-9188",
     "location": "Augusta, Georgia",
     "reviewLink": "",
-    "serviceArea": "Augusta and surrounding areas",
+    "heroImage": "",
+    "aboutLabel": "Jenkins Home Repair Plumbing Services",
+    "aboutTitle": "Professional Plumbing Solutions",
+    "aboutDescription": "Our team of certified plumbers provides comprehensive plumbing solutions. With years of experience and commitment to quality, we ensure your plumbing needs are met efficiently.",
+    "photos": "",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Expert Plumbers"
+    },
     "coordinates": {
-      "latitude": 33.4883532,
-      "longitude": -82.1189011
-    },
-    "reviews": {
-      "rating": "0.0",
-      "count": 0,
-      "formattedRating": "0.0 out of 5",
-      "stars": "",
-      "link": "#",
-      "breakdown": {
-        "total": 0,
-        "fiveStars": 0,
-        "fourStars": 0,
-        "threeStars": 0,
-        "twoStars": 0,
-        "oneStar": 0
-      }
-    },
-    "hours": {
-      "Monday": "8AM-5PM",
-      "Tuesday": "8AM-5PM",
-      "Wednesday": "8AM-5PM",
-      "Thursday": "8AM-5PM",
-      "Friday": "8AM-5PM",
-      "Saturday": "Closed",
-      "Sunday": "Closed"
-    },
-    "theme": {
-      "primaryColor": "#003366",
-      "secondaryColor": "#e24a4a"
+      "latitude": 33.4028407,
+      "longitude": -82.0660434
     }
   },
   "HVAC24": {
