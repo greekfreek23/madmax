@@ -58,5 +58,25 @@
       "latitude": 33.4639044,
       "longitude": -82.1355909999999
     }
+  },
+  "PLUMB384": {
+    "business": "Egn Plumbing",
+    "phone": "+1 828-773-2351",
+    "location": "",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJJzEnieSSVkgROQPojTBBJaE&q=plumber,+37691,+Trade,+TN,+US&authuser=0&hl=en&gl=US",
+    "heroImage": "https://lh5.googleusercontent.com/p/AF1QipNxmfpJznvbuEb68VmLfL9Gt_yWlkYuKk4gx4gr=w800-h500-k-no",
+    "aboutLabel": "Egn Plumbing - Your Trusted Local Plumber",
+    "aboutTitle": "Professional Plumbing Services",
+    "aboutDescription": "Egn Plumbing is your trusted plumbing partner, serving and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "photos": "https://lh5.googleusercontent.com/p/AF1QipNxmfpJznvbuEb68VmLfL9Gt_yWlkYuKk4gx4gr=w800-h500-k-no",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Expert Plumbers"
+    },
+    "coordinates": {
+      "latitude": 36.2039070999999,
+      "longitude": -81.6652313
+    }
   }
 }
