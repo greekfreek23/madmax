@@ -703,5 +703,105 @@
       "primaryColor": "#003366",
       "secondaryColor": "#e24a4a"
     }
+  },
+  "HVAC24": {
+    "business": "Belvedere Plumbing",
+    "phone": "+1 803-278-1721",
+    "location": "Belvedere, South Carolina",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJde-mO600-IgR1oBRSUleGYg&q=plumber,+30906,+Augusta,+GA,+US&authuser=0&hl=en&gl=US",
+    "heroImage": "",
+    "aboutLabel": "Belvedere Plumbing Heating & Cooling",
+    "aboutTitle": "Expert HVAC Solutions",
+    "aboutDescription": "Our team of certified professionals brings you comprehensive heating and cooling solutions. With years of experience and dedication to excellence, we ensure your complete comfort.",
+    "photos": "",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Certified Professionals"
+    },
+    "coordinates": {
+      "latitude": 33.5352251,
+      "longitude": -81.9443752
+    }
+  },
+  "HVAC25": {
+    "business": "Giffin Plumbing",
+    "phone": "",
+    "location": "Evans, Georgia",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJgZVmgCUr-IgR7PFpAbAMecc&q=plumber,+30906,+Augusta,+GA,+US&authuser=0&hl=en&gl=US",
+    "heroImage": "",
+    "aboutLabel": "Giffin Plumbing Heating & Cooling",
+    "aboutTitle": "Expert HVAC Solutions",
+    "aboutDescription": "Our team of certified professionals brings you comprehensive heating and cooling solutions. With years of experience and dedication to excellence, we ensure your complete comfort.",
+    "photos": "",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Certified Professionals"
+    },
+    "coordinates": {
+      "latitude": 33.5593752,
+      "longitude": -82.1633533999999
+    }
+  },
+  "HVAC26": {
+    "business": "Wrightsboro Supply-Plumbing-Electrical",
+    "phone": "+1 706-738-0751",
+    "location": "Augusta, Georgia",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJTyRVB9PT-YgRlI2gLwjg-go&q=plumber,+30909,+Augusta,+GA,+US&authuser=0&hl=en&gl=US",
+    "heroImage": "",
+    "aboutLabel": "Wrightsboro Supply-Plumbing-Electrical Heating & Cooling",
+    "aboutTitle": "Expert HVAC Solutions",
+    "aboutDescription": "Our team of certified professionals brings you comprehensive heating and cooling solutions. With years of experience and dedication to excellence, we ensure your complete comfort.",
+    "photos": "",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Certified Professionals"
+    },
+    "coordinates": {
+      "latitude": 33.4622954999999,
+      "longitude": -82.0874556999999
+    }
+  },
+  "HVAC27": {
+    "business": "Peach Contractors Inc",
+    "phone": "+1 706-736-9445",
+    "location": "Augusta, Georgia",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJ1RQWhQ_S-YgR3MmtxQxhQW0&q=plumber,+30914,+Augusta,+GA,+US&authuser=0&hl=en&gl=US",
+    "heroImage": "",
+    "aboutLabel": "Peach Contractors Inc Heating & Cooling",
+    "aboutTitle": "Expert HVAC Solutions",
+    "aboutDescription": "Our team of certified professionals brings you comprehensive heating and cooling solutions. With years of experience and dedication to excellence, we ensure your complete comfort.",
+    "photos": "",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Certified Professionals"
+    },
+    "coordinates": {
+      "latitude": 33.4638953,
+      "longitude": -82.0490184
+    }
+  },
+  "HVAC28": {
+    "business": "smith's premium services llc",
+    "phone": "+1 762-225-5294",
+    "location": "",
+    "reviewLink": "",
+    "heroImage": "",
+    "aboutLabel": "smith's premium services llc Heating & Cooling",
+    "aboutTitle": "Expert HVAC Solutions",
+    "aboutDescription": "Our team of certified professionals brings you comprehensive heating and cooling solutions. With years of experience and dedication to excellence, we ensure your complete comfort.",
+    "photos": "",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Certified Professionals"
+    },
+    "coordinates": {
+      "latitude": 33.3860406,
+      "longitude": -82.0909175
+    }
   }
 }
