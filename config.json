@@ -98,5 +98,25 @@
       "latitude": 33.5120885,
       "longitude": -82.101666
     }
+  },
+  "PLUMB21": {
+    "business": "Turner Mechanical Inc",
+    "phone": "+1 803-442-4474",
+    "location": "",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJL-c-kU7K-YgRBNFUIaZ71zo&q=plumber,+30906,+Augusta,+GA,+US&authuser=0&hl=en&gl=US",
+    "heroImage": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=bTlp-ppWt-lso1Oc0zd09A&cb_client=search.gws-prod.gps&w=800&h=500&yaw=296.1622&pitch=0&thumbfov=100",
+    "aboutLabel": "Turner Mechanical Inc - Your Trusted Local Plumber",
+    "aboutTitle": "Professional Plumbing Services",
+    "aboutDescription": "Turner Mechanical Inc is your trusted plumbing partner, serving and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "photos": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=bTlp-ppWt-lso1Oc0zd09A&cb_client=search.gws-prod.gps&w=800&h=500&yaw=296.1622&pitch=0&thumbfov=100",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Expert Plumbers"
+    },
+    "coordinates": {
+      "latitude": 33.4911337,
+      "longitude": -81.9229704999999
+    }
   }
 }
