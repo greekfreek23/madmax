@@ -823,5 +823,65 @@
       "latitude": 33.3918856999999,
       "longitude": -82.0304326999999
     }
+  },
+  "HVAC7": {
+    "business": "Augusta Plumbing Inc",
+    "phone": "+1 706-868-8918",
+    "location": "Martinez, Georgia",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJHUE8AFnU-YgRGYXCzNiMElQ&q=*&authuser=0&hl=en&gl=US",
+    "heroImage": "",
+    "aboutLabel": "Augusta Plumbing Inc Heating & Cooling",
+    "aboutTitle": "Expert HVAC Solutions",
+    "aboutDescription": "Our team of certified professionals brings you comprehensive heating and cooling solutions. With years of experience and dedication to excellence, we ensure your complete comfort.",
+    "photos": "",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Certified Professionals"
+    },
+    "coordinates": {
+      "latitude": 33.5006763999999,
+      "longitude": -82.1576566999999
+    }
+  },
+  "HVAC8": {
+    "business": "Mahoney plumbing llc",
+    "phone": "+1 706-723-2039",
+    "location": "",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJF88-snvH-4IR6COWCzaeFeQ&q=*&authuser=0&hl=en&gl=US",
+    "heroImage": "",
+    "aboutLabel": "Mahoney plumbing llc Heating & Cooling",
+    "aboutTitle": "Expert HVAC Solutions",
+    "aboutDescription": "Our team of certified professionals brings you comprehensive heating and cooling solutions. With years of experience and dedication to excellence, we ensure your complete comfort.",
+    "photos": "",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Certified Professionals"
+    },
+    "coordinates": {
+      "latitude": 46.423669,
+      "longitude": -129.9427086
+    }
+  },
+  "HVAC9": {
+    "business": "Huttos Plumbing",
+    "phone": "+1 706-860-3271",
+    "location": "Augusta, Georgia",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJPYkG7Q3T-YgRC81hd5kltEA&q=*&authuser=0&hl=en&gl=US",
+    "heroImage": "",
+    "aboutLabel": "Huttos Plumbing Heating & Cooling",
+    "aboutTitle": "Expert HVAC Solutions",
+    "aboutDescription": "Our team of certified professionals brings you comprehensive heating and cooling solutions. With years of experience and dedication to excellence, we ensure your complete comfort.",
+    "photos": "",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Certified Professionals"
+    },
+    "coordinates": {
+      "latitude": 33.5120885,
+      "longitude": -82.101666
+    }
   }
 }
