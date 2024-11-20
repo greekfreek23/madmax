@@ -558,5 +558,25 @@
       "latitude": 35.6961404,
       "longitude": -88.7997505
     }
+  },
+  "PLUMB149": {
+    "business": "Deep South Plumbing",
+    "phone": "+1 870-315-5419",
+    "location": "",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJ1Xm96vKHY4gRHf84h6e2XvA&q=*&authuser=0&hl=en&gl=US",
+    "heroImage": "https://lh5.googleusercontent.com/p/AF1QipMi0gQZxLN-qKdhiV3kJa2ydZPOtxm1Kkfkvdkb=w800-h500-k-no",
+    "aboutLabel": "Deep South Plumbing - Your Trusted Local Plumber",
+    "aboutTitle": "Professional Plumbing Services",
+    "aboutDescription": "Deep South Plumbing is your trusted plumbing partner, serving and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "photos": "https://lh5.googleusercontent.com/p/AF1QipMi0gQZxLN-qKdhiV3kJa2ydZPOtxm1Kkfkvdkb=w800-h500-k-no",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Expert Plumbers"
+    },
+    "coordinates": {
+      "latitude": 35.0941825999999,
+      "longitude": -88.8416599999999
+    }
   }
 }
