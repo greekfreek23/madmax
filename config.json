@@ -995,5 +995,25 @@
       "latitude": 33.3860406,
       "longitude": -82.0909175
     }
+  },
+  "PLUMB24": {
+    "business": "Belvedere Plumbing",
+    "phone": "+1 803-278-1721",
+    "location": "Belvedere, South Carolina",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJde-mO600-IgR1oBRSUleGYg&q=plumber,+30906,+Augusta,+GA,+US&authuser=0&hl=en&gl=US",
+    "heroImage": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nrYmFIQKm1FmFqtlwhQQ9A&cb_client=search.gws-prod.gps&w=800&h=500&yaw=12.101257&pitch=0&thumbfov=100",
+    "aboutLabel": "Belvedere Plumbing - Your Trusted Local Plumber",
+    "aboutTitle": "Professional Plumbing Services",
+    "aboutDescription": "Belvedere Plumbing is your trusted plumbing partner, serving Belvedere and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "photos": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nrYmFIQKm1FmFqtlwhQQ9A&cb_client=search.gws-prod.gps&w=800&h=500&yaw=12.101257&pitch=0&thumbfov=100",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Expert Plumbers"
+    },
+    "coordinates": {
+      "latitude": 33.5352251,
+      "longitude": -81.9443752
+    }
   }
 }
