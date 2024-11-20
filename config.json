@@ -926,5 +926,25 @@
     "serviceAreas": [
       "Harris County, GA"
     ]
+  },
+  "PLUMB133": {
+    "business": "John's Home Services",
+    "phone": "+1 706-566-8216",
+    "location": "Phenix City, Alabama",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJVzmtcDIpfGoRYIjV_ofeQd8&q=plumber,+31993,+Columbus,+GA,+US&authuser=0&hl=en&gl=US",
+    "heroImage": "",
+    "aboutLabel": "John's Home Services Plumbing Services",
+    "aboutTitle": "Professional Plumbing Solutions",
+    "aboutDescription": "Our team of certified plumbers provides comprehensive plumbing solutions. With years of experience and commitment to quality, we ensure your plumbing needs are met efficiently.",
+    "photos": "",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Expert Plumbers"
+    },
+    "coordinates": {
+      "latitude": 32.5153333,
+      "longitude": -85.019915
+    }
   }
 }
