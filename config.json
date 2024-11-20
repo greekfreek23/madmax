@@ -538,5 +538,25 @@
       "latitude": 35.7938459999999,
       "longitude": -89.60534
     }
+  },
+  "PLUMB147": {
+    "business": "L&L Construction and Renovations, LLC",
+    "phone": "+1 731-968-7706",
+    "location": "",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJkSGOMvynfogRVNzuPU4AI60&q=plumber,+38362,+Oakfield,+TN,+US&authuser=0&hl=en&gl=US",
+    "heroImage": "https://lh5.googleusercontent.com/p/AF1QipPxB9cpUjQ9a-NpHx3T8CJ_-Op1rCOiv6h1Ox7S=w800-h500-k-no",
+    "aboutLabel": "L&L Construction and Renovations, LLC - Your Trusted Local Plumber",
+    "aboutTitle": "Professional Plumbing Services",
+    "aboutDescription": "L&L Construction and Renovations, LLC is your trusted plumbing partner, serving and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "photos": "https://lh5.googleusercontent.com/p/AF1QipPxB9cpUjQ9a-NpHx3T8CJ_-Op1rCOiv6h1Ox7S=w800-h500-k-no",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Expert Plumbers"
+    },
+    "coordinates": {
+      "latitude": 35.6961404,
+      "longitude": -88.7997505
+    }
   }
 }
