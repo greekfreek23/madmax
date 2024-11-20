@@ -866,5 +866,25 @@
       "latitude": 33.5104458,
       "longitude": -82.1421041999999
     }
+  },
+  "PLUMB53": {
+    "business": "Scott Angel Home Improvement",
+    "phone": "+1 478-454-7666",
+    "location": "Macon, Georgia",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJ59xIVk9V8YgRSPJEiJS3jHg&q=plumber,+31211,+Macon,+GA,+US&authuser=0&hl=en&gl=US",
+    "heroImage": "",
+    "aboutLabel": "Scott Angel Home Improvement Plumbing Services",
+    "aboutTitle": "Professional Plumbing Solutions",
+    "aboutDescription": "Our team of certified plumbers provides comprehensive plumbing solutions. With years of experience and commitment to quality, we ensure your plumbing needs are met efficiently.",
+    "photos": "",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Expert Plumbers"
+    },
+    "coordinates": {
+      "latitude": 32.9055321,
+      "longitude": -83.5492465
+    }
   }
 }
