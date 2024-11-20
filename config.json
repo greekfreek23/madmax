@@ -518,5 +518,25 @@
       "latitude": 32.5969209,
       "longitude": -85.1461364
     }
+  },
+  "PLUMB143": {
+    "business": "Rs plumbing",
+    "phone": "+1 731-460-9170",
+    "location": "",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJySM6a4MQMwwRv1mJVDJpUw8&q=plumber,+38336,+Fruitvale,+TN,+US&authuser=0&hl=en&gl=US",
+    "heroImage": "https://lh5.googleusercontent.com/p/AF1QipOu6_Y1xWG3eXcixpCmHzuE3nNaQPQxFRXRPRdc=w800-h500-k-no",
+    "aboutLabel": "Rs plumbing - Your Trusted Local Plumber",
+    "aboutTitle": "Professional Plumbing Services",
+    "aboutDescription": "Rs plumbing is your trusted plumbing partner, serving and surrounding areas. Our team of licensed plumbers provides comprehensive residential and commercial plumbing services with a commitment to quality and customer satisfaction. We offer prompt, professional service at fair prices, available 24/7 for all your plumbing needs.",
+    "photos": "https://lh5.googleusercontent.com/p/AF1QipOu6_Y1xWG3eXcixpCmHzuE3nNaQPQxFRXRPRdc=w800-h500-k-no",
+    "features": {
+      "feature1": "Licensed & Insured",
+      "feature2": "24/7 Emergency Service",
+      "feature3": "Expert Plumbers"
+    },
+    "coordinates": {
+      "latitude": 35.7938459999999,
+      "longitude": -89.60534
+    }
   }
 }
