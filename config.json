@@ -3,30 +3,20 @@
     "business": "name",
     "phone": "",
     "location": "city, state",
-    "reviewLink": "location_reviews_link",
-    "serviceArea": "city and surrounding areas",
-    "coordinates": {
-      "latitude": 0,
-      "longitude": 0
-    },
-    "aboutLabel": "name Professional Plumbing",
-    "aboutTitle": "Expert Plumbing Solutions",
-    "aboutDescription": "Our team of licensed plumbers brings you comprehensive plumbing solutions. From emergency repairs to new installations, we ensure quality service every time.",
+    "reviewLink": "reviews_link",
+    "heroImage": "",
+    "aboutLabel": "name Plumbing Services",
+    "aboutTitle": "Professional Plumbing Solutions",
+    "aboutDescription": "Our team of certified plumbers provides comprehensive plumbing solutions. With years of experience and commitment to quality, we ensure your plumbing needs are met efficiently.",
+    "photos": "",
     "features": {
       "feature1": "Licensed & Insured",
       "feature2": "24/7 Emergency Service",
-      "feature3": "Professional Plumbers"
+      "feature3": "Expert Plumbers"
     },
-    "primaryColor": "#003366",
-    "secondaryColor": "#e24a4a",
-    "rating": 0,
-    "reviewCount": 0,
-    "businessStatus": "business_status",
-    "website": "website_title",
-    "socialMedia": {
-      "facebook": "facebook",
-      "instagram": "instagram",
-      "twitter": "twitter"
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
     }
   },
   "PLUMB19": {
