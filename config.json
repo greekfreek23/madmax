@@ -1,7 +1,7 @@
 {
   "siteConfigs": {
     "11": {
-      "trackingId": "business_38",
+      "trackingId": "business_39",
       "businessName": "11",
       "phone": "",
       "email": "",
@@ -891,7 +891,7 @@
       "heroImages": [],
       "serviceArea": "",
       "reviewLink": "",
-      "primaryColor": "#000000",
+      "primaryColor": "#0052cc",
       "secondaryColor": "#ffffff",
       "about": "{}",
       "address": {
@@ -944,23 +944,6 @@
     "southeast_plumbing_solutions": {},
     "jimbo_s_plumbing_heating": {},
     "the_rooter_wizard_inc_": {},
-    "britt_s_septic_services": {
-      "r1": {
-        "name": "Brandy Weems",
-        "text": "just bought a house,wasn't sure about location of pump out ....they were awesome, went above and beyond to help and friendly folks! save yourself time, just call Britts....one and done ...they can pretty much handle whatever you got,and I trust them,thats important ?"
-      },
-      "r2": {
-        "name": "James Royal",
-        "text": "Excellent Work! Punctual and Reasonably Priced.  Would recommend to friends and family!"
-      },
-      "r3": {
-        "name": "Sheila Martin",
-        "text": "Very professional and informative"
-      },
-      "r4": {
-        "name": "Jonathan Morgan",
-        "text": "Professional septic service thank you"
-      }
-    }
+    "britt_s_septic_services": {}
   }
 }
