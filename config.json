@@ -810,6 +810,31 @@
       "social": {
         "facebook": ""
       }
+    },
+    "the_rooter_wizard_inc_": {
+      "trackingId": "business_35",
+      "businessName": "The Rooter Wizard Inc.",
+      "phone": "+1 228-209-6543",
+      "email": "",
+      "logo": "https://lh3.googleusercontent.com/-Ct3UH9yl3Sw/AAAAAAAAAAI/AAAAAAAAAAA/VIuWVk8m4IQ/s44-p-k-no-ns-nd/photo.jpg",
+      "heroImages": [
+        "https://lh3.googleusercontent.com/p/AF1QipNMo8bontIXXGBOEWBuhNHXxiSukUwqIfHS9THV=s680-w680-h510"
+      ],
+      "serviceArea": "",
+      "reviewLink": "",
+      "primaryColor": "#0052cc",
+      "secondaryColor": "#ffffff",
+      "about": "{\"From the business\": {\"Identifies as women-owned\": true}, \"Offerings\": {\"Repair services\": true}, \"Crowd\": {\"LGBTQ+ friendly\": true}, \"Payments\": {\"Credit cards\": true}, \"Other\": {\"LGBTQ+ friendly\": true, \"Identifies as women-owned\": true}}",
+      "address": {
+        "street": "19131 MS-67",
+        "city": "Biloxi",
+        "state": "Mississippi",
+        "zip": ""
+      },
+      "workingHours": "",
+      "social": {
+        "facebook": ""
+      }
     }
   },
   "reviewsData": {
@@ -846,35 +871,7 @@
     "m_t_handyman_llc": {},
     "merchant_plumbing": {},
     "southeast_plumbing_solutions": {},
-    "jimbo_s_plumbing_heating": {
-      "r1": {
-        "name": "Dean Brown",
-        "text": "Couldn't ask for more.  Jimmy and Jeff came out, inspected the situation, and had us up and running in no time.  Jimmy pointed out issues and corrected them, educating us every step of the way. Good, good service.  Fast and very competent."
-      },
-      "r2": {
-        "name": "Audrey Murphy",
-        "text": "Responsiveness, Punctuality, Quality"
-      },
-      "r3": {
-        "name": "Vernetta Jones",
-        "text": "I needed immediate service for a leaking water heater. Phone exchange was precise and helpful. Servicemen were  knowledgeable and quickly replaced the old unit and cleaned excessive water from the floor. The customer service was excellent. Definitely, highly recommend this company!"
-      },
-      "r4": {
-        "name": "Karen Roche",
-        "text": "Responsiveness, Punctuality, Quality, Professionalism, Value"
-      },
-      "r5": {
-        "name": "Whitney Moore",
-        "text": "Responsiveness, Quality, Professionalism"
-      },
-      "r6": {
-        "name": "Illi Bear",
-        "text": "Toilet repair, Plumbing leak detection, Plumbing leak repair"
-      },
-      "r7": {
-        "name": "Jeffery Spooner",
-        "text": "Wonderful service very professional very nice people gets the job done and done right highly recommend"
-      }
-    }
+    "jimbo_s_plumbing_heating": {},
+    "the_rooter_wizard_inc_": {}
   }
 }
