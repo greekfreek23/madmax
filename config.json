@@ -1,30 +1,476 @@
 {
-  "site1": {
-    "businessName": "Swift Flow Plumbing",
-    "phone": "(555) 123-4597",
-    "email": "info@swiftflow.com",
-    "logo": "https://lh3.googleusercontent.com/p/AF1QipNoNw-gvog_7_s_DOZp7rdiThxuw484m0xnbPL9=s680-w680-h510",
-    "heroImages": [
-      "https://lh3.googleusercontent.com/p/AF1QipMTwGQDyqn7DbVt8dp1V61REBHxNUiYLnJcW1W0=s680-w680-h510",
-      "https://lh3.googleusercontent.com/p/AF1QipPOUekGNqHgqI9ytwy3063efFNbBBwRd8NjXMBh=s680-w680-h510"
-    ],
-    "serviceArea": "Serving Central Arkansas with expert plumbing solutions",
-    "reviewLink": "https://g.page/r/swiftflow/review",
-    "primaryColor": "#FFA500",
-    "secondaryColor": "#ffffff"
+  "siteConfigs": {
+    "holland_plumbing_co": {
+      "businessName": "Holland Plumbing Co",
+      "phone": "",
+      "email": "",
+      "logo": "https://lh3.googleusercontent.com/-pBK8u13cEYY/AAAAAAAAAAI/AAAAAAAAAAA/1yz-1xCkres/s44-p-k-no-ns-nd/photo.jpg",
+      "heroImages": [],
+      "serviceArea": "",
+      "reviewLink": "",
+      "primaryColor": "#0000FF",
+      "secondaryColor": "red",
+      "about": "{}",
+      "address": {
+        "street": "10208 Meadowbrook Ave",
+        "city": "Ocean Springs",
+        "state": "Mississippi",
+        "zip": ""
+      },
+      "workingHours": "",
+      "social": {
+        "facebook": ""
+      }
+    },
+    "k_j_plumbing": {
+      "businessName": "K & J Plumbing",
+      "phone": "",
+      "email": "",
+      "logo": "",
+      "heroImages": [],
+      "serviceArea": "",
+      "reviewLink": "",
+      "primaryColor": "red",
+      "secondaryColor": "blue",
+      "about": "{}",
+      "address": {
+        "street": "122 Ridgecrest St",
+        "city": "Lucedale",
+        "state": "Mississippi",
+        "zip": ""
+      },
+      "workingHours": "",
+      "social": {
+        "facebook": ""
+      }
+    },
+    "townsend_brothers_inc": {
+      "businessName": "Townsend Brothers Inc",
+      "phone": "",
+      "email": "",
+      "logo": "",
+      "heroImages": [],
+      "serviceArea": "",
+      "reviewLink": "",
+      "primaryColor": "#000000",
+      "secondaryColor": "#ffffff",
+      "about": "{}",
+      "address": {
+        "street": "90 Delk Rd",
+        "city": "Hattiesburg",
+        "state": "Mississippi",
+        "zip": ""
+      },
+      "workingHours": "",
+      "social": {
+        "facebook": ""
+      }
+    },
+    "george_moore_plumbing_co": {
+      "businessName": "George Moore Plumbing Co",
+      "phone": "",
+      "email": "",
+      "logo": "",
+      "heroImages": [],
+      "serviceArea": "",
+      "reviewLink": "",
+      "primaryColor": "#000000",
+      "secondaryColor": "#ffffff",
+      "about": "{}",
+      "address": {
+        "street": "148 Green Bay Dr",
+        "city": "Hattiesburg",
+        "state": "Mississippi",
+        "zip": ""
+      },
+      "workingHours": "",
+      "social": {
+        "facebook": ""
+      }
+    },
+    "septic_services_llc": {
+      "businessName": "Septic Services LLC",
+      "phone": "",
+      "email": "",
+      "logo": "",
+      "heroImages": [],
+      "serviceArea": "",
+      "reviewLink": "",
+      "primaryColor": "#000000",
+      "secondaryColor": "#ffffff",
+      "about": "{}",
+      "address": {
+        "street": "",
+        "city": "Hattiesburg",
+        "state": "Mississippi",
+        "zip": ""
+      },
+      "workingHours": "",
+      "social": {
+        "facebook": ""
+      }
+    },
+    "smith_s_septic_pumping": {
+      "businessName": "Smith's Septic Pumping",
+      "phone": "",
+      "email": "",
+      "logo": "https://lh3.googleusercontent.com/a-/ALV-UjXXQHQ12dAvKUWK8tyd67qQEAo7RnbLO-jI2dTtq6p0CCiBal0=w60-h60-p-rp-mo-br100",
+      "heroImages": [],
+      "serviceArea": "",
+      "reviewLink": "",
+      "primaryColor": "#ff0000",
+      "secondaryColor": "#ffffff",
+      "about": "{}",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": ""
+      },
+      "workingHours": "",
+      "social": {
+        "facebook": ""
+      }
+    },
+    "drain_king": {
+      "businessName": "Drain King",
+      "phone": "",
+      "email": "",
+      "logo": "https://lh4.googleusercontent.com/-XA-Oii1Q5hA/AAAAAAAAAAI/AAAAAAAAAAA/7F9cH467kaI/s44-p-k-no-ns-nd/photo.jpg",
+      "heroImages": [
+        "https://lh3.googleusercontent.com/p/AF1QipPcMgeRZlnJa77t_qWP_MKVnD0ANCUJt8YD7Nqu=s680-w680-h510",
+        "https://lh3.googleusercontent.com/p/AF1QipMXnYzn78fzu4kyeN1dBxcwE2z5JPWn_W9-91-a=s680-w680-h510",
+        "https://lh3.googleusercontent.com/p/AF1QipMua4N9TGR6UdKsB93rKwkCjz44QKfggts6DUgE=s680-w680-h510"
+      ],
+      "serviceArea": "",
+      "reviewLink": "",
+      "primaryColor": "#000000",
+      "secondaryColor": "#0052cc",
+      "about": "{}",
+      "address": {
+        "street": "802 Duane St",
+        "city": "Hattiesburg",
+        "state": "Mississippi",
+        "zip": ""
+      },
+      "workingHours": "",
+      "social": {
+        "facebook": ""
+      }
+    },
+    "cedar_hill_mechanical_llc": {
+      "businessName": "Cedar Hill Mechanical LLC",
+      "phone": "",
+      "email": "",
+      "logo": "https://lh4.googleusercontent.com/-v7XH_2wBVrM/AAAAAAAAAAI/AAAAAAAAAAA/O3oGQ5udAF4/s44-p-k-no-ns-nd/photo.jpg",
+      "heroImages": [],
+      "serviceArea": "",
+      "reviewLink": "",
+      "primaryColor": "#0052cc",
+      "secondaryColor": "#0052cc",
+      "about": "{}",
+      "address": {
+        "street": "70 Timothy Rd",
+        "city": "Ellisville",
+        "state": "Mississippi",
+        "zip": ""
+      },
+      "workingHours": "",
+      "social": {
+        "facebook": ""
+      }
+    },
+    "blythes_plumbing": {
+      "businessName": "Blythes Plumbing",
+      "phone": "",
+      "email": "cblytheplumbing@yahoo.com",
+      "logo": "https://lh4.googleusercontent.com/-v7XH_2wBVrM/AAAAAAAAAAI/AAAAAAAAAAA/O3oGQ5udAF4/s44-p-k-no-ns-nd/photo.jpg",
+      "heroImages": [
+        "https://lh3.googleusercontent.com/p/AF1QipPcMgeRZlnJa77t_qWP_MKVnD0ANCUJt8YD7Nqu=s680-w680-h510",
+        "https://lh3.googleusercontent.com/p/AF1QipMXnYzn78fzu4kyeN1dBxcwE2z5JPWn_W9-91-a=s680-w680-h510",
+        "https://lh3.googleusercontent.com/p/AF1QipMua4N9TGR6UdKsB93rKwkCjz44QKfggts6DUgE=s680-w680-h510"
+      ],
+      "serviceArea": "",
+      "reviewLink": "",
+      "primaryColor": "#ff0000",
+      "secondaryColor": "#0052cc",
+      "about": "{}",
+      "address": {
+        "street": "803 Market St",
+        "city": "Pascagoula",
+        "state": "Mississippi",
+        "zip": ""
+      },
+      "workingHours": "",
+      "social": {
+        "facebook": "https://www.facebook.com/Chrisblytheplumbing/"
+      }
+    },
+    "pearl_plumbing": {
+      "businessName": "Pearl Plumbing",
+      "phone": "",
+      "email": "",
+      "logo": "https://lh3.googleusercontent.com/-BkBLcqIeZuQ/AAAAAAAAAAI/AAAAAAAAAAA/_2McNTPV6S8/s44-p-k-no-ns-nd/photo.jpg",
+      "heroImages": [],
+      "serviceArea": "",
+      "reviewLink": "",
+      "primaryColor": "#000000",
+      "secondaryColor": "#ffffff",
+      "about": "{\"Payments\": {\"Credit cards\": true}}",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": ""
+      },
+      "workingHours": "",
+      "social": {
+        "facebook": ""
+      }
+    },
+    "all_around_plumbing_service_llc": {
+      "businessName": "All Around Plumbing Service LLC",
+      "phone": "",
+      "email": "",
+      "logo": "https://lh3.googleusercontent.com/p/AF1QipM4O6YmK0P8OaJcaGuI0rAnlI-3qKaJTACYAT3i=s680-w680-h510",
+      "heroImages": [
+        "https://lh3.googleusercontent.com/p/AF1QipPZaRQSyEP2MllR4X17RZmjDCvq8ntK8A6qgxSd=s680-w680-h510",
+        "https://lh3.googleusercontent.com/p/AF1QipPAud3ABk2IV5eX9J3F7uGh9dBTb7vghLtJQABP=s680-w680-h510"
+      ],
+      "serviceArea": "We are a independently owned plumbing company that provides the best service at the best price",
+      "reviewLink": "",
+      "primaryColor": "#000000",
+      "secondaryColor": "#ff0000",
+      "about": "{}",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": ""
+      },
+      "workingHours": "",
+      "social": {
+        "facebook": ""
+      }
+    },
+    "long_s_plumbing": {
+      "businessName": "Long's Plumbing",
+      "phone": "",
+      "email": "",
+      "logo": "https://lh3.googleusercontent.com/-SNghUpIC56c/AAAAAAAAAAI/AAAAAAAAAAA/ceKRhLQQQ-c/s44-p-k-no-ns-nd/photo.jpg",
+      "heroImages": [],
+      "serviceArea": "",
+      "reviewLink": "",
+      "primaryColor": "#000000",
+      "secondaryColor": "#ffffff",
+      "about": "{}",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": ""
+      },
+      "workingHours": "",
+      "social": {
+        "facebook": ""
+      }
+    },
+    "r_and_r_residential_services": {
+      "businessName": "R And R Residential Services",
+      "phone": "",
+      "email": "",
+      "logo": "",
+      "heroImages": [],
+      "serviceArea": "",
+      "reviewLink": "",
+      "primaryColor": "#000000",
+      "secondaryColor": "#ffffff",
+      "about": "{}",
+      "address": {
+        "street": "197 Hoadley Rd",
+        "city": "Poplarville",
+        "state": "Mississippi",
+        "zip": ""
+      },
+      "workingHours": "",
+      "social": {
+        "facebook": ""
+      }
+    },
+    "reeves_heating_cooling": {
+      "businessName": "Reeves Heating & Cooling",
+      "phone": "",
+      "email": "jack@reevesheatingandcooling.com",
+      "logo": "",
+      "heroImages": [],
+      "serviceArea": "",
+      "reviewLink": "",
+      "primaryColor": "#000000",
+      "secondaryColor": "#ffffff",
+      "about": "{}",
+      "address": {
+        "street": "3600 Peachtree Dr",
+        "city": "Natchez",
+        "state": "Mississippi",
+        "zip": ""
+      },
+      "workingHours": "",
+      "social": {
+        "facebook": "https://www.facebook.com/people/Reeves-Heating-and-Cooling-Inc/100087572026880/"
+      }
+    },
+    "j_t_plumbing": {
+      "businessName": "J T Plumbing",
+      "phone": "",
+      "email": "",
+      "logo": "",
+      "heroImages": [],
+      "serviceArea": "",
+      "reviewLink": "",
+      "primaryColor": "#000000",
+      "secondaryColor": "#ffffff",
+      "about": "{}",
+      "address": {
+        "street": "",
+        "city": "McComb",
+        "state": "Mississippi",
+        "zip": ""
+      },
+      "workingHours": "",
+      "social": {
+        "facebook": ""
+      }
+    },
+    "b_c_a_c_and_refrigeration_llc": {
+      "businessName": "B&C A/C and Refrigeration, LLC",
+      "phone": "",
+      "email": "",
+      "logo": "https://lh6.googleusercontent.com/-IVCzsTa3j6U/AAAAAAAAAAI/AAAAAAAAAAA/3bk2rcEF_6g/s44-p-k-no-ns-nd/photo.jpg",
+      "heroImages": [],
+      "serviceArea": "",
+      "reviewLink": "",
+      "primaryColor": "#000000",
+      "secondaryColor": "#ffffff",
+      "about": "{\"Service options\": {\"Onsite services\": true, \"Online estimates\": false}}",
+      "address": {
+        "street": "4822 MS-33",
+        "city": "Gloster",
+        "state": "Mississippi",
+        "zip": ""
+      },
+      "workingHours": "",
+      "social": {
+        "facebook": ""
+      }
+    },
+    "dave_co_plumbing": {
+      "businessName": "Dave-Co Plumbing",
+      "phone": "",
+      "email": "davecoplumbing@aol.com",
+      "logo": "",
+      "heroImages": [],
+      "serviceArea": "",
+      "reviewLink": "",
+      "primaryColor": "#000000",
+      "secondaryColor": "#ffffff",
+      "about": "{}",
+      "address": {
+        "street": "11946 Ferdinand St",
+        "city": "St Francisville",
+        "state": "Louisiana",
+        "zip": ""
+      },
+      "workingHours": "",
+      "social": {
+        "facebook": "https://www.facebook.com/people/Dave-Co-Plumbing-St-Francisville/100057098063760/"
+      }
+    },
+    "escatawpa_laundry": {
+      "businessName": "Escatawpa Laundry",
+      "phone": "",
+      "email": "",
+      "logo": "",
+      "heroImages": [],
+      "serviceArea": "",
+      "reviewLink": "",
+      "primaryColor": "#000000",
+      "secondaryColor": "#ffffff",
+      "about": "{\"Accessibility\": {\"Wheelchair accessible entrance\": true, \"Wheelchair accessible parking lot\": true}}",
+      "address": {
+        "street": "7001 MS-613",
+        "city": "Moss Point",
+        "state": "Mississippi",
+        "zip": ""
+      },
+      "workingHours": "",
+      "social": {
+        "facebook": ""
+      }
+    }
   },
-  "site2": {
-    "businessName": "Green Wave Plumbing",
-    "phone": "(555) 987-6543",
-    "email": "info@greenwave.com",
-    "logo": "https://lh3.googleusercontent.com/p/AF1QipPqBTAPXOhOD7xMnE7qlb6V_Lsfvk5Rz9g1fomK=s680-w680-h510",
-    "heroImages": [
-      "https://lh3.googleusercontent.com/p/AF1QipM-E8U11jGLF1mtihPMfXstExU4hi8FEpYtS08N=s680-w680-h510",
-      "https://lh3.googleusercontent.com/p/AF1QipNrbrjkDZX2wgbrqu-bNJUkl6sz6MeSUwyFZfQQ=s680-w680-h510"
-    ],
-    "serviceArea": "Serving Little Rock and surrounding areas",
-    "reviewLink": "https://g.page/r/greenwave/review",
-    "primaryColor": "#008000",
-    "secondaryColor": "#ffffff"
+  "reviewsData": {
+    "holland_plumbing_co": {},
+    "k_j_plumbing": {},
+    "townsend_brothers_inc": {},
+    "george_moore_plumbing_co": {},
+    "septic_services_llc": {},
+    "smith_s_septic_pumping": {},
+    "drain_king": {},
+    "cedar_hill_mechanical_llc": {},
+    "blythes_plumbing": {},
+    "pearl_plumbing": {},
+    "all_around_plumbing_service_llc": {},
+    "long_s_plumbing": {},
+    "r_and_r_residential_services": {},
+    "reeves_heating_cooling": {},
+    "j_t_plumbing": {},
+    "b_c_a_c_and_refrigeration_llc": {},
+    "dave_co_plumbing": {},
+    "escatawpa_laundry": {
+      "r1": {
+        "name": "Simple Man",
+        "text": "Love the new machines the ones I used worked great. I didn't see any hours posted but they were open at 8AM on Saturday when I visited. The only weird/ annoying thing for me is that the change machine only gives dollar coins which is kinda odd in my opinion but not a show stopper."
+      },
+      "r2": {
+        "name": "Donna Lizana",
+        "text": "This place is so clean! There is a woman named Jessica sweeping and mopping and dusting. I had lots of laundry washed and dried in record time and could even use my bank card to pay for it. Would recommend this place to anyone!"
+      },
+      "r3": {
+        "name": "Anibal Colon",
+        "text": "HUGE MACHINES ARE AWESOME. I did like 5 loads all in one and the dryers are huge and quick also. 1 hour and 5 loads done. Awesome. The guy cleaning the place does a great job and was super kind"
+      },
+      "r4": {
+        "name": "Daniel Bullock",
+        "text": "love this place , there the cheapest around Moss Point and Escatawpa. Open 24 hours as well . Clean Bathroom and even an arcade game or to . Nice big screen TV. They always keep it clean , A very nice place.."
+      },
+      "r5": {
+        "name": "Uriah Cosgrove",
+        "text": "The most awesome part is the staff. And by staff I mean Miss Jessica. This place always smells so clean. I've witnessed the woman cleaning crud off the door with a toothbrush. She is also very helpful. I'm a messy man and she knows what stains can come out.and recommends the right stuff. Good staff can keep a business afloat. She's the reason I spend my money here. Great job Jessica and Escatawpa Laundry!"
+      },
+      "r6": {
+        "name": "Jessie Kemp",
+        "text": "Best laundromat around I highly recommend you using this place barbers and dryers are half price from midnight to 6:00 a.m. washers get your clothes good and clean and the dryers dry your clothes fast very clean place"
+      },
+      "r7": {
+        "name": "Christopher Futch",
+        "text": "5 stars for function."
+      },
+      "r8": {
+        "name": "Michael Mclendon",
+        "text": "The owners are down to earth good people and you don't have to worry about a machine taking your money because they will take care of it machines are all new and work great"
+      },
+      "r9": {
+        "name": "Charles Glover",
+        "text": "Real nice, brand new machines and super affordable it cost 2 dollars for a small wash and a dollar to dry. I was in and out in no time. The facility has a bathroom, and operates 24 hours. Crystal was there to clean the facility, and make sure everything was in working order. Nice little business. Would recommend."
+      },
+      "r10": {
+        "name": "Nannette Taylor",
+        "text": "I have lived in Moss Point area for 6 years now and I've been a regular of this laundromat. It is so much better since The Taylor's bought it and they are God loving good people!!"
+      },
+      "r11": {
+        "name": "Luke Tischler",
+        "text": "Don't waste your Time at Any Other Laundrymat on the Mississippi Coast !"
+      }
+    }
   }
 }
