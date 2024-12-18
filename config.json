@@ -1,1 +1,110 @@
-
+{
+  "siteConfigs": {
+    "148": {
+      "trackingId": "business_4",
+      "businessName": "148",
+      "phone": "https://lh3.googleusercontent.com/p/AF1QipODzaK7XkoNUJ3G_WB3axmuVkdYuweeLLqHQcSt=s680-w680-h510",
+      "email": "",
+      "logo": "",
+      "heroImages": [],
+      "serviceArea": "",
+      "reviewLink": "",
+      "primaryColor": "#000000",
+      "secondaryColor": "#ffffff",
+      "about": "",
+      "reviewCount": "0",
+      "rating": "https://www.google.com/maps/contrib/109843765878159353771",
+      "ownerName": "",
+      "street": "https://www.google.com/maps/place/Diamond+State+Plumbing/@34.7582743,-92.3981211,14z/data=!4m8!1m2!2m1!1sDiamond+State+Plumbing!3m4!1s0x87d2a1313d09cc83:0xe51331f92d36055d!8m2!3d34.7582743!4d-92.3981211",
+      "city": "506 Mimi Ln",
+      "state": "72211",
+      "zip": "",
+      "workingHours": "",
+      "social": {
+        "facebook": ""
+      }
+    },
+    "superior_plumbing": {
+      "trackingId": "business_1",
+      "businessName": "Superior Plumbing",
+      "phone": "+1 870-206-7809",
+      "email": "",
+      "logo": "https://lh3.googleusercontent.com/-YyHjsTGmQSk/AAAAAAAAAAI/AAAAAAAAAAA/JU28YtRZNF4/s44-p-k-no-ns-nd/photo.jpg",
+      "heroImages": [],
+      "serviceArea": "",
+      "reviewLink": "",
+      "primaryColor": "#000000",
+      "secondaryColor": "#ffffff",
+      "about": "{}",
+      "reviewCount": "7",
+      "rating": "3.6",
+      "ownerName": "",
+      "street": "3008 Riggs St Ste A",
+      "city": "Jonesboro",
+      "state": "Arkansas",
+      "zip": "",
+      "workingHours": "",
+      "social": {
+        "facebook": ""
+      }
+    },
+    "koons_plumbing": {
+      "trackingId": "business_2",
+      "businessName": "Koons Plumbing",
+      "phone": "+1 870-647-2349",
+      "email": "",
+      "logo": "",
+      "heroImages": [],
+      "serviceArea": "",
+      "reviewLink": "",
+      "primaryColor": "#000000",
+      "secondaryColor": "#ffffff",
+      "about": "{}",
+      "reviewCount": "8",
+      "rating": "5",
+      "ownerName": "",
+      "street": "628 Stokes Rd",
+      "city": "Pocahontas",
+      "state": "Arkansas",
+      "zip": "",
+      "workingHours": "",
+      "social": {
+        "facebook": ""
+      }
+    },
+    "diamond_state_plumbing": {
+      "trackingId": "business_3",
+      "businessName": "Diamond State Plumbing",
+      "phone": "+1 501-585-5454",
+      "email": "diamondstateplumbing18@gmail.com",
+      "logo": "https://lh3.googleusercontent.com/p/AF1QipODzaK7XkoNUJ3G_WB3axmuVkdYuweeLLqHQcSt=s680-w680-h510",
+      "heroImages": [
+        "https://lh3.googleusercontent.com/p/AF1QipMGW_cYHYKb5GstWL15C400LkZ4iqruPjWCR55Q=s680-w680-h510",
+        "https://lh3.googleusercontent.com/p/AF1QipPlU0CXXKEVe2ADqmr5BuUSzGwR2GeoTKB9YwjX=s680-w680-h510",
+        "https://lh3.googleusercontent.com/p/AF1QipPfEveMeA8Qvb9f9AUcHQ8ujTT3luFCe0eCMw1n=s680-w680-h510"
+      ],
+      "serviceArea": "",
+      "reviewLink": "",
+      "primaryColor": "#000000",
+      "secondaryColor": "#ffffff",
+      "about": "{\"Payments\": {\"NFC mobile payments\": true, \"Credit cards\": true}}",
+      "reviewCount": "148",
+      "rating": "4.8",
+      "ownerName": "",
+      "street": "506 Mimi Ln",
+      "city": "Little Rock",
+      "state": "Arkansas",
+      "zip": "",
+      "workingHours": "",
+      "social": {
+        "facebook": "https://www.facebook.com/DiamondStatePlumbing-172220143479018/"
+      }
+    }
+  },
+  "reviewsData": {
+    "148": {},
+    "superior_plumbing": {},
+    "koons_plumbing": {},
+    "diamond_state_plumbing": {}
+  }
+}
