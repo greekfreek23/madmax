@@ -2,10 +2,10 @@
   "siteConfigs": {
     "1": {
       "trackingId": "business_1",
-      "businessName": "Dave's Plumbing & Electrical",
-      "phone": "+1 870-236-1553",
+      "businessName": "Superior Plumbing",
+      "phone": "+1 870-206-7809",
       "email": "",
-      "logo": "",
+      "logo": "https://lh3.googleusercontent.com/-YyHjsTGmQSk/AAAAAAAAAAI/AAAAAAAAAAA/JU28YtRZNF4/s44-p-k-no-ns-nd/photo.jpg",
       "heroImages": [],
       "serviceArea": "",
       "reviewLink": "",
@@ -13,8 +13,8 @@
       "secondaryColor": "#ffffff",
       "about": "{}",
       "address": {
-        "street": "100 S 17th Ave",
-        "city": "Paragould",
+        "street": "3008 Riggs St Ste A",
+        "city": "Jonesboro",
         "state": "Arkansas",
         "zip": ""
       },
@@ -25,31 +25,8 @@
     },
     "2": {
       "trackingId": "business_2",
-      "businessName": "Harper's Drain Cleaning",
-      "phone": "+1 870-759-1643",
-      "email": "",
-      "logo": "https://lh6.googleusercontent.com/-cKjf8ISjnP0/AAAAAAAAAAI/AAAAAAAAAAA/nuncwSvYLQE/s44-p-k-no-ns-nd/photo.jpg",
-      "heroImages": [],
-      "serviceArea": "",
-      "reviewLink": "",
-      "primaryColor": "#000000",
-      "secondaryColor": "#ffffff",
-      "about": "{}",
-      "address": {
-        "street": "310 NE 4th St",
-        "city": "Walnut Ridge",
-        "state": "Arkansas",
-        "zip": ""
-      },
-      "workingHours": "",
-      "social": {
-        "facebook": ""
-      }
-    },
-    "3": {
-      "trackingId": "business_3",
-      "businessName": "136",
-      "phone": "https://lh6.googleusercontent.com/-cKjf8ISjnP0/AAAAAAAAAAI/AAAAAAAAAAA/nuncwSvYLQE/s44-p-k-no-ns-nd/photo.jpg",
+      "businessName": "7",
+      "phone": "https://lh3.googleusercontent.com/-YyHjsTGmQSk/AAAAAAAAAAI/AAAAAAAAAAA/JU28YtRZNF4/s44-p-k-no-ns-nd/photo.jpg",
       "email": "",
       "logo": "",
       "heroImages": [],
@@ -59,8 +36,8 @@
       "secondaryColor": "#ffffff",
       "about": "",
       "address": {
-        "street": "https://www.google.com/maps/place/Harper%27s+Drain+Cleaning/@36.067304199999995,-90.9505812,14z/data=!4m8!1m2!2m1!1sHarper%27s+Drain+Cleaning!3m4!1s0x87d6a39a0501ec51:0xc03396f91cb4ff93!8m2!3d36.067304199999995!4d-90.9505812",
-        "city": "310 NE 4th St",
+        "street": "https://www.google.com/maps/place/Superior+Plumbing/@35.8272974,-90.6685871,14z/data=!4m8!1m2!2m1!1sSuperior+Plumbing!3m4!1s0x87d42bf816e5cde7:0x189f149945fd11f5!8m2!3d35.8272974!4d-90.6685871",
+        "city": "3008 Riggs St Ste A",
         "state": "",
         "zip": ""
       },
@@ -71,57 +48,20 @@
     }
   },
   "reviewsData": {
-    "1": {},
-    "2": {
+    "1": {
       "r1": {
-        "name": "Brooke Lillard",
-        "text": "Mr.Harper came out the same day we called him. He had our drain fixed in no time and was very reasonably priced! Will be recommending to friends and family members!"
+        "name": "Madison Griffin",
+        "text": "Great job and great guys! They knocked out our plumbing work for our house so quick and good! Better communicators than most the other construction people!"
       },
       "r2": {
-        "name": "Kevin Hamilton",
-        "text": "Mr.. Harper is great man. I called with  a problem and he was able to give me some help over the phone to help me out!  If that didnt work he was gonna come and do the job at a great price. He was nice enough to try to save me some money and gave me a couple of ideas over the phone and it worked. Will be my first call for any future plumbing problems in the future!"
+        "name": "Amanda Jones",
+        "text": "Very nice environment and the people are very helpful"
       },
       "r3": {
-        "name": "Alexandria Lopez",
-        "text": "Our toilet was not flushing. I was pregnant with no working toilet. Imagine that. Very good Christian man who came out on a Sunday to do the job. Friendly service with affordable pricing. Hands down the best plumber."
-      },
-      "r4": {
-        "name": "Shelbi Andrews",
-        "text": "Harper?s Drain Cleaning is the person to call. On Memorial Day weekend, he came on a Sunday to help us. He is honest, professional and very reasonably priced. We are so happy we called them!"
-      },
-      "r5": {
-        "name": "Coleman James",
-        "text": "Harper?s Drain Cleaning awesome service. Chris was there for us and kept the city on their toes with their part. He continuously kept coming out to see if the city did their part that way he could help us with the issues on our end. Great customer service and very polite and respectful and great affordable pricing!"
-      },
-      "r6": {
-        "name": "Tasha Ray",
-        "text": "Great and friendly service, showed up in a timely manner, and had us fixed up pretty quickly."
-      },
-      "r7": {
-        "name": "Dianna Willie",
-        "text": "Absolutley Great Service. Friendly and Resonably Price. My Mom uses him alot"
-      },
-      "r8": {
-        "name": "Michelle Easton",
-        "text": "We always receive fast, friendly and excellent service. I highly recommend Harper's Drain Cleaning."
-      },
-      "r9": {
-        "name": "Wendell Tolson",
-        "text": "Work was done immediately and perfect. Chris followed up to make sure everything was working. Awesome service!!"
-      },
-      "r10": {
-        "name": "Bobby Turner",
-        "text": "When our bathtub stopped draining, we called Mr Harper and he was at our house in less than 30 minutes, and had fixed the problem in less than an hour.  Would highly recommend."
-      },
-      "r11": {
-        "name": "Donna Mullen",
-        "text": "Great Job! Very affordable! Showed up exactly when he said he would. Got my issue figured out and resolved it quickly. Explained how to keep from having any reoccurring issues. Thank you again!"
-      },
-      "r12": {
-        "name": "Heather Palmer",
-        "text": "Cannot say enough good things about the team! Will never use anyone else! Honest and genuine people who care about getting their customers taken care of!"
+        "name": "Dana Simpkins",
+        "text": "I would recommend to anyone!"
       }
     },
-    "3": {}
+    "2": {}
   }
 }
