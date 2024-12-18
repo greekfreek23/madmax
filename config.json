@@ -389,7 +389,7 @@
       }
     },
     "j_s_plumbing_inc_": {
-      "trackingId": "business_16",
+      "trackingId": "business_52",
       "businessName": "J & S Plumbing Inc.",
       "phone": "+1 501-707-5140",
       "email": "",
@@ -437,7 +437,7 @@
       }
     },
     "bryan_baird_s_plumbing": {
-      "trackingId": "business_18",
+      "trackingId": "business_59",
       "businessName": "Bryan Baird's Plumbing",
       "phone": "+1 479-747-6492",
       "email": "",
@@ -989,7 +989,7 @@
       }
     },
     "a_to_z_plumbing": {
-      "trackingId": "business_44",
+      "trackingId": "business_60",
       "businessName": "A To Z Plumbing",
       "phone": "+1 479-754-4747",
       "email": "azplumbn@hotmail.com",
@@ -1002,7 +1002,7 @@
       "about": "{\"Payments\": {\"Credit cards\": true}}",
       "reviewCount": "46",
       "rating": "3.7",
-      "ownerName": "d",
+      "ownerName": "",
       "street": "1385 AR-21",
       "city": "Clarksville",
       "state": "Arkansas",
@@ -1107,6 +1107,174 @@
       "social": {
         "facebook": ""
       }
+    },
+    "kordsmeier_plumbing": {
+      "trackingId": "business_51",
+      "businessName": "Kordsmeier Plumbing",
+      "phone": "+1 501-354-1044",
+      "email": "",
+      "logo": "",
+      "heroImages": [],
+      "serviceArea": "",
+      "reviewLink": "",
+      "primaryColor": "#000000",
+      "secondaryColor": "#ffffff",
+      "about": "{}",
+      "reviewCount": "22",
+      "rating": "4.4",
+      "ownerName": "",
+      "street": "1207 E Rock St",
+      "city": "Morrilton",
+      "state": "Arkansas",
+      "zip": "",
+      "workingHours": "",
+      "social": {
+        "facebook": ""
+      }
+    },
+    "cotter_bridge": {
+      "trackingId": "business_53",
+      "businessName": "Cotter Bridge",
+      "phone": "",
+      "email": "",
+      "logo": "",
+      "heroImages": [],
+      "serviceArea": "",
+      "reviewLink": "",
+      "primaryColor": "#000000",
+      "secondaryColor": "#ffffff",
+      "about": "{}",
+      "reviewCount": "59",
+      "rating": "4.9",
+      "ownerName": "",
+      "street": "",
+      "city": "Cotter",
+      "state": "Arkansas",
+      "zip": "",
+      "workingHours": "",
+      "social": {
+        "facebook": ""
+      }
+    },
+    "wright_s_heating_air_conditioning": {
+      "trackingId": "business_54",
+      "businessName": "Wright's Heating & Air Conditioning",
+      "phone": "+1 479-394-5894",
+      "email": "",
+      "logo": "https://lh3.googleusercontent.com/-aYRr_QZj6P4/AAAAAAAAAAI/AAAAAAAAAAA/zoFyftaoZWw/s44-p-k-no-ns-nd/photo.jpg",
+      "heroImages": [],
+      "serviceArea": "",
+      "reviewLink": "",
+      "primaryColor": "#000000",
+      "secondaryColor": "#ffffff",
+      "about": "{}",
+      "reviewCount": "57",
+      "rating": "5",
+      "ownerName": "",
+      "street": "1180 US-71 South",
+      "city": "Mena",
+      "state": "Arkansas",
+      "zip": "",
+      "workingHours": "",
+      "social": {
+        "facebook": ""
+      }
+    },
+    "farmer_s_septic_tanks_services": {
+      "trackingId": "business_55",
+      "businessName": "Farmer's Septic Tanks Services",
+      "phone": "+1 870-367-8339",
+      "email": "",
+      "logo": "",
+      "heroImages": [],
+      "serviceArea": "",
+      "reviewLink": "",
+      "primaryColor": "#000000",
+      "secondaryColor": "#ffffff",
+      "about": "{}",
+      "reviewCount": "2",
+      "rating": "3.5",
+      "ownerName": "",
+      "street": "1820 AR-35",
+      "city": "Monticello",
+      "state": "Arkansas",
+      "zip": "",
+      "workingHours": "",
+      "social": {
+        "facebook": ""
+      }
+    },
+    "white_s_electric_heating_air_conditioning": {
+      "trackingId": "business_56",
+      "businessName": "White's Electric Heating & Air Conditioning",
+      "phone": "+1 870-853-2112",
+      "email": "",
+      "logo": "https://lh4.googleusercontent.com/-DDylYkVpWnU/AAAAAAAAAAI/AAAAAAAAAAA/GJpckVC5A18/s44-p-k-no-ns-nd/photo.jpg",
+      "heroImages": [],
+      "serviceArea": "",
+      "reviewLink": "",
+      "primaryColor": "#000000",
+      "secondaryColor": "#ffffff",
+      "about": "{}",
+      "reviewCount": "2",
+      "rating": "3",
+      "ownerName": "",
+      "street": "200 E Polk St",
+      "city": "Hamburg",
+      "state": "Arkansas",
+      "zip": "",
+      "workingHours": "",
+      "social": {
+        "facebook": ""
+      }
+    },
+    "pilgreen_electrical_services": {
+      "trackingId": "business_57",
+      "businessName": "Pilgreen Electrical Services",
+      "phone": "+1 870-353-6142",
+      "email": "",
+      "logo": "",
+      "heroImages": [],
+      "serviceArea": "",
+      "reviewLink": "",
+      "primaryColor": "#000000",
+      "secondaryColor": "#ffffff",
+      "about": "{}",
+      "reviewCount": "2",
+      "rating": "5",
+      "ownerName": "",
+      "street": "219 N 1st St",
+      "city": "Gurdon",
+      "state": "Arkansas",
+      "zip": "",
+      "workingHours": "",
+      "social": {
+        "facebook": ""
+      }
+    },
+    "johnny_barnett_plumbing": {
+      "trackingId": "business_58",
+      "businessName": "Johnny Barnett Plumbing",
+      "phone": "+1 479-476-2416",
+      "email": "",
+      "logo": "",
+      "heroImages": [],
+      "serviceArea": "",
+      "reviewLink": "",
+      "primaryColor": "#000000",
+      "secondaryColor": "#ffffff",
+      "about": "{}",
+      "reviewCount": "2",
+      "rating": "5",
+      "ownerName": "",
+      "street": "",
+      "city": "Havana",
+      "state": "Arkansas",
+      "zip": "",
+      "workingHours": "",
+      "social": {
+        "facebook": ""
+      }
     }
   },
   "reviewsData": {
@@ -1155,6 +1323,13 @@
     "the_village_plumber": {},
     "mid_south_heat_air": {},
     "davidbrooks_plumbing_and_heating_and_air": {},
-    "hector_s_construction_remodeling_llc_": {}
+    "hector_s_construction_remodeling_llc_": {},
+    "kordsmeier_plumbing": {},
+    "cotter_bridge": {},
+    "wright_s_heating_air_conditioning": {},
+    "farmer_s_septic_tanks_services": {},
+    "white_s_electric_heating_air_conditioning": {},
+    "pilgreen_electrical_services": {},
+    "johnny_barnett_plumbing": {}
   }
 }
