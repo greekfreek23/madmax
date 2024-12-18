@@ -1,1 +1,91 @@
-
+{
+  "siteConfigs": {
+    "8": {
+      "trackingId": "business_3",
+      "businessName": "8",
+      "phone": "",
+      "email": "",
+      "logo": "",
+      "heroImages": [],
+      "serviceArea": "",
+      "reviewLink": "",
+      "primaryColor": "#000000",
+      "secondaryColor": "#ffffff",
+      "about": "",
+      "address": {
+        "street": "https://www.google.com/maps/place/Koons+Plumbing/@36.3519477,-90.9457473,14z/data=!4m8!1m2!2m1!1sKoons+Plumbing!3m4!1s0x87d6c3d2adfa3fed:0xad863d60362c51f1!8m2!3d36.3519477!4d-90.9457473",
+        "city": "628 Stokes Rd",
+        "state": "",
+        "zip": ""
+      },
+      "workingHours": "",
+      "social": {
+        "facebook": ""
+      }
+    },
+    "superior_plumbing": {
+      "trackingId": "business_1",
+      "businessName": "Superior Plumbing",
+      "phone": "+1 870-206-7809",
+      "email": "",
+      "logo": "https://lh3.googleusercontent.com/-YyHjsTGmQSk/AAAAAAAAAAI/AAAAAAAAAAA/JU28YtRZNF4/s44-p-k-no-ns-nd/photo.jpg",
+      "heroImages": [],
+      "serviceArea": "",
+      "reviewLink": "",
+      "primaryColor": "#000000",
+      "secondaryColor": "#ffffff",
+      "about": "{}",
+      "address": {
+        "street": "3008 Riggs St Ste A",
+        "city": "Jonesboro",
+        "state": "Arkansas",
+        "zip": ""
+      },
+      "workingHours": "",
+      "social": {
+        "facebook": ""
+      }
+    },
+    "koons_plumbing": {
+      "trackingId": "business_2",
+      "businessName": "Koons Plumbing",
+      "phone": "+1 870-647-2349",
+      "email": "",
+      "logo": "",
+      "heroImages": [],
+      "serviceArea": "",
+      "reviewLink": "",
+      "primaryColor": "#000000",
+      "secondaryColor": "#ffffff",
+      "about": "{}",
+      "address": {
+        "street": "628 Stokes Rd",
+        "city": "Pocahontas",
+        "state": "Arkansas",
+        "zip": ""
+      },
+      "workingHours": "",
+      "social": {
+        "facebook": ""
+      }
+    }
+  },
+  "reviewsData": {
+    "8": {},
+    "superior_plumbing": {},
+    "koons_plumbing": {
+      "r1": {
+        "name": "Jamie Bartman",
+        "text": "My mother had excellent service with coons plumbing. Very professional and courteous service. Would recommend them for your plumbing needs."
+      },
+      "r2": {
+        "name": "Charlotte Goodwin",
+        "text": "Dependable, professional and really know what they are doing!! 5 Stars for sure!!!"
+      },
+      "r3": {
+        "name": "Richard Gray",
+        "text": "Good place to call for your plumbing problem"
+      }
+    }
+  }
+}
