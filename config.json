@@ -92,6 +92,29 @@
         "facebook": ""
       }
     },
+    "148": {
+      "trackingId": "business_42",
+      "businessName": "148",
+      "phone": "https://lh3.googleusercontent.com/p/AF1QipODzaK7XkoNUJ3G_WB3axmuVkdYuweeLLqHQcSt=s680-w680-h510",
+      "email": "",
+      "logo": "",
+      "heroImages": [],
+      "serviceArea": "",
+      "reviewLink": "",
+      "primaryColor": "#000000",
+      "secondaryColor": "#ffffff",
+      "about": "",
+      "address": {
+        "street": "https://www.google.com/maps/place/Diamond+State+Plumbing/@34.7582743,-92.3981211,14z/data=!4m8!1m2!2m1!1sDiamond+State+Plumbing!3m4!1s0x87d2a1313d09cc83:0xe51331f92d36055d!8m2!3d34.7582743!4d-92.3981211",
+        "city": "506 Mimi Ln",
+        "state": "",
+        "zip": ""
+      },
+      "workingHours": "",
+      "social": {
+        "facebook": ""
+      }
+    },
     "superior_plumbing": {
       "trackingId": "business_1",
       "businessName": "Superior Plumbing",
@@ -331,8 +354,12 @@
       "businessName": "Diamond State Plumbing",
       "phone": "+1 501-585-5454",
       "email": "diamondstateplumbing18@gmail.com",
-      "logo": "https://lh5.googleusercontent.com/-KOWRd6rLhrQ/AAAAAAAAAAI/AAAAAAAAAAA/70QrIrTfiK4/s44-p-k-no-ns-nd/photo.jpg",
-      "heroImages": [],
+      "logo": "https://lh3.googleusercontent.com/p/AF1QipODzaK7XkoNUJ3G_WB3axmuVkdYuweeLLqHQcSt=s680-w680-h510",
+      "heroImages": [
+        "https://lh3.googleusercontent.com/p/AF1QipPDutmDteSMsdC3yEwfiCbYJf0ZqRXMSEJFp_0q=s680-w680-h510",
+        "https://lh3.googleusercontent.com/p/AF1QipOvUqujnAmsnPfJ6KNN19xyFvph0n7gkuSMmJ_6=s680-w680-h510",
+        "https://lh3.googleusercontent.com/p/AF1QipPlU0CXXKEVe2ADqmr5BuUSzGwR2GeoTKB9YwjX=s680-w680-h510"
+      ],
       "serviceArea": "",
       "reviewLink": "",
       "primaryColor": "#000000",
@@ -930,6 +957,7 @@
     "8": {},
     "51": {},
     "99": {},
+    "148": {},
     "superior_plumbing": {},
     "koons_plumbing": {
       "r1": {
@@ -1064,7 +1092,48 @@
     "jp_s_plumbing_llc": {},
     "j_dodson_plumbing": {},
     "a_state_plumbing_llc": {},
-    "diamond_state_plumbing": {},
+    "diamond_state_plumbing": {
+      "r1": {
+        "name": "Martez Monroe",
+        "text": "Had a great experience with the diamond state plumbing crew they were very good at getting the job done at my residence they showed up on time and was very professional with their work I recommend them for whatever plumbing issues your having they will surely get the job done"
+      },
+      "r2": {
+        "name": "James Antonetz",
+        "text": "Angel came by and did and thorough inspection of my water line and inside toilets.  He did a great job and provided excellent service.  He also did a good job of texting to keep in contact with us.  Great service at a great price."
+      },
+      "r3": {
+        "name": "Joyce Nelson",
+        "text": "Responsiveness, Quality, Professionalism, Value"
+      },
+      "r4": {
+        "name": "Tyler Shinabery",
+        "text": "Angel was on the phone with me on the first ring. Within an hour I had an estimate and within 24 hours my job was complete. Always hard to get a professional like this on a smaller job. They had my water lines moved and fixed in no time for a new sink/dishwasher install in my pharmacy. 100% would recommend. ?More"
+      },
+      "r5": {
+        "name": "Stephen Moody",
+        "text": "We are doing a complete renovation on our home.  We chose Diamond State Plumbing over their competitors because they were prompt and fair with their estimate for the job.  They removed old existing plumbing on the house and completely reinstalled all new plumbing.  They spent hours in a cramped and hot crawl space and emerged with a smile every time.  Angel, Eloy, David and Steve have been awesome to work with.  They are incredibly knowledgeable as well as kind and genuine people.  I cannot give a higher compliment than to say they are simply the best!  I highly recommend them for any plumbing job large or small."
+      },
+      "r6": {
+        "name": "Hollis Anthony",
+        "text": "Outdoor plumbing system repair"
+      },
+      "r7": {
+        "name": "David Adams",
+        "text": "Everyone I dealt with was great. David came out and did the repair. He was excellent. Explained everything and was very nice b/c I was upset. I was desperate for an appointment due to a leak and they got here within a few hours. Highly recommend them."
+      },
+      "r8": {
+        "name": "Carla Anderson",
+        "text": "Outdoor plumbing system repair, Faucet installation, Shower repair, Plumbing leak repair"
+      },
+      "r9": {
+        "name": "Velvet Hall",
+        "text": "Drain cleaning, Plumbing pipe repair, Sewer repair"
+      },
+      "r10": {
+        "name": "Happy Cthulhu",
+        "text": "Called them in the morning and they were out to look at it in a couple hours. Gave me a GREAT price. Had my bad pipes replaced by the end of the day. Angel is totally professional. Would recommend them to anyone."
+      }
+    },
     "j_s_plumbing_inc_": {},
     "hall_s_affordable_plumbing": {},
     "bryan_baird_s_plumbing": {},
