@@ -1,9 +1,9 @@
 {
   "siteConfigs": {
     "43": {
-      "trackingId": "business_25",
+      "trackingId": "business_31",
       "businessName": "43",
-      "phone": "https://lh5.googleusercontent.com/-Sur1lXygkaM/AAAAAAAAAAI/AAAAAAAAAAA/hw0SfGE-ueA/s44-p-k-no-ns-nd/photo.jpg",
+      "phone": "https://lh4.googleusercontent.com/-x77AHAKincw/AAAAAAAAAAI/AAAAAAAAAAA/hV3xunW6QLc/s44-p-k-no-ns-nd/photo.jpg",
       "email": "",
       "logo": "",
       "heroImages": [],
@@ -12,11 +12,11 @@
       "primaryColor": "#000000",
       "secondaryColor": "#ffffff",
       "about": "",
-      "reviewCount": "https://wrightnowplumbingllc.com/contact-us/",
-      "rating": "https://www.google.com/maps/contrib/105875427299808029930",
+      "reviewCount": "0",
+      "rating": "https://www.google.com/maps/contrib/114201556691247041749",
       "ownerName": "",
-      "street": "https://www.google.com/maps/place/Wright+Now+Plumbing/@47.1431141,-122.26143959999999,14z/data=!4m8!1m2!2m1!1sWright+Now+Plumbing!3m4!1s0x5490fd41c468e93d:0xa0a00cc390f3854b!8m2!3d47.1431141!4d-122.26143959999999",
-      "city": "12603 Military Rd E",
+      "street": "https://www.google.com/maps/place/Shaver+Plumbing+%26+Hardware+Inc/@36.3678144,-91.8256026,14z/data=!4m8!1m2!2m1!1sShaver+Plumbing+%26+Hardware+Inc!3m4!1s0x87d109c1a91165af:0x438f91f06212b215!8m2!3d36.3678144!4d-91.8256026",
+      "city": "328 Hwy 62 W",
       "state": "",
       "zip": "",
       "workingHours": "",
@@ -483,6 +483,30 @@
       "social": {
         "facebook": ""
       }
+    },
+    "shaver_plumbing_hardware_inc": {
+      "trackingId": "business_30",
+      "businessName": "Shaver Plumbing & Hardware Inc",
+      "phone": "+1 870-895-3461",
+      "email": "shaverhardware@gmail.com",
+      "logo": "https://lh4.googleusercontent.com/-x77AHAKincw/AAAAAAAAAAI/AAAAAAAAAAA/hV3xunW6QLc/s44-p-k-no-ns-nd/photo.jpg",
+      "heroImages": [],
+      "serviceArea": "",
+      "reviewLink": "",
+      "primaryColor": "#000000",
+      "secondaryColor": "#ffffff",
+      "about": "{\"From the business\": {\"Identifies as women-owned\": true, \"Small business\": true}, \"Service options\": {\"In-store shopping\": true}, \"Accessibility\": {\"Wheelchair accessible entrance\": true, \"Wheelchair accessible parking lot\": true}, \"Offerings\": {\"Service guarantee\": true}, \"Planning\": {\"Quick visit\": true}, \"Payments\": {\"Checks\": true, \"Credit cards\": true, \"Debit cards\": true, \"NFC mobile payments\": true}, \"Other\": {\"Identifies as women-owned\": true}}",
+      "reviewCount": "43",
+      "rating": "4.8",
+      "ownerName": "",
+      "street": "328 Hwy 62 W",
+      "city": "Salem",
+      "state": "Arkansas",
+      "zip": "",
+      "workingHours": "",
+      "social": {
+        "facebook": "https://www.facebook.com/people/Shaver-Plumbing-Hardware-Inc/100057655059624/"
+      }
     }
   },
   "reviewsData": {
@@ -505,6 +529,7 @@
     "dygert_designs_plumbing_co_": {},
     "wright_now_plumbing": {},
     "cotter_bridge": {},
-    "johnson_county_farmers_association_site_2_formerly_cecil_hardware": {}
+    "johnson_county_farmers_association_site_2_formerly_cecil_hardware": {},
+    "shaver_plumbing_hardware_inc": {}
   }
 }
