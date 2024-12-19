@@ -49,9 +49,9 @@
       }
     },
     "49": {
-      "trackingId": "business_20",
+      "trackingId": "business_33",
       "businessName": "49",
-      "phone": "https://lh4.googleusercontent.com/-72hUQQrLu3k/AAAAAAAAAAI/AAAAAAAAAAA/2H_zmT7hK3c/s44-p-k-no-ns-nd/photo.jpg",
+      "phone": "https://lh6.googleusercontent.com/-ZEq_GJTYNyg/AAAAAAAAAAI/AAAAAAAAAAA/lYC2csjuUHM/s44-p-k-no-ns-nd/photo.jpg",
       "email": "",
       "logo": "",
       "heroImages": [],
@@ -61,10 +61,10 @@
       "secondaryColor": "#ffffff",
       "about": "",
       "reviewCount": "0",
-      "rating": "https://www.google.com/maps/contrib/115213286926629321293",
+      "rating": "https://www.google.com/maps/contrib/104542465501694295158",
       "ownerName": "",
-      "street": "https://www.google.com/maps/place/Monette+Feed+%26+Hardware/@35.890170499999996,-90.3418938,14z/data=!4m8!1m2!2m1!1sMonette+Feed+%26+Hardware!3m4!1s0x87d5df0b793380d5:0x2e17de3c1783089a!8m2!3d35.890170499999996!4d-90.3418938",
-      "city": "101 Drew Ave",
+      "street": "https://www.google.com/maps/place/Hall%27s+Affordable+Plumbing/@34.6756348,-92.44869489999999,14z/data=!4m8!1m2!2m1!1sHall%27s+Affordable+Plumbing!3m4!1s0x87d2a7ee511486b3:0xc6a332c1ea0c6532!8m2!3d34.6756348!4d-92.44869489999999",
+      "city": "8501 Crystal Valley Lateral",
       "state": "",
       "zip": "",
       "workingHours": "",
@@ -162,7 +162,7 @@
       "street": "https://www.google.com/maps/place/Cherokee+Village+Parks+%26+Rec/@36.3062456,-91.52943909999999,14z/data=!4m8!1m2!2m1!1sCherokee+Village+Parks+%26+Rec!3m4!1s0x87d115857c2d150f:0xce7619757d8ab8ee!8m2!3d36.3062456!4d-91.52943909999999",
       "city": "249 Iroquois Dr",
       "state": "72529",
-      "zip": "",
+      "zip": "Cherokee Village",
       "workingHours": "",
       "social": {
         "facebook": ""
@@ -186,7 +186,7 @@
       "street": "https://www.google.com/maps/place/Diamond+State+Plumbing/@34.7582743,-92.3981211,14z/data=!4m8!1m2!2m1!1sDiamond+State+Plumbing!3m4!1s0x87d2a1313d09cc83:0xe51331f92d36055d!8m2!3d34.7582743!4d-92.3981211",
       "city": "506 Mimi Ln",
       "state": "72211",
-      "zip": "",
+      "zip": "Little Rock",
       "workingHours": "",
       "social": {
         "facebook": ""
@@ -262,7 +262,7 @@
       "street": "506 Mimi Ln",
       "city": "Little Rock",
       "state": "Arkansas",
-      "zip": "",
+      "zip": "72211",
       "workingHours": "",
       "social": {
         "facebook": "https://www.facebook.com/DiamondStatePlumbing-172220143479018/"
@@ -286,7 +286,7 @@
       "street": "249 Iroquois Dr",
       "city": "Cherokee Village",
       "state": "Arkansas",
-      "zip": "",
+      "zip": "72529",
       "workingHours": "",
       "social": {
         "facebook": ""
@@ -310,7 +310,7 @@
       "street": "1816 Countryside Ln",
       "city": "Paragould",
       "state": "Arkansas",
-      "zip": "",
+      "zip": "72450",
       "workingHours": "",
       "social": {
         "facebook": ""
@@ -334,7 +334,7 @@
       "street": "305 E Gum St #8961",
       "city": "Russellville",
       "state": "Arkansas",
-      "zip": "",
+      "zip": "72802",
       "workingHours": "",
       "social": {
         "facebook": ""
@@ -358,7 +358,7 @@
       "street": "5608 US-71",
       "city": "Cove",
       "state": "Arkansas",
-      "zip": "",
+      "zip": "71937",
       "workingHours": "",
       "social": {
         "facebook": ""
@@ -507,6 +507,30 @@
       "social": {
         "facebook": "https://www.facebook.com/people/Shaver-Plumbing-Hardware-Inc/100057655059624/"
       }
+    },
+    "hall_s_affordable_plumbing": {
+      "trackingId": "business_32",
+      "businessName": "Hall's Affordable Plumbing",
+      "phone": "+1 501-297-0723",
+      "email": "affordyourplumbing@gmail.com",
+      "logo": "https://lh6.googleusercontent.com/-ZEq_GJTYNyg/AAAAAAAAAAI/AAAAAAAAAAA/lYC2csjuUHM/s44-p-k-no-ns-nd/photo.jpg",
+      "heroImages": [],
+      "serviceArea": "",
+      "reviewLink": "",
+      "primaryColor": "#000000",
+      "secondaryColor": "#ffffff",
+      "about": "{\"From the business\": {\"Identifies as veteran-owned\": true}, \"Offerings\": {\"Repair services\": true}, \"Payments\": {\"Credit cards\": true}, \"Other\": {\"Identifies as veteran-owned\": true}}",
+      "reviewCount": "49",
+      "rating": "4.9",
+      "ownerName": "",
+      "street": "8501 Crystal Valley Lateral",
+      "city": "Little Rock",
+      "state": "Arkansas",
+      "zip": "",
+      "workingHours": "",
+      "social": {
+        "facebook": "https://www.facebook.com/affordyourplumbing/"
+      }
     }
   },
   "reviewsData": {
@@ -530,6 +554,7 @@
     "wright_now_plumbing": {},
     "cotter_bridge": {},
     "johnson_county_farmers_association_site_2_formerly_cecil_hardware": {},
-    "shaver_plumbing_hardware_inc": {}
+    "shaver_plumbing_hardware_inc": {},
+    "hall_s_affordable_plumbing": {}
   }
 }
