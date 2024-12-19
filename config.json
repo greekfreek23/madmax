@@ -1,5 +1,31 @@
 {
   "siteConfigs": {
+    "45": {
+      "trackingId": "business_23",
+      "businessName": "45",
+      "phone": "",
+      "email": "",
+      "logo": "",
+      "heroImages": [],
+      "serviceArea": "",
+      "reviewLink": "",
+      "primaryColor": "#000000",
+      "secondaryColor": "#ffffff",
+      "about": "",
+      "reviewCount": "0",
+      "rating": "0",
+      "ownerName": "",
+      "address": {
+        "street": "https://www.google.com/maps/place/Dygert+Designs+Plumbing+Co./@36.6541784,-93.2187562,14z/data=!4m8!1m2!2m1!1sDygert+Designs+Plumbing+Co.!3m4!1s0x87cf059a731ff05b:0x4337b7b9a814e9c9!8m2!3d36.6541784!4d-93.2187562",
+        "city": "624 Eiserman Ave",
+        "state": "",
+        "zip": ""
+      },
+      "workingHours": "",
+      "social": {
+        "facebook": ""
+      }
+    },
     "49": {
       "trackingId": "business_20",
       "businessName": "49",
@@ -341,9 +367,36 @@
       "social": {
         "facebook": ""
       }
+    },
+    "dygert_designs_plumbing_co_": {
+      "trackingId": "business_22",
+      "businessName": "Dygert Designs Plumbing Co.",
+      "phone": "+1 417-712-6678",
+      "email": "dygertdesigns@gmail.com",
+      "logo": "",
+      "heroImages": [],
+      "serviceArea": "",
+      "reviewLink": "",
+      "primaryColor": "#000000",
+      "secondaryColor": "#ffffff",
+      "about": "{\"Service options\": {\"Online estimates\": true, \"Onsite services\": true}, \"Payments\": {\"Credit cards\": true}}",
+      "reviewCount": "45",
+      "rating": "5",
+      "ownerName": "",
+      "address": {
+        "street": "624 Eiserman Ave",
+        "city": "Branson",
+        "state": "Missouri",
+        "zip": ""
+      },
+      "workingHours": "",
+      "social": {
+        "facebook": "https://www.facebook.com/dygertdesigns/"
+      }
     }
   },
   "reviewsData": {
+    "45": {},
     "49": {},
     "51": {},
     "53": {},
@@ -389,6 +442,7 @@
       }
     },
     "cove_supply": {},
-    "monette_feed_hardware": {}
+    "monette_feed_hardware": {},
+    "dygert_designs_plumbing_co_": {}
   }
 }
