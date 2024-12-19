@@ -83,6 +83,27 @@
       "street": "206 3rd Ave S",
       "zip": 38821,
       "state": "Mississippi"
+    },
+    "business_154": {
+      "businessName": "Steele Plumbing LLC",
+      "phone": "+1 662-322-4594",
+      "email": "johnsteele777@gmail.com",
+      "logo": "https://lh3.googleusercontent.com/p/AF1QipN7fifzaDuDFIQ3-ndDZyNUiRI-dZAWFM5YqpIz=s680-w680-h510",
+      "heroImages": [
+        "https://lh3.googleusercontent.com/p/AF1QipO8EemWOpGK3_G1abnBun8So0i77EYeaZxrCfFY=s680-w680-h510",
+        "https://lh3.googleusercontent.com/p/AF1QipO8EemWOpGK3_G1abnBun8So0i77EYeaZxrCfFY=s680-w680-h510"
+      ],
+      "serviceArea": "",
+      "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJW9aIInlFh4gRMa5cFLdWbYY&q=plumber,+72169,+Tupelo,+AR,+US&authuser=0&hl=en&gl=US",
+      "primaryColor": "#000000",
+      "secondaryColor": "#ffffff",
+      "rating": 4.7,
+      "reviewCount": 19,
+      "ownerName": "",
+      "city": "Tupelo",
+      "street": "510 Rd 1460",
+      "zip": 38804,
+      "state": "MS"
     }
   },
   "reviewsData": {
@@ -264,6 +285,44 @@
         "text": "Woods plumbing is the best!! They literally saved my family from a tragedy!!! Thank you jeff!!"
       }
     },
-    "business_155": {}
+    "business_155": {},
+    "business_154": {
+      "r1": {
+        "name": "David Hutson",
+        "text": "I have used Steele Plumbing on several occasions. Their work has always been top notch. When you first contact them, you will likely talk with Haley. She is very friendly and helpful. She also makes you feel that your problem is important to Steele Plumbing. She will also keep you well informed on when to expect them to arrive, which is usually very quick. John and Jonathan are the ones that have done the work for me. They show a  certain pride in their work that lets you know that they are capable of fixing your problem.They will not do a get-by job. It will be done right. Their prices are also better than any I've seen. You will not feel ripped off by this company. Try Steele Pluming for any plumbing job you have. You will be well pleased."
+      },
+      "r2": {
+        "name": "Allison Foster",
+        "text": "Highly recommend John's Plumbing perfessionalisum. He was able to provide positive news after receiving dishonest dealings from another plumbing company. If ever giving a high dollar quote,do yourself a favor and call John for a second opinion.To try and make a long story short: The first plumber I called was awful. He came initially at 8:30 pm for ten minutes and told us we needed thousands of dollars worth of work done. After poor communication and him continuing to no show us, we called John with Steele Plumbing. He came exactly when he said he would, and was done with his work within a few hours. The first plumber falsely exaggerated our plumbing issue. Words cannot express how thankful I am for Steele Plumbing but to try and describe them in a few- Honest, dependable, polite, knowledgeable, punctual, and responsive!"
+      },
+      "r3": {
+        "name": "Christy Garrison",
+        "text": "Jason was very professional and did a great job with our new home construction plumbing. He installed all our plumbing from tubs, sinks, toilets, shower faucets, garbage disposal and water heater and couldn?t be more happier with the end results. He was patient (construction always has delays), informative (giving us details of what we should, shouldn?t do) and timely (getting it done by the deadlines). We have used him for our personal and business needs as well as referred to many many other people. He?s definitely worth calling for your plumbing needs.Responsiveness, Quality, Professionalism, ValueWater heater installation, Garbage disposal installation, Shower installation, Toilet installation, Faucet installation"
+      },
+      "r4": {
+        "name": "Stella Bragg",
+        "text": "They arrived on time, worked hard and they were very knowledgeable and personable. They fixed my guest bathroom toilet and I?m about to have them fix my master bathroom toilet! Call them for any plumbing needs- big or small! I am so thankful to have an honest and dependable plumber I can call when I need them.Responsiveness, Punctuality, Quality, Professionalism, ValueToilet repair, Plumbing leak detection"
+      },
+      "r5": {
+        "name": "Michael Holloway",
+        "text": "John was able help me with a few plumbing projects that I had. I was very pleased with the work and price. He set a date and time to start the project and stuck to it. Will call on him again.Responsiveness, ValueDrain cleaning, Plumbing leak detection, Faucet installation, Shower repair"
+      },
+      "r6": {
+        "name": "Stacy Sudduth",
+        "text": "These guys are AWESOME!  They helped me when my new home had a slab leak - yes, a slab leak!  Professional, courteous, and on-time, every time!  I highly recommend John and his crew!Responsiveness, Punctuality, Quality, Professionalism, ValueToilet repair, Drain cleaning, Plumbing leak detection, Plumbing pipe repair, Outdoor plumbing system repair"
+      },
+      "r7": {
+        "name": "Sandy Slay",
+        "text": "I trust Steele Plumbing with all my water leaks or plumbing needs. Five star and more. Customer service was excellent .Responsiveness, Punctuality, Quality, Professionalism, ValuePlumbing leak detectionI had a clogged pipe at my house. Messaged Steele plumbing on a Sunday about the problem and within an hour he was there and fixed the problem for me.Responsiveness, ProfessionalismDrain cleaning, Plumbing pipe repair"
+      },
+      "r8": {
+        "name": "Ruth Wright",
+        "text": "Anytime someone is looking for  a plumber, my only recommendation to use is Steele plumbing.Responsiveness, Punctuality, Quality, Professionalism"
+      },
+      "r9": {
+        "name": "Trish Roberts",
+        "text": "Did all my jobs with professional explanations and service."
+      }
+    }
   }
 }
