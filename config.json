@@ -1,7 +1,7 @@
 {
   "siteConfigs": {
     "148": {
-      "trackingId": "business_4",
+      "trackingId": "business_6",
       "businessName": "148",
       "phone": "https://lh3.googleusercontent.com/p/AF1QipODzaK7XkoNUJ3G_WB3axmuVkdYuweeLLqHQcSt=s680-w680-h510",
       "email": "",
@@ -18,7 +18,7 @@
       "street": "https://www.google.com/maps/place/Diamond+State+Plumbing/@34.7582743,-92.3981211,14z/data=!4m8!1m2!2m1!1sDiamond+State+Plumbing!3m4!1s0x87d2a1313d09cc83:0xe51331f92d36055d!8m2!3d34.7582743!4d-92.3981211",
       "city": "506 Mimi Ln",
       "state": "72211",
-      "zip": "",
+      "zip": "Little Rock",
       "workingHours": "",
       "social": {
         "facebook": ""
@@ -94,7 +94,7 @@
       "street": "506 Mimi Ln",
       "city": "Little Rock",
       "state": "Arkansas",
-      "zip": "",
+      "zip": "72211",
       "workingHours": "",
       "social": {
         "facebook": "https://www.facebook.com/DiamondStatePlumbing-172220143479018/"
