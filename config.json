@@ -1,1 +1,41 @@
-[]
+{
+  "siteConfigs": {
+    "business_4": {
+      "businessName": "Superior Plumbing",
+      "phone": "+1 870-206-7809",
+      "email": "",
+      "logo": "https://lh3.googleusercontent.com/p/AF1QipMzS8dJOj0C4cL6QMSs5upzEK8O5h8Aov6O1RWV=s680-w680-h510",
+      "heroImages": [
+        "https://lh3.googleusercontent.com/p/AF1QipNK04U1WUrfTrTXB1rankR6zyzViMlVlUFkZ9rK=s680-w680-h510",
+        "https://lh3.googleusercontent.com/p/AF1QipNEwDKKetX468oaSl2sCFRwaNj8GoBPT-uPv2DZ=s680-w680-h510"
+      ],
+      "serviceArea": "",
+      "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJ583lFvgr1IcR9RH9RZkUnxg&q=plumber,+72412,+Beech+Grove,+AR,+US&authuser=0&hl=en&gl=US",
+      "primaryColor": "#000000",
+      "secondaryColor": "#ffffff",
+      "rating": 3.6,
+      "reviewCount": 7,
+      "ownerName": "",
+      "city": "Jonesboro",
+      "street": "3008 Riggs St Ste A",
+      "zip": 72401,
+      "state": "Arkansas"
+    }
+  },
+  "reviewsData": {
+    "business_4": {
+      "r1": {
+        "name": "Madison Griffin",
+        "text": "Great job and great guys! They knocked out our plumbing work for our house so quick and good! Better communicators than most the other construction people!"
+      },
+      "r2": {
+        "name": "Amanda Jones",
+        "text": "Very nice environment and the people are very helpful"
+      },
+      "r3": {
+        "name": "Dana Simpkins",
+        "text": "I would recommend to anyone!"
+      }
+    }
+  }
+}
