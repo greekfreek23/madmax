@@ -120,6 +120,30 @@
         "facebook": ""
       }
     },
+    "59": {
+      "trackingId": "business_27",
+      "businessName": "59",
+      "phone": "",
+      "email": "",
+      "logo": "",
+      "heroImages": [],
+      "serviceArea": "",
+      "reviewLink": "",
+      "primaryColor": "#000000",
+      "secondaryColor": "#ffffff",
+      "about": "",
+      "reviewCount": "0",
+      "rating": "0",
+      "ownerName": "",
+      "street": "https://www.google.com/maps/place/Cotter+Bridge/@36.2672583,-92.5441886,14z/data=!4m8!1m2!2m1!1sCotter+Bridge!3m4!1s0x87ce222672cdfd27:0x6c83a559da6fd3ce!8m2!3d36.2672583!4d-92.5441886",
+      "city": "",
+      "state": "",
+      "zip": "",
+      "workingHours": "",
+      "social": {
+        "facebook": ""
+      }
+    },
     "95": {
       "trackingId": "business_9",
       "businessName": "95",
@@ -411,6 +435,30 @@
       "social": {
         "facebook": "https://www.facebook.com/Wright-Now-Plumbing-104881985007131/about/"
       }
+    },
+    "cotter_bridge": {
+      "trackingId": "business_26",
+      "businessName": "Cotter Bridge",
+      "phone": "",
+      "email": "",
+      "logo": "",
+      "heroImages": [],
+      "serviceArea": "",
+      "reviewLink": "",
+      "primaryColor": "#000000",
+      "secondaryColor": "#ffffff",
+      "about": "{}",
+      "reviewCount": "59",
+      "rating": "4.9",
+      "ownerName": "",
+      "street": "",
+      "city": "Cotter",
+      "state": "Arkansas",
+      "zip": "",
+      "workingHours": "",
+      "social": {
+        "facebook": ""
+      }
     }
   },
   "reviewsData": {
@@ -419,6 +467,7 @@
     "49": {},
     "51": {},
     "53": {},
+    "59": {},
     "95": {},
     "148": {},
     "superior_plumbing": {},
@@ -430,6 +479,7 @@
     "cove_supply": {},
     "monette_feed_hardware": {},
     "dygert_designs_plumbing_co_": {},
-    "wright_now_plumbing": {}
+    "wright_now_plumbing": {},
+    "cotter_bridge": {}
   }
 }
