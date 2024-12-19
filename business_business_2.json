@@ -1,0 +1,35 @@
+{
+  "business_2": {
+    "businessId": "ChIJMf93KlNl1ocRreq5dUr-e0s",
+    "businessName": "HYDE Plumbing LLC",
+    "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJMf93KlNl1ocRreq5dUr-e0s&q=plumber,+72412,+Beech+Grove,+AR,+US&authuser=0&hl=en&gl=US",
+    "reviews": {
+      "r1": {
+        "name": "Devan Pyburn",
+        "text": "Great work, good people, and wonderful service! The best plumbing work I have seen in NEA Arkansas!"
+      },
+      "r2": {
+        "name": "Tyler Lawrey",
+        "text": "For all your plumbing needs!!"
+      },
+      "r3": {
+        "name": "Sharon Croft",
+        "text": "Best workers anywhere!!!"
+      }
+    },
+    "details": {
+      "logo": "",
+      "hero1": "https://lh3.googleusercontent.com/p/AF1QipOikEVPP0ZDbONSntGBsf9e6D75EWerjKbSEyem=s680-w680-h510",
+      "hero2": "https://lh3.googleusercontent.com/p/AF1QipMHuajd_2shVw4UgcAs_uUjEawRCWwlzkQImAVG=s680-w680-h510",
+      "about": "",
+      "phone": "+1 870-476-7178",
+      "address": "2200 N 12th Ave, Paragould, Arkansas 72450",
+      "city": "Paragould",
+      "state": "Arkansas",
+      "zipCode": 72450,
+      "rating": 4.1,
+      "reviewsCount": 11,
+      "workingHours": "{\"Monday\": \"8AM-4PM\", \"Tuesday\": \"8AM-4PM\", \"Wednesday\": \"8AM-4PM\", \"Thursday\": \"8AM-4PM\", \"Friday\": \"8AM-4PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    }
+  }
+}
