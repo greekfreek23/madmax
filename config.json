@@ -3,25 +3,19 @@
     "business_4": {
       "businessName": "Superior Plumbing",
       "phone": "+1 870-206-7809",
-      "email": "",
+      "email": "contact@superiorplumbing.com",
       "logo": "https://lh3.googleusercontent.com/p/AF1QipMzS8dJOj0C4cL6QMSs5upzEK8O5h8Aov6O1RWV=s680-w680-h510",
       "heroImages": [
         "https://lh3.googleusercontent.com/p/AF1QipNK04U1WUrfTrTXB1rankR6zyzViMlVlUFkZ9rK=s680-w680-h510",
         "https://lh3.googleusercontent.com/p/AF1QipNEwDKKetX468oaSl2sCFRwaNj8GoBPT-uPv2DZ=s680-w680-h510",
         "https://lh3.googleusercontent.com/p/AF1QipNK04U1WUrfTrTXB1rankR6zyzViMlVlUFkZ9rK=s680-w680-h510"
       ],
-      "aboutImages": [
-        "https://lh3.googleusercontent.com/p/AF1QipNK04U1WUrfTrTXB1rankR6zyzViMlVlUFkZ9rK=s680-w680-h510",
-        "https://lh3.googleusercontent.com/p/AF1QipNEwDKKetX468oaSl2sCFRwaNj8GoBPT-uPv2DZ=s680-w680-h510",
-        "https://lh3.googleusercontent.com/p/AF1QipNK04U1WUrfTrTXB1rankR6zyzViMlVlUFkZ9rK=s680-w680-h510"
-      ],
-      "serviceArea": "",
       "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJ583lFvgr1IcR9RH9RZkUnxg&q=plumber,+72412,+Beech+Grove,+AR,+US&authuser=0&hl=en&gl=US",
       "primaryColor": "#000000",
       "secondaryColor": "#ffffff",
       "rating": 3.6,
       "reviewCount": 7,
-      "ownerName": "",
+      "ownerName": "John Doe",
       "city": "Jonesboro",
       "street": "3008 Riggs St Ste A",
       "zip": 72401,
@@ -30,25 +24,19 @@
     "business_6": {
       "businessName": "DrainPro Professional Services",
       "phone": "+1 870-318-0975",
-      "email": "",
+      "email": "service@drainpro.com",
       "logo": "https://lh3.googleusercontent.com/p/AF1QipOzCrBeMey1t0M06NJcqnzkLthdV-uvYSbggeM5=s680-w680-h510",
       "heroImages": [
         "https://lh3.googleusercontent.com/p/AF1QipO-tjvj-JG12lZIxHWQ2T9JeHvTcEyr5sD1L0Gv=s680-w680-h510",
         "https://lh3.googleusercontent.com/p/AF1QipNrjUr7xmpMvgru8eIJnbtExkr-JgppcHGEw5Si=s680-w680-h510",
         "https://lh3.googleusercontent.com/p/AF1QipO-tjvj-JG12lZIxHWQ2T9JeHvTcEyr5sD1L0Gv=s680-w680-h510"
       ],
-      "aboutImages": [
-        "https://lh3.googleusercontent.com/p/AF1QipO-tjvj-JG12lZIxHWQ2T9JeHvTcEyr5sD1L0Gv=s680-w680-h510",
-        "https://lh3.googleusercontent.com/p/AF1QipNrjUr7xmpMvgru8eIJnbtExkr-JgppcHGEw5Si=s680-w680-h510",
-        "https://lh3.googleusercontent.com/p/AF1QipO-tjvj-JG12lZIxHWQ2T9JeHvTcEyr5sD1L0Gv=s680-w680-h510"
-      ],
-      "serviceArea": "",
       "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJ86k1UoPO1YcRfh3x4zkV1eo&q=plumber,+72419,+Caraway,+AR,+US&authuser=0&hl=en&gl=US",
       "primaryColor": "#000000",
       "secondaryColor": "#ffffff",
       "rating": 4.9,
       "reviewCount": 99,
-      "ownerName": "",
+      "ownerName": "Mike Drayton",
       "city": "Trumann",
       "street": "531 W Main St",
       "zip": 72472,
@@ -57,52 +45,25 @@
     "business_7": {
       "businessName": "Wood's Plumbing",
       "phone": "+1 870-856-2303",
-      "email": "",
+      "email": "info@woodsplumbing.com",
       "logo": "https://scontent.fjan1-1.fna.fbcdn.net/v/t39.30808-6/304081459_449275557226986_8022888557655533902_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=WMVje5fjhGwQ7kNvgF7Y77k&_nc_zt=23&_nc_ht=scontent.fjan1-1.fna&_nc_gid=AGgnv7et5ZOp1S-7yh3Q50S&oh=00_AYB5JEOA5aAX0bUa8P9Ew4Etx6d28_m5jb_9we1tmRGY7Q&oe=6769AACF",
       "heroImages": [
         "https://lh3.googleusercontent.com/p/AF1QipOf6Xsk5cYhktCrCV7gxg_OLsYrkYY6SWT1dfzY=s680-w680-h510",
         "https://scontent.fjan1-1.fna.fbcdn.net/v/t39.30808-6/464769957_27943281708648883_4567767478816166624_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ir3szzW4QVkQ7kNvgHfKaFK&_nc_zt=23&_nc_ht=scontent.fjan1-1.fna&_nc_gid=Ayt1Aoai8ms1_Rx-cH0NlYy&oh=00_AYBpQu5_geOOPtUzXBCF6Zuj8t0Eb80b-VD3lW_jbkWbMA&oe=6769AC44",
         "https://lh3.googleusercontent.com/p/AF1QipOf6Xsk5cYhktCrCV7gxg_OLsYrkYY6SWT1dfzY=s680-w680-h510"
       ],
-      "aboutImages": [
-        "https://lh3.googleusercontent.com/p/AF1QipOf6Xsk5cYhktCrCV7gxg_OLsYrkYY6SWT1dfzY=s680-w680-h510",
-        "https://scontent.fjan1-1.fna.fbcdn.net/v/t39.30808-6/464769957_27943281708648883_4567767478816166624_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ir3szzW4QVkQ7kNvgHfKaFK&_nc_zt=23&_nc_ht=scontent.fjan1-1.fna&_nc_gid=Ayt1Aoai8ms1_Rx-cH0NlYy&oh=00_AYBpQu5_geOOPtUzXBCF6Zuj8t0Eb80b-VD3lW_jbkWbMA&oe=6769AC44",
-        "https://lh3.googleusercontent.com/p/AF1QipOf6Xsk5cYhktCrCV7gxg_OLsYrkYY6SWT1dfzY=s680-w680-h510"
-      ],
-      "serviceArea": "",
       "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJ52TyKjIV0YcRpPBeL2XcClQ&q=plumber,+72425,+Delaplaine,+AR,+US&authuser=0&hl=en&gl=US",
       "primaryColor": "#000000",
       "secondaryColor": "#ffffff",
       "rating": 4.4,
       "reviewCount": 36,
-      "ownerName": "",
+      "ownerName": "Jeff Wood",
       "city": "Highland",
       "street": "25 Big Creek Ln",
       "zip": 72542,
       "state": "Arkansas"
     }
-  },
-  "reviewsData": {
-    "business_4": {
-      "r1": {
-        "name": "Madison Griffin",
-        "text": "Great job and great guys! They knocked out our plumbing work for our house so quick and good! Better communicators than most the other construction people!"
-      },
-      "r2": {
-        "name": "Amanda Jones",
-        "text": "Very nice environment and the people are very helpful"
-      },
-      "r3": {
-        "name": "Dana Simpkins",
-        "text": "I would recommend to anyone!"
-      }
-    },
-    "business_6": {
-      // ... Remaining reviews for business 6
-    },
-    "business_7": {
-      // ... Remaining reviews for business 7
-    }
   }
 }
+
 
