@@ -8,7 +8,11 @@
       "heroImages": [
         {
           "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPd_GeXajqx7mrjKIptUa35csYqSH9bpr0Tr-t4=w231-h165-n-k-no-nu",
-          "text": "Elite Plumbing Pros - Your trusted plumbing experts in Phoenix"
+          "text": "<strong>Elite Plumbing Pros</strong> - Your trusted plumbing experts in <strong>Phoenix</strong>"
+        },
+        {
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNFm3phNL7G-mZ0wuers9bUvzhR9OEV1ukRlzxk=w231-h165-n-k-no-nu",
+          "text": "24/7 Emergency Services by <strong>Elite Plumbing Pros</strong>. Call Now!"
         }
       ],
       "primaryColor": "#1a3c78",
@@ -19,7 +23,35 @@
       "city": "Phoenix",
       "state": "AZ",
       "street": "2500 N Central Ave",
-      "zip": "85004"
+      "zip": "85004",
+      "socialMedia": {
+        "facebook": "https://facebook.com/eliteplumbing",
+        "instagram": "https://instagram.com/eliteplumbing"
+      },
+      "reviews": [
+        {
+          "name": "Michael R.",
+          "rating": 5,
+          "text": "Elite Plumbing Pros saved us during a late-night emergency. Their technician arrived within 30 minutes and fixed our burst pipe."
+        },
+        {
+          "name": "Sarah K.",
+          "rating": 5,
+          "text": "Best plumbing service in Phoenix! Fair prices and excellent work quality."
+        },
+        {
+          "name": "James T.",
+          "rating": 4.8,
+          "text": "Very reliable service. Had them fix multiple issues in our older home."
+        },
+        {
+          "name": "Lisa M.",
+          "rating": 5,
+          "text": "Fantastic experience with their drain cleaning service."
+        }
+      ],
+      "serviceAreas": ["Phoenix", "Scottsdale", "Mesa", "Tempe", "Glendale"],
+      "emergencyService": true
     },
     "site2": {
       "businessName": "Fast Flow Plumbing",
@@ -29,7 +61,11 @@
       "heroImages": [
         {
           "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNFm3phNL7G-mZ0wuers9bUvzhR9OEV1ukRlzxk=w231-h165-n-k-no-nu",
-          "text": "Fast Flow Plumbing - Emergency plumbing services in Denver"
+          "text": "<strong>Fast Flow Plumbing</strong> - Emergency plumbing services in <strong>Denver</strong>"
+        },
+        {
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPd_GeXajqx7mrjKIptUa35csYqSH9bpr0Tr-t4=w231-h165-n-k-no-nu",
+          "text": "Professional plumbing solutions by <strong>Fast Flow Plumbing</strong>. Available 24/7!"
         }
       ],
       "primaryColor": "#28a745",
@@ -40,28 +76,35 @@
       "city": "Denver",
       "state": "CO",
       "street": "789 Elm St",
-      "zip": "80202"
-    },
-    "site3": {
-      "businessName": "Precision Plumbers",
-      "phone": "555-456-7890",
-      "email": "info@precisionplumbers.com",
-      "logo": "https://example.com/precision-logo.png",
-      "heroImages": [
+      "zip": "80202",
+      "socialMedia": {
+        "facebook": "https://facebook.com/fastflow",
+        "instagram": "https://instagram.com/fastflow"
+      },
+      "reviews": [
         {
-          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMKEiGUN8Ty7eGOjy6TdkZ8Te3AQ8UmLr2iM_A=w296-h168-n-k-no",
-          "text": "Precision Plumbers - Available 24/7 in Austin"
+          "name": "Robert D.",
+          "rating": 5,
+          "text": "Fast Flow lived up to their name. Quick response and professional service."
+        },
+        {
+          "name": "Emma S.",
+          "rating": 4.8,
+          "text": "Great experience with their water heater installation. Fair pricing."
+        },
+        {
+          "name": "John P.",
+          "rating": 4.7,
+          "text": "Professional team and excellent customer service."
+        },
+        {
+          "name": "Mary L.",
+          "rating": 5,
+          "text": "They fixed our emergency leak at 2 AM. Highly recommend!"
         }
       ],
-      "primaryColor": "#2c4d8c",
-      "accentColor": "#e8b923",
-      "reviewLink": "https://g.page/r/precision",
-      "rating": "4.7",
-      "reviewCount": "156",
-      "city": "Austin",
-      "state": "TX",
-      "street": "1234 South Congress",
-      "zip": "78704"
+      "serviceAreas": ["Denver", "Aurora", "Lakewood", "Arvada"],
+      "emergencyService": true
     }
   }
 }
