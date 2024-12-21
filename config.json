@@ -15,8 +15,8 @@
           "text": "Need emergency plumbing services? Call <strong>Superior Plumbing</strong> today!"
         }
       ],
-      "primaryColor": "#1a73e8",  // Blue
-      "accentColor": "#fbbc05",   // Yellow
+      "primaryColor": "#1a73e8",
+      "accentColor": "#fbbc05",
       "reviewLink": "https://example.com/superior-reviews",
       "rating": "4.8",
       "reviewCount": "87",
@@ -40,8 +40,8 @@
           "text": "Blocked pipes? Let <strong>Reliable Drain Experts</strong> take care of it!"
         }
       ],
-      "primaryColor": "#2c3e50",  // Dark Blue
-      "accentColor": "#e74c3c",   // Red
+      "primaryColor": "#2c3e50",
+      "accentColor": "#e74c3c",
       "reviewLink": "https://example.com/reliable-reviews",
       "rating": "4.5",
       "reviewCount": "65",
@@ -65,8 +65,8 @@
           "text": "24/7 Plumbing services from <strong>Fast Flow Plumbing</strong>!"
         }
       ],
-      "primaryColor": "#28a745",  // Green
-      "accentColor": "#ffcc00",   // Gold
+      "primaryColor": "#28a745",
+      "accentColor": "#ffcc00",
       "reviewLink": "https://example.com/fastflow-reviews",
       "rating": "4.9",
       "reviewCount": "120",
@@ -90,8 +90,8 @@
           "text": "Plumbing emergencies? <strong>Premier Plumbing Co.</strong> has got you covered!"
         }
       ],
-      "primaryColor": "#34495e",  // Dark Gray
-      "accentColor": "#9b59b6",   // Purple
+      "primaryColor": "#34495e",
+      "accentColor": "#9b59b6",
       "reviewLink": "https://example.com/premier-reviews",
       "rating": "4.7",
       "reviewCount": "92",
@@ -115,8 +115,8 @@
           "text": "Trusted plumbing solutions with <strong>Aqua Experts</strong>."
         }
       ],
-      "primaryColor": "#007bff",  // Blue
-      "accentColor": "#ffc107",   // Amber
+      "primaryColor": "#007bff",
+      "accentColor": "#ffc107",
       "reviewLink": "https://example.com/aqua-reviews",
       "rating": "5.0",
       "reviewCount": "110",
@@ -149,6 +149,7 @@
     ]
   }
 }
+
 
 
 
