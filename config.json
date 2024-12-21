@@ -1,118 +1,68 @@
 {
   "siteConfigs": {
     "site1": {
-      "businessName": "Superior Plumbing",
-      "phone": "123-456-7890",
-      "email": "contact@superiorplumbing.com",
-      "logo": "https://example.com/superior-logo.png",
+      "businessName": "Elite Plumbing Pros",
+      "phone": "555-123-4567",
+      "email": "service@eliteplumbing.com",
+      "logo": "https://example.com/elite-logo.png",
       "heroImages": [
         {
           "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPd_GeXajqx7mrjKIptUa35csYqSH9bpr0Tr-t4=w231-h165-n-k-no-nu",
-          "text": "Superior Plumbing is your trusted plumbing expert in <strong>Jonesboro</strong> and surrounding areas."
-        },
-        {
-          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNFm3phNL7G-mZ0wuers9bUvzhR9OEV1ukRlzxk=w231-h165-n-k-no-nu",
-          "text": "Need emergency plumbing services? Call <strong>Superior Plumbing</strong> today!"
+          "text": "Elite Plumbing Pros - Your trusted plumbing experts in Phoenix"
         }
       ],
-      "primaryColor": "#1a73e8",
-      "accentColor": "#fbbc05",
-      "reviewLink": "https://example.com/superior-reviews",
-      "rating": "4.8",
-      "reviewCount": "87",
-      "city": "Jonesboro",
-      "state": "AR",
-      "street": "123 Main St",
-      "zip": "72401"
+      "primaryColor": "#1a3c78",
+      "accentColor": "#ffd700",
+      "reviewLink": "https://g.page/r/elite",
+      "rating": "4.9",
+      "reviewCount": "203",
+      "city": "Phoenix",
+      "state": "AZ",
+      "street": "2500 N Central Ave",
+      "zip": "85004"
     },
     "site2": {
-      "businessName": "Reliable Drain Experts",
-      "phone": "987-654-3210",
-      "email": "info@reliabledrains.com",
-      "logo": "https://example.com/reliable-logo.png",
-      "heroImages": [
-        {
-          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMKEiGUN8Ty7eGOjy6TdkZ8Te3AQ8UmLr2iM_A=w296-h168-n-k-no",
-          "text": "Fixing your drains quickly and efficiently. Call <strong>Reliable Drain Experts</strong> now!"
-        },
-        {
-          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipP8tnRwgs_K6xKSYBjkvzCEAn5o7H5piX4UnCZb=w296-h168-n-k-no",
-          "text": "Blocked pipes? Let <strong>Reliable Drain Experts</strong> take care of it!"
-        }
-      ],
-      "primaryColor": "#2c3e50",
-      "accentColor": "#e74c3c",
-      "reviewLink": "https://example.com/reliable-reviews",
-      "rating": "4.5",
-      "reviewCount": "65",
-      "city": "Atlanta",
-      "state": "GA",
-      "street": "456 Oak Rd",
-      "zip": "30301"
-    },
-    "site3": {
       "businessName": "Fast Flow Plumbing",
-      "phone": "456-789-0123",
-      "email": "support@fastflowplumbing.com",
+      "phone": "555-789-1234",
+      "email": "help@fastflowplumbing.com",
       "logo": "https://example.com/fastflow-logo.png",
       "heroImages": [
         {
-          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPCZ3ZOJWlGK3_ra-vdVddsvNuq2fK_BiwDh4XV=w296-h168-n-k-no",
-          "text": "<strong>Fast Flow Plumbing</strong>—keeping your water running smoothly in <strong>Denver</strong>."
-        },
-        {
-          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPCZ3ZOJWlGK3_ra-vdVddsvNuq2fK_BiwDh4XV=w296-h168-n-k-no",
-          "text": "24/7 Plumbing services from <strong>Fast Flow Plumbing</strong>!"
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNFm3phNL7G-mZ0wuers9bUvzhR9OEV1ukRlzxk=w231-h165-n-k-no-nu",
+          "text": "Fast Flow Plumbing - Emergency plumbing services in Denver"
         }
       ],
       "primaryColor": "#28a745",
       "accentColor": "#ffcc00",
-      "reviewLink": "https://example.com/fastflow-reviews",
-      "rating": "4.9",
-      "reviewCount": "120",
+      "reviewLink": "https://g.page/r/fastflow",
+      "rating": "4.8",
+      "reviewCount": "187",
       "city": "Denver",
       "state": "CO",
       "street": "789 Elm St",
       "zip": "80202"
+    },
+    "site3": {
+      "businessName": "Precision Plumbers",
+      "phone": "555-456-7890",
+      "email": "info@precisionplumbers.com",
+      "logo": "https://example.com/precision-logo.png",
+      "heroImages": [
+        {
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMKEiGUN8Ty7eGOjy6TdkZ8Te3AQ8UmLr2iM_A=w296-h168-n-k-no",
+          "text": "Precision Plumbers - Available 24/7 in Austin"
+        }
+      ],
+      "primaryColor": "#2c4d8c",
+      "accentColor": "#e8b923",
+      "reviewLink": "https://g.page/r/precision",
+      "rating": "4.7",
+      "reviewCount": "156",
+      "city": "Austin",
+      "state": "TX",
+      "street": "1234 South Congress",
+      "zip": "78704"
     }
-  },
-  "reviewsData": {
-    "site1": [
-      {
-        "name": "John Doe",
-        "rating": 5,
-        "text": "Exceptional service! Quickly fixed my leak and were very professional."
-      },
-      {
-        "name": "Jane Smith",
-        "rating": 4.5,
-        "text": "Great experience overall. The team was punctual and efficient."
-      }
-    ],
-    "site2": [
-      {
-        "name": "Alice Johnson",
-        "rating": 4,
-        "text": "Reliable and timely drain cleaning services."
-      },
-      {
-        "name": "Bob Brown",
-        "rating": 4.5,
-        "text": "Professional staff and excellent customer service."
-      }
-    ],
-    "site3": [
-      {
-        "name": "Charlie Davis",
-        "rating": 5,
-        "text": "Fast and efficient plumbing solutions. Highly recommend!"
-      },
-      {
-        "name": "Diana Evans",
-        "rating": 4.8,
-        "text": "Outstanding service and friendly technicians."
-      }
-    ]
   }
 }
 
