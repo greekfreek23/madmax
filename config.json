@@ -4,14 +4,14 @@
       "businessName": "Elite Plumbing Pros",
       "phone": "555-123-4567",
       "email": "service@eliteplumbing.com",
-      "logo": "https://lh5.googleusercontent.com/p/AF1QipMj28DI60oG9xYd5z3ulqCPM_4ssVBc69TJQAY=w231-h289-n-k-no-nu",
+      "logo": "https://lh5.googleusercontent.com/p/AF1QipNoYs67r9VCIZhQ4NlHVJujn4lfdCnMyMSPencZ=w231-h289-n-k-no-nu",
       "heroImages": [
         {
           "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNCqUaJRGvLKJ_36zCGjqksEQ9gL9Vwzf-sBlqR=s3840-w3840-h1918-rw",
           "text": "<strong>Elite Plumbing Pros</strong> - Your trusted plumbing experts in <strong>Phoenix</strong>"
         },
         {
-          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNFm3phNL7G-mZ0wuers9bUvzhR9OEV1ukRlzxk=w231-h165-n-k-no-nu",
+          "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNCqUaJRGvLKJ_36zCGjqksEQ9gL9Vwzf-sBlqR=s3840-w3840-h1918-rw",
           "text": "24/7 Emergency Services by <strong>Elite Plumbing Pros</strong>. Call Now!"
         }
       ],
@@ -24,10 +24,6 @@
       "state": "AZ",
       "street": "2500 N Central Ave",
       "zip": "85004",
-      "socialMedia": {
-        "facebook": "https://facebook.com/eliteplumbing",
-        "instagram": "https://instagram.com/eliteplumbing"
-      },
       "reviews": [
         {
           "name": "Michael R.",
@@ -43,49 +39,34 @@
           "name": "James T.",
           "rating": 4.8,
           "text": "Very reliable service. Had them fix multiple issues in our older home."
-        },
-        {
-          "name": "Lisa M.",
-          "rating": 5,
-          "text": "Fantastic experience with their drain cleaning service."
         }
-      ],
-      "serviceAreas": ["Phoenix", "Scottsdale", "Mesa", "Tempe", "Glendale"],
-      "emergencyService": true
+      ]
     },
     "site2": {
-      "businessName": "Fast Flow Plumbing",
+      "businessName": "Precision Plumbing Solutions",
       "phone": "555-789-1234",
-      "email": "help@fastflowplumbing.com",
-      "logo": "https://example.com/fastflow-logo.png",
+      "email": "info@precisionplumbing.com",
+      "logo": "https://lh5.googleusercontent.com/p/AF1QipOZblUToE57sFpI4pU8ZZktwq9uQSxlTLgAndw=w231-h165-n-k-no-nu",
       "heroImages": [
         {
           "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNCqUaJRGvLKJ_36zCGjqksEQ9gL9Vwzf-sBlqR=s3840-w3840-h1918-rw",
-          "text": "<strong>Fast Flow Plumbing</strong> - Emergency plumbing services in <strong>Denver</strong>"
-        },
-        {
-          "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNCqUaJRGvLKJ_36zCGjqksEQ9gL9Vwzf-sBlqR=s3840-w3840-h1918-rw",
-          "text": "Professional plumbing solutions by <strong>Fast Flow Plumbing</strong>. Available 24/7!"
+          "text": "Experience excellence with <strong>Precision Plumbing Solutions</strong> in <strong>Denver</strong>"
         }
       ],
-      "primaryColor": "#28a745",
-      "accentColor": "#ffcc00",
-      "reviewLink": "https://g.page/r/fastflow",
+      "primaryColor": "#2c5282",
+      "accentColor": "#ed8936",
+      "reviewLink": "https://g.page/r/precision",
       "rating": "4.8",
       "reviewCount": "187",
       "city": "Denver",
       "state": "CO",
       "street": "789 Elm St",
       "zip": "80202",
-      "socialMedia": {
-        "facebook": "https://facebook.com/fastflow",
-        "instagram": "https://instagram.com/fastflow"
-      },
       "reviews": [
         {
           "name": "Robert D.",
           "rating": 5,
-          "text": "Fast Flow lived up to their name. Quick response and professional service."
+          "text": "Precision Plumbing Solutions lived up to their name. Quick response and professional service."
         },
         {
           "name": "Emma S.",
@@ -101,10 +82,142 @@
           "name": "Mary L.",
           "rating": 5,
           "text": "They fixed our emergency leak at 2 AM. Highly recommend!"
+        },
+        {
+          "name": "David W.",
+          "rating": 4.9,
+          "text": "Outstanding service! They came quickly and solved our issue efficiently."
+        }
+      ]
+    },
+    "site3": {
+      "businessName": "Rapid Response Plumbers",
+      "phone": "555-456-7890",
+      "email": "service@rapidresponse.com",
+      "logo": "https://lh5.googleusercontent.com/p/AF1QipP_e6j2Ij426RUJv9yBxgpuOQKBHpRdMkoJtTzo=w296-h168-n-k-no",
+      "heroImages": [
+        {
+          "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNCqUaJRGvLKJ_36zCGjqksEQ9gL9Vwzf-sBlqR=s3840-w3840-h1918-rw",
+          "text": "<strong>Rapid Response Plumbers</strong> - Available 24/7 in <strong>Austin</strong>"
         }
       ],
-      "serviceAreas": ["Denver", "Aurora", "Lakewood", "Arvada"],
-      "emergencyService": true
+      "primaryColor": "#2F855A",
+      "accentColor": "#F6AD55",
+      "reviewLink": "https://g.page/r/rapid",
+      "rating": "4.7",
+      "reviewCount": "156",
+      "city": "Austin",
+      "state": "TX",
+      "street": "1234 South Congress",
+      "zip": "78704",
+      "reviews": [
+        {
+          "name": "Thomas K.",
+          "rating": 4.8,
+          "text": "Fast service, very professional. Had my issue fixed within an hour."
+        },
+        {
+          "name": "Jennifer L.",
+          "rating": 5,
+          "text": "Best plumbing service I've used in Austin. Reasonable prices too!"
+        }
+      ]
+    },
+    "site4": {
+      "businessName": "Master Tech Plumbing",
+      "phone": "555-234-5678",
+      "email": "info@mastertechplumbing.com",
+      "logo": "https://lh5.googleusercontent.com/p/AF1QipOZblUToE57sFpI4pU8ZZktwq9uQSxlTLgAndw=w231-h165-n-k-no-nu",
+      "heroImages": [
+        {
+          "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNCqUaJRGvLKJ_36zCGjqksEQ9gL9Vwzf-sBlqR=s3840-w3840-h1918-rw",
+          "text": "<strong>Master Tech Plumbing</strong> - Professional service in <strong>Seattle</strong>"
+        }
+      ],
+      "primaryColor": "#2B6CB0",
+      "accentColor": "#F6E05E",
+      "reviewLink": "https://g.page/r/mastertech",
+      "rating": "4.9",
+      "reviewCount": "312",
+      "city": "Seattle",
+      "state": "WA",
+      "street": "567 Pike Street",
+      "zip": "98101",
+      "reviews": [
+        {
+          "name": "Alice M.",
+          "rating": 5,
+          "text": "Exceptional service! Very knowledgeable and professional."
+        },
+        {
+          "name": "Brian K.",
+          "rating": 4.9,
+          "text": "Great experience from start to finish. Highly recommend!"
+        },
+        {
+          "name": "Carol W.",
+          "rating": 5,
+          "text": "They fixed my water heater quickly and efficiently."
+        },
+        {
+          "name": "Daniel R.",
+          "rating": 4.8,
+          "text": "Reliable and trustworthy. Will use them again!"
+        },
+        {
+          "name": "Eva S.",
+          "rating": 5,
+          "text": "Best plumbing service in Seattle area."
+        },
+        {
+          "name": "Frank T.",
+          "rating": 4.9,
+          "text": "Professional, punctual, and fairly priced."
+        }
+      ]
+    },
+    "site5": {
+      "businessName": "Professional Plumbing Services",
+      "phone": "555-345-6789",
+      "email": "contact@proplumbing.com",
+      "logo": "https://lh5.googleusercontent.com/p/AF1QipNoYs67r9VCIZhQ4NlHVJujn4lfdCnMyMSPencZ=w231-h289-n-k-no-nu",
+      "heroImages": [
+        {
+          "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNCqUaJRGvLKJ_36zCGjqksEQ9gL9Vwzf-sBlqR=s3840-w3840-h1918-rw",
+          "text": "<strong>Professional Plumbing Services</strong> - Serving <strong>Portland</strong> with excellence"
+        }
+      ],
+      "primaryColor": "#1A365D",
+      "accentColor": "#ECC94B",
+      "reviewLink": "https://g.page/r/proplumbing",
+      "rating": "4.8",
+      "reviewCount": "245",
+      "city": "Portland",
+      "state": "OR",
+      "street": "890 Morrison Street",
+      "zip": "97205",
+      "reviews": [
+        {
+          "name": "George H.",
+          "rating": 4.8,
+          "text": "Very professional team. Fixed our issues quickly."
+        },
+        {
+          "name": "Helen M.",
+          "rating": 5,
+          "text": "Excellent service and fair pricing."
+        },
+        {
+          "name": "Ian K.",
+          "rating": 4.7,
+          "text": "Reliable and efficient plumbing service."
+        },
+        {
+          "name": "Julia R.",
+          "rating": 5,
+          "text": "Great experience! Will definitely use again."
+        }
+      ]
     }
   }
 }
