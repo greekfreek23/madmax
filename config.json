@@ -74,78 +74,44 @@
       "state": "CO",
       "street": "789 Elm St",
       "zip": "80202"
-    },
-    "site4": {
-      "businessName": "Premier Plumbing Co.",
-      "phone": "654-321-0987",
-      "email": "hello@premierplumbing.com",
-      "logo": "https://example.com/premier-logo.png",
-      "heroImages": [
-        {
-          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPCZ3ZOJWlGK3_ra-vdVddsvNuq2fK_BiwDh4XV=w296-h168-n-k-no",
-          "text": "Professional plumbing services by <strong>Premier Plumbing Co.</strong> in <strong>Seattle</strong>."
-        },
-        {
-          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPCZ3ZOJWlGK3_ra-vdVddsvNuq2fK_BiwDh4XV=w296-h168-n-k-no",
-          "text": "Plumbing emergencies? <strong>Premier Plumbing Co.</strong> has got you covered!"
-        }
-      ],
-      "primaryColor": "#34495e",
-      "accentColor": "#9b59b6",
-      "reviewLink": "https://example.com/premier-reviews",
-      "rating": "4.7",
-      "reviewCount": "92",
-      "city": "Seattle",
-      "state": "WA",
-      "street": "321 Pine St",
-      "zip": "98101"
-    },
-    "site5": {
-      "businessName": "Aqua Experts",
-      "phone": "321-654-0987",
-      "email": "team@aquaexperts.com",
-      "logo": "https://example.com/aqua-logo.png",
-      "heroImages": [
-        {
-          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPd_GeXajqx7mrjKIptUa35csYqSH9bpr0Tr-t4=w231-h165-n-k-no-nu",
-          "text": "Your water problems solved by <strong>Aqua Experts</strong> in <strong>Miami</strong>."
-        },
-        {
-          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipP8tnRwgs_K6xKSYBjkvzCEAn5o7H5piX4UnCZb=w296-h168-n-k-no",
-          "text": "Trusted plumbing solutions with <strong>Aqua Experts</strong>."
-        }
-      ],
-      "primaryColor": "#007bff",
-      "accentColor": "#ffc107",
-      "reviewLink": "https://example.com/aqua-reviews",
-      "rating": "5.0",
-      "reviewCount": "110",
-      "city": "Miami",
-      "state": "FL",
-      "street": "654 Ocean Dr",
-      "zip": "33101"
     }
   },
   "reviewsData": {
     "site1": [
-      { "name": "John D.", "rating": 5, "text": "Quick and professional service!" },
-      { "name": "Jane S.", "rating": 4, "text": "Great job fixing my sink." }
+      {
+        "name": "John Doe",
+        "rating": 5,
+        "text": "Exceptional service! Quickly fixed my leak and were very professional."
+      },
+      {
+        "name": "Jane Smith",
+        "rating": 4.5,
+        "text": "Great experience overall. The team was punctual and efficient."
+      }
     ],
     "site2": [
-      { "name": "Mark R.", "rating": 4.5, "text": "Excellent drain cleaning service!" },
-      { "name": "Emily T.", "rating": 4, "text": "Prompt and reliable." }
+      {
+        "name": "Alice Johnson",
+        "rating": 4,
+        "text": "Reliable and timely drain cleaning services."
+      },
+      {
+        "name": "Bob Brown",
+        "rating": 4.5,
+        "text": "Professional staff and excellent customer service."
+      }
     ],
     "site3": [
-      { "name": "Sophie L.", "rating": 5, "text": "Best plumbing company in Denver!" },
-      { "name": "Kevin P.", "rating": 5, "text": "Fast and efficient!" }
-    ],
-    "site4": [
-      { "name": "Chris H.", "rating": 4.8, "text": "Highly recommend Premier Plumbing Co." },
-      { "name": "Laura M.", "rating": 4.7, "text": "Great service and communication." }
-    ],
-    "site5": [
-      { "name": "David G.", "rating": 5, "text": "Aqua Experts saved the day!" },
-      { "name": "Anna W.", "rating": 5, "text": "Fantastic experience!" }
+      {
+        "name": "Charlie Davis",
+        "rating": 5,
+        "text": "Fast and efficient plumbing solutions. Highly recommend!"
+      },
+      {
+        "name": "Diana Evans",
+        "rating": 4.8,
+        "text": "Outstanding service and friendly technicians."
+      }
     ]
   }
 }
