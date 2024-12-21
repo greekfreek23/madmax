@@ -10,6 +10,7 @@
         "https://lh3.googleusercontent.com/p/AF1QipNEwDKKetX468oaSl2sCFRwaNj8GoBPT-uPv2DZ=s680-w680-h510",
         "https://lh3.googleusercontent.com/p/AF1QipNK04U1WUrfTrTXB1rankR6zyzViMlVlUFkZ9rK=s680-w680-h510"
       ],
+      "serviceArea": "Jonesboro and surrounding areas",
       "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJ583lFvgr1IcR9RH9RZkUnxg&q=plumber,+72412,+Beech+Grove,+AR,+US&authuser=0&hl=en&gl=US",
       "primaryColor": "#000000",
       "secondaryColor": "#ffffff",
@@ -18,7 +19,7 @@
       "ownerName": "John Doe",
       "city": "Jonesboro",
       "street": "3008 Riggs St Ste A",
-      "zip": 72401,
+      "zip": "72401",
       "state": "Arkansas"
     },
     "business_6": {
@@ -31,6 +32,7 @@
         "https://lh3.googleusercontent.com/p/AF1QipNrjUr7xmpMvgru8eIJnbtExkr-JgppcHGEw5Si=s680-w680-h510",
         "https://lh3.googleusercontent.com/p/AF1QipO-tjvj-JG12lZIxHWQ2T9JeHvTcEyr5sD1L0Gv=s680-w680-h510"
       ],
+      "serviceArea": "Trumann and surrounding areas",
       "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJ86k1UoPO1YcRfh3x4zkV1eo&q=plumber,+72419,+Caraway,+AR,+US&authuser=0&hl=en&gl=US",
       "primaryColor": "#000000",
       "secondaryColor": "#ffffff",
@@ -39,7 +41,7 @@
       "ownerName": "Mike Drayton",
       "city": "Trumann",
       "street": "531 W Main St",
-      "zip": 72472,
+      "zip": "72472",
       "state": "Arkansas"
     },
     "business_7": {
@@ -52,6 +54,7 @@
         "https://scontent.fjan1-1.fna.fbcdn.net/v/t39.30808-6/464769957_27943281708648883_4567767478816166624_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ir3szzW4QVkQ7kNvgHfKaFK&_nc_zt=23&_nc_ht=scontent.fjan1-1.fna&_nc_gid=Ayt1Aoai8ms1_Rx-cH0NlYy&oh=00_AYBpQu5_geOOPtUzXBCF6Zuj8t0Eb80b-VD3lW_jbkWbMA&oe=6769AC44",
         "https://lh3.googleusercontent.com/p/AF1QipOf6Xsk5cYhktCrCV7gxg_OLsYrkYY6SWT1dfzY=s680-w680-h510"
       ],
+      "serviceArea": "Highland and surrounding areas",
       "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJ52TyKjIV0YcRpPBeL2XcClQ&q=plumber,+72425,+Delaplaine,+AR,+US&authuser=0&hl=en&gl=US",
       "primaryColor": "#000000",
       "secondaryColor": "#ffffff",
@@ -60,10 +63,191 @@
       "ownerName": "Jeff Wood",
       "city": "Highland",
       "street": "25 Big Creek Ln",
-      "zip": 72542,
+      "zip": "72542",
       "state": "Arkansas"
+    }
+  },
+  "reviewsData": {
+    "business_4": {
+      "r1": {
+        "name": "Madison Griffin",
+        "text": "Great job and great guys! They knocked out our plumbing work for our house so quick and good! Better communicators than most the other construction people!"
+      },
+      "r2": {
+        "name": "Amanda Jones",
+        "text": "Very nice environment and the people are very helpful"
+      },
+      "r3": {
+        "name": "Dana Simpkins",
+        "text": "I would recommend to anyone!"
+      }
+    },
+    "business_6": {
+      "r1": {
+        "name": "Mike Ring",
+        "text": "Me and my cousin had a stopped up kitchen sink for almost a week. After calling and calling several different services I stumbled upon DrainPro. In short, it's the best stumble I've ever made. Brandon knows his stuff and is proficient in every sense of the word. Will definitely be calling him for any future plumbing problems. More than reasonable pricing. Did a simple job that Nuckles & Son couldn't. Or rather wouldn't and still charged us. Thank you so much Brandon"
+      },
+      "r2": {
+        "name": "John Green",
+        "text": "I had these guys do the whole sewer drain from house to main. They kept appointment and really pushed thru unforeseen problems at the city's main connection which should have been the city's responsibility but Brandon took care of it to get the job done as we all know how the city will drag their feet. He kept his word and stuck to the quote. Very good plumbing company to do business with.Quality, Professionalism"
+      },
+      "r3": {
+        "name": "Ainsley Wright",
+        "text": "We were first time customers and called Brandon around 11:30 am. He had someone at our house at 12:50 pm the same day! Talk about fast! The workers were so nice and helpful, showed me everything they did and had us up and running within ten minutes! We will absolutely being using Brandon's services for all of our plumbing needs!"
+      },
+      "r4": {
+        "name": "Jacob Breytspraak",
+        "text": "DrainPro plumbing took care of us without a doubt! They were professional and very reasonable! They will be my go to for all other plumbing needs! I give these guys a 5 star without a doubt!"
+      },
+      "r5": {
+        "name": "Alan Price",
+        "text": "I had a bad backup at my home. I called Brandon at 8pm, he was nothing but helpful. He told me what to try, who to call at the city to try and get my lines flushed. Great guy should be your first call!!!"
+      },
+      "r6": {
+        "name": "Felicia Ragland",
+        "text": "They did amazing! Went above and beyond with their work! Great prices and would highly recommend them for any of your plumbing needs. Always informed me of what was going on also"
+      },
+      "r7": {
+        "name": "Jonathan Williams",
+        "text": "The best around got to me in in a very good timely manner had me fixed in minutes. Very good service and very kind, generous, helping people 10/10 recommend them best prices around as well!"
+      },
+      "r8": {
+        "name": "Brian Daniel",
+        "text": "First time customer. They were top notch professionals with excellent customer service. Actually listened to my issue and had it resoved without hesitation.  I now have a plumber for as long as DrainPro is plumbing and so should you!"
+      },
+      "r9": {
+        "name": "Becky Watkins",
+        "text": "Pipe burst due to being on outside wall in super cold weather. Brandon came out quickly and fixed it perfectly. Even got hot water to my washing machine that I hadn’t had in a while. All while fielding a ton of calls from other customers with issues and promising them he’d do whatever it took to get them back to normal asap! Price was very reasonable and they were super friendly and professional! Definitely recommend and will use if I have any other problems in the future!"
+      },
+      "r10": {
+        "name": "Edward Yarbrough",
+        "text": "I would highly recommend Brandon and Drain Pro. They go above and beyond on a regular basis and provide superior work and superior customer service. If you need a plumber, look no further. He has always done great work for me."
+      },
+      "r11": {
+        "name": "Venus Whitehurst",
+        "text": "I called him at 2am and he picked up. Came the next afternoon. Now what had to be done he couldn't fix because it ran off my property but he walked me through the entire process and helped me find who I needed to to get it fix. He is the only plumber we will ever use again!Had to call again for a new problem. This man and his crew came out again in a timely manner. Didn't charge much at all. Very friendly and respectful. Walked me through the process and talked to the water company. They are the only plumber that will come out to Lake City Arkansas. 10/10. Will call every time I have a plumbing problem!"
+      },
+      "r12": {
+        "name": "Alex Mueller",
+        "text": "Brandon and Cory both came out late at night to resolve a drainage issue in my house that we were trying to move back into.These guys were quick, knowledgeable, and did an amazing job. Would highly recommend them to anyone that has a plumbing issue."
+      },
+      "r13": {
+        "name": "Brad Beavers",
+        "text": "Anyone looking for a great company to do business with then Brandon Edward's is the guy. He came out on his day off to point me in the right direction on a water leak I had on my main incoming water line and helped save me alot of money by telling me what I needed to make the repairs myself. He even took the time to go to the parts store with me to get what i needed. Upstanding guy. Very knowledgeable and very professional."
+      },
+      "r14": {
+        "name": "Antonio Taylor",
+        "text": "I called and talked to Brandon and he told me exactly what to do to unclog my pipe. He possibly save me from spending $1000s. I would recommend anybody that have any plumbing problems to give them a call FIRST. Fast, friendly and and very ?More"
+      },
+      "r15": {
+        "name": "Linda Jones",
+        "text": "Brandon fixed our miss up right away. Just 1 phone call and he came to fix our shower. Thank you so much."
+      },
+      "r16": {
+        "name": "Michael Ball",
+        "text": "Called Brandon at Drain Pro after finding leaks in drain and water lines for the only bathroom in the home. He was booked for the next several days?then I overheard him ask his work team if they would work overtime on the weekend to help us out. With no hesitation, they responded ?yes.? Drain Pro was at the home the next evening and provided information regarding the leaks and what it would cost to repair. The price was very fair. Brandon was dealing with very old pipes in an uncomfortable crawl space. He and his team did an amazing job fixing the pipes, including additional leaks that I wasn’t aware of. 5+ stars on quality of work, price, and professionalism. Brandon Edwards at Drain Pro will be my first call for any plumbing needs we have in the future. Most responsive, courteous, hard working plumber I’ve ever met and at a very fair price!Responsiveness, Punctuality, Quality, Professionalism, ValuePlumbing leak detection, Plumbing pipe repair, Faucet installation, Sewer repair, Shower repair, Plumbing leak repair"
+      },
+      "r17": {
+        "name": "Clyde Muntz",
+        "text": "Brandon Edwards of DrainPro showed up and done an amazing job!!! He was fast, prompt, and very knowledgeable about what he does! He called out the problem before he ever started?? I will HIGHLY recommend Brandon to anyone who is in need of any type of plumbing service!Responsiveness, Quality, Professionalism, ValueDrain cleaning, Plumbing leak detection, Plumbing pipe repair, Sewer cleaning, Outdoor plumbing system repair, Toilet installation, Plumbing leak repair"
+      },
+      "r18": {
+        "name": "Doug Ballard",
+        "text": "I had what I thought was a leak in my bathroom wall. I could hear water pouring thru the pipes even though I shut off my toilet valve. I called and spoke with Brandon at 8pm. The man was extremely polite and helpful even though I could hear ?More"
+      },
+      "r19": {
+        "name": "Beverly Barker",
+        "text": "Despite having a back load of a schedule due to the vast number of customers affected by the freezing temperatures, they squeezed me in and had my issue fixed within minutes!!!  ?And?wouldn’t let me pay them since it took a while to get to me!  But we shook hands on him coming back and re-plumbing some pipes and replacing some fixtures when he has time! Highly recommended! These are good people!!!Quality, Professionalism, ValuePlumbing leak detection, Plumbing pipe repair, Outdoor plumbing system repair, Plumbing leak repair"
+      },
+      "r20": {
+        "name": "Matthew Smithey",
+        "text": "This man worked wonders my busted water line was dug up, quoted, and replaced all within two days. From start to finish there wasn’t one time I thought to give them any less than a five star rating. With a combined knowledge and work ethic I will be using them and suggesting them for years to come."
+      },
+      "r21": {
+        "name": "Ricky Hill",
+        "text": "Brandon is an expert in his trade and is super friendly. He not only does the job right, but is happy to educate you on the process. His plumbing service is the one I'll be using from now on.Responsiveness, Punctuality, Quality, Professionalism, ValueShower repair, Plumbing leak repair"
+      },
+      "r22": {
+        "name": "Aja Lloyd",
+        "text": "We had the hardest time getting a plumber to come out and fix our slab leak but Brandon and his crew showed up and showed out. We appreciate them so much. We highly recommend him and his crew and we will be calling again for any issues we have.Responsiveness, Punctuality, Quality, Professionalism, ValuePlumbing leak detection, Plumbing pipe repair"
+      },
+      "r23": {
+        "name": "Antonio Hampton",
+        "text": "Wow I am amazed at the courtesy, professional , and expert service I received from Mr Brandon and his apprentice.  He came in and discussed in  specific details what the issues were with my toilets and shower.  He explained how wastes go down along the pipes as well as the internal workings of a toilet. He with his expertise check things out very thoroughly!!!! I appreciate all that he came to do to correct the issues that I was having. He also let me that that if I have any issues to call him. He was professional and friendly as was his apprentice.  I highly recommend him!!!!Toilet repair, Plumbing leak detection, Shower repair"
+      },
+      "r24": {
+        "name": "Tracy Meadows",
+        "text": "Great job! Professional, trustworthy, quality work. You cant go wrong with Drainpro."
+      },
+      "r25": {
+        "name": "Bionca Bishop",
+        "text": "Went above and beyond what was asked! Not only did I get my issue fixed but also got a lot of useful info and tips of fixing other issues. Mr Brandon is the most professional and caring plumber I’ve ever dealt with in my life ?More"
+      },
+      "r26": {
+        "name": "Donnie Battles",
+        "text": "Brandon and his workers are top tier when it comes to service and customer care. They are nothing but professionals. I'm a new homeowner and I will not call anyone else."
+      },
+      "r27": {
+        "name": "Jeff Hall",
+        "text": "Within 20 minutes of my initial call on a Saturday, Brandon arrived and was extremely friendly. He was prepared to address our situation while putting his weekend plans on hold. He worked quickly, but also took the time to explain  to us what he was doing. He also offered tips on what we can do to prevent this situation from happening in the future.  He has earned our respect, and will definitely be our 1st to call whenever we need plumbing assistance.Responsiveness, Punctuality, Quality, Value"
+      },
+      "r28": {
+        "name": "Michellle Collins",
+        "text": "Brandon can repair and install all your needs all at a very reasonable price. He has fixed a main water line leak, installed plumbing for a washer/dryer unit, fixed and repaired pipes and water valves, installed and fixed faucets, and unclogged our sewer line. He’s always very fast and efficient at showing up when you have an emergency and always does a great job!Responsiveness, Quality, Professionalism, ValueToilet repair, Drain cleaning, Plumbing pipe repair, Faucet installation"
+      },
+      "r29": {
+        "name": "Tyler Holcomb",
+        "text": "Cannot express our gratitude enough for Mr.Brandon and gavinliterally some the most understanding people to do business with in these hard times!  recently moved into a home that hasn't had water ran in years with numerous plumbing issues within one phone call they made time in the super busy schedule to come out give a quote ,and got the job done in a professional and efficient manner...thank you DrainPro"
+      }
+    },
+    "business_7": {
+      "r1": {
+        "name": "Britney Long",
+        "text": "Our new plumbing company!! Had a water leak, and  they were quick to arrive and fix the problem. Thank you so much!! Top notch service, highly recommend!"
+      },
+      "r2": {
+        "name": "Linda Berry",
+        "text": "We have literally moved into our new home in Horseshoe Bend, AR and among all of the things needed to be done the washer drain stops up and drains onto the floor. Not acceptable so one phone call to Wood’s Plumbing, during the holidays and they scheduled an appointment for Thursday the 28th. The plumbers came, ~30 minutes later and one nasty clog devised of roots gone, part of a bottle of Roebics Root Destroyer later- running free. Thank you Wood’s Plumbing. Your number is now in my contacts list and you will become the togo to plumbing company. In fact, we have another project for later for you! Good job."
+      },
+      "r3": {
+        "name": "Burdette Pettit",
+        "text": "They were here almost before I finished my call to them !   Took care of a major leak in my main water valve very quickly, by replacing it and a pressure control valve.  I considered the bill was extremely reasonable considering the potential damage it would have caused.  If I have further plumbing issues, it would be Woods plumbing for sure I call?.. just like in the past.Our new plumbing company. Great, reasonable, service. Would definitely recommend."
+      },
+      "r4": {
+        "name": "Elizabeth Mohan",
+        "text": "I called the company and the owner called me back within 5 minutes. He came to my house about 30 minutes later! He fixed the water heater very fast. He was very kind. I will definitely use them again!!! ?More"
+      },
+      "r5": {
+        "name": "No One",
+        "text": "Great service went well above to get my water heater running again.The owner Jeff & Dusty came out to our house due to a bad hot water heater and loss of power. I must say great customer service and top notch  professional service, they were very clean and fixed our problem thanks to Jeff & Dusty our family now has Hot water. Thanks again Guys we highly recommend Wood’s plumbing! We will be using them again in the future.Responsiveness, Punctuality, Quality"
+      },
+      "r6": {
+        "name": "Pauline Brown",
+        "text": "Woods plumbing came out and fixed all my little quirks, leaks, and install requests. Daniel and Travis were outstanding! They worked quickly efficiently and thoroughly. Offering  information to whatever my questions were along the way. I would highly recommend them for all your plumbing needs. Thanks Woods plumbing for having the best employees."
+      },
+      "r7": {
+        "name": "Kathy Alderson",
+        "text": "We had a problem with our water heater and thought we probably needed a new one. We called Wood's Plumbing in the morning and the guys came out that very day. They were very polite and knowledge. Turned out they could repair the water heater so we didn't need a new one!! We highly recommend Wood's Plumbing!!Jeff and his team were very professional and did a great job, there prices are very reasonable,  I highly recommend them.Responsiveness, Punctuality, Quality, Professionalism, Value"
+      },
+      "r8": {
+        "name": "Jimmy Frazier",
+        "text": "They  are very good  at what they do if I need  a plumber again  I will use them very nice peopleResponsiveness, Punctuality, Quality, Value"
+      },
+      "r9": {
+        "name": "Dusty Brown",
+        "text": "Woods plumbing does a great job and are reliable,they get the job done in a timely manner and are very reasonable priced"
+      },
+      "r10": {
+        "name": "Terry Powell",
+        "text": "Always promptly respond to messages and do quality work at reasonable prices."
+      },
+      "r11": {
+        "name": "April Collins",
+        "text": "Woods plumbing is the best!! They literally saved my family from a tragedy!!! Thank you jeff!!"
+      }
     }
   }
 }
+
 
 
