@@ -522,6 +522,65 @@
           "text": "Quality work, dependable and fair prices.. They installed some cabi9for me and they look amazing Thank you for working with us. I look forward to working with you on your next project!!"
         }
       ]
+    },
+    "site275": {
+      "businessName": "Humphrey's Handyman Services, LLC",
+      "phone": "+1 205-569-9043",
+      "email": "",
+      "logo": "",
+      "heroImages": [
+        {
+          "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMZJMEHalzaw4epn296MUnm_4qK2vRJ8wmS_Ryx=s680-w680-h510",
+          "text": "<strong>Humphrey's Handyman Services, LLC</strong> - Professional services in  and surrounding areas."
+        },
+        {
+          "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMHjV-6SL16Yp6g8eCG_C8-6WNtsXmAHxS0Jf9_=s680-w680-h510",
+          "text": "24/7 Emergency Services by <strong>Humphrey's Handyman Services, LLC</strong>. Contact us today!"
+        }
+      ],
+      "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJUW7Y6mGVH4ER6E4U61cqZHI&q=*&authuser=0&hl=en&gl=US",
+      "rating": 5,
+      "reviewCount": 9,
+      "street": "",
+      "city": "",
+      "state": "",
+      "zip": "",
+      "facebook": "",
+      "verified": true,
+      "locationLink": "https://www.google.com/maps/place/Humphrey%27s+Handyman+Services%2C+LLC/@33.464017999999996,-87.001263,14z/data=!4m8!1m2!2m1!1sHumphrey%27s+Handyman+Services%2C+LLC!3m4!1s0x811f9561ead86e51:0x72642a57eb144ee8!8m2!3d33.464017999999996!4d-87.001263",
+      "locationReviewsLink": "https://www.google.com/maps/place/Humphrey%27s+Handyman+Services%2C+LLC/@33.464017999999996,-87.001263,13.99z/data=!4m16!1m7!3m6!1s0x811f9561ead86e51:0x72642a57eb144ee8!2sHumphrey%27s+Handyman+Services%2C+LLC!8m2!3d33.464017999999996!4d-87.001263!16s%2Fg%2F11ckvg1dmb!3m7!1s0x811f9561ead86e51:0x72642a57eb144ee8!8m2!3d33.464017999999996!4d-87.001263!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
+      "reviews": [
+        {
+          "name": "Victoria Thomas",
+          "rating": 5,
+          "text": "4 reviews?4 photos I?m very pleased with the work that Wesley has provided on my rental property. He?s a stand up person who I look forward to assisting me on future projects."
+        },
+        {
+          "name": "Genevieve Bendall",
+          "rating": 5,
+          "text": "Wes worked tirelessly to fix an issue with my bathtub that 6 other technicians before him couldn't resolve. He was clean and polite and I would definitely recommend him!"
+        },
+        {
+          "name": "Malikah Prayear",
+          "rating": 5,
+          "text": "Mr Humphrey was an excellent choice for my project. He is kind, friendly and knowledgeable it listens to your suggestions as well. I can?t stand know it all contractors lol. He did an excellent job sealing all the possible holes and cracks both outside and in the laundry room where insects and rodents could possibly enter. I can tell he is a perfectionist and did areas that we didn?t discuss! His prices are very fair and I am having him back in a week to re-screen my front porch. I will keep him in mind for many other projects that may come up!"
+        },
+        {
+          "name": "Terry Peake",
+          "rating": 5,
+          "text": "Outstanding flexibility and friend nature. Wes was able to put both of our ideas into one. My #1 handyman. He was very honest and knowledgeable on his craftsmanship!"
+        },
+        {
+          "name": "Jennifer Alford",
+          "rating": 5,
+          "text": "Great work and very friendly! Good communicator, I would definitely recommend and will continue using Wes! Glenda S Glenda S Great work. Friendly. Happy to use Wes again for other handyman needs! Lydia NeGron Lydia NeGron Great service! Very professional and affordable. Would recommend to anyone who is looking for quality work and somebody you can depend on to do the job right!"
+        },
+        {
+          "name": "Adil Ali",
+          "rating": 5,
+          "text": "I know who the super professional and speedy response. Highly recommend."
+        }
+      ]
     }
   }
 }
