@@ -270,6 +270,34 @@
       "locationLink": "https://www.google.com/maps/place/E%26R+Maintenance%2C+LLC/@32.367135399999995,-86.26970179999999,14z/data=!4m8!1m2!2m1!1sE%26R+Maintenance%2C+LLC!3m4!1s0x888e8186102458a1:0x15140442a7dcc5f1!8m2!3d32.367135399999995!4d-86.26970179999999",
       "locationReviewsLink": "https://www.google.com/maps/place/E%26R+Maintenance%2C+LLC/@32.367135399999995,-86.26970179999999,13.99z/data=!4m16!1m7!3m6!1s0x888e8186102458a1:0x15140442a7dcc5f1!2sE%26R+Maintenance%2C+LLC!8m2!3d32.367135399999995!4d-86.26970179999999!16s%2Fg%2F11ckvg1dmb!3m7!1s0x888e8186102458a1:0x15140442a7dcc5f1!8m2!3d32.367135399999995!4d-86.26970179999999!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
       "reviews": []
+    },
+    "site5": {
+      "businessName": "Handyman Salvage",
+      "phone": "+1 706-657-3438",
+      "email": "",
+      "logo": "",
+      "heroImages": [
+        {
+          "imageUrl": "",
+          "text": "<strong>Handyman Salvage</strong> - Reliable plumbing services for Trenton and surrounding areas."
+        },
+        {
+          "imageUrl": "",
+          "text": "24/7 Emergency Services by <strong>Handyman Salvage</strong>. Call Now!"
+        }
+      ],
+      "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJx3pEn1CviYgRjY8q67aFEdM&q=plumber,+35584,+Sipsey,+AL,+US&authuser=0&hl=en&gl=US",
+      "rating": 4.4,
+      "reviewCount": 157,
+      "street": "14150 US-11",
+      "city": "Trenton",
+      "state": "Georgia",
+      "zip": 30752,
+      "facebook": "",
+      "verified": true,
+      "locationLink": "https://www.google.com/maps/place/Handyman+Salvage/@34.895497399999996,-85.4942791,14z/data=!4m8!1m2!2m1!1sHandyman+Salvage!3m4!1s0x88605bed9730e995:0xc23345716b25d3fe!8m2!3d34.895497399999996!4d-85.4942791",
+      "locationReviewsLink": "https://www.google.com/maps/place/Handyman+Salvage/@34.895497399999996,-85.4942791,13.99z/data=!4m16!1m7!3m6!1s0x88605bed9730e995:0xc23345716b25d3fe!2sHandyman+Salvage!8m2!3d34.895497399999996!4d-85.4942791!16s%2Fg%2F11ckvg1dmb!3m7!1s0x88605bed9730e995:0xc23345716b25d3fe!8m2!3d34.895497399999996!4d-85.4942791!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
+      "reviews": []
     }
   }
 }
