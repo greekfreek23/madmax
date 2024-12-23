@@ -1,44 +1,79 @@
 {
   "siteConfigs": {
     "site1": {
-      "businessName": "Elite Plumbing Pros",
-      "phone": "555-123-4567",
-      "email": "service@eliteplumbing.com",
-      "logo": "https://lh5.googleusercontent.com/p/AF1QipNoYs67r9VCIZhQ4NlHVJujn4lfdCnMyMSPencZ=w231-h289-n-k-no-nu",
+      "businessName": "Portia Gaines Plumbing Services",
+      "phone": "555-678-9012",
+      "email": "contact@portiagainesplumbing.com",
+      "logo": "https://example.com/path/to/logo1.jpg",
       "heroImages": [
         {
-          "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNCqUaJRGvLKJ_36zCGjqksEQ9gL9Vwzf-sBlqR=s3840-w3840-h1918-rw",
-          "text": "<strong>Elite Plumbing Pros</strong> - Your trusted plumbing experts in <strong>Phoenix</strong>"
+          "imageUrl": "https://example.com/path/to/hero-image1.jpg",
+          "text": "<strong>Portia Gaines Plumbing Services</strong> - Reliable solutions for all your plumbing needs in <strong>Your City</strong>"
         },
         {
-          "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNCqUaJRGvLKJ_36zCGjqksEQ9gL9Vwzf-sBlqR=s3840-w3840-h1918-rw",
-          "text": "24/7 Emergency Services by <strong>Elite Plumbing Pros</strong>. Call Now!"
+          "imageUrl": "https://example.com/path/to/hero-image2.jpg",
+          "text": "24/7 Emergency Plumbing Services by <strong>Portia Gaines</strong>. Call Now!"
         }
       ],
-      "primaryColor": "#1a3c78",
-      "accentColor": "#ffd700",
-      "reviewLink": "https://g.page/r/elite",
-      "rating": "4.9",
-      "reviewCount": "203",
-      "city": "Phoenix",
-      "state": "AZ",
-      "street": "2500 N Central Ave",
-      "zip": "85004",
+      "primaryColor": "#123456",
+      "accentColor": "#654321",
+      "reviewLink": "https://example.com/reviews/portia-gaines",
+      "rating": "4.8",
+      "reviewCount": "152",
+      "city": "Your City",
+      "state": "Your State",
+      "street": "1234 Main St",
+      "zip": "12345",
       "reviews": [
         {
-          "name": "Michael R.",
+          "name": "John Doe",
           "rating": 5,
-          "text": "Elite Plumbing Pros saved us during a late-night emergency. Their technician arrived within 30 minutes and fixed our burst pipe."
+          "text": "Fantastic service every time. Quick response and reasonable prices."
         },
         {
-          "name": "Sarah K.",
+          "name": "Jane Smith",
           "rating": 5,
-          "text": "Best plumbing service in Phoenix! Fair prices and excellent work quality."
-        },
-        {
-          "name": "James T.",
-          "rating": 4.8,
-          "text": "Very reliable service. Had them fix multiple issues in our older home."
+          "text": "Very professional and thorough. Highly recommend Portia Gaines for any plumbing issues!"
         }
       ]
     },
+    "site2": {
+      "businessName": "Nicholas HVAC Services",
+      "phone": "555-234-5678",
+      "email": "support@nicholashvac.com",
+      "logo": "https://example.com/path/to/logo2.jpg",
+      "heroImages": [
+        {
+          "imageUrl": "https://example.com/path/to/hero-image3.jpg",
+          "text": "<strong>Nicholas HVAC Services</strong> - Expert HVAC repair and maintenance in <strong>Your City</strong>"
+        },
+        {
+          "imageUrl": "https://example.com/path/to/hero-image4.jpg",
+          "text": "Get reliable and efficient HVAC services from <strong>Nicholas HVAC</strong>. Contact us today!"
+        }
+      ],
+      "primaryColor": "#abcdef",
+      "accentColor": "#fedcba",
+      "reviewLink": "https://example.com/reviews/nicholas-hvac",
+      "rating": "4.9",
+      "reviewCount": "198",
+      "city": "Your City",
+      "state": "Your State",
+      "street": "5678 Another Rd",
+      "zip": "67890",
+      "reviews": [
+        {
+          "name": "Alice Johnson",
+          "rating": 5,
+          "text": "Quick to respond and solve our AC issue before a big heat wave. Saved the day!"
+        },
+        {
+          "name": "Bob Lee",
+          "rating": 4.9,
+          "text": "Professional, courteous, and skilled. I trust Nicholas HVAC for all our heating and cooling needs."
+        }
+      ]
+    }
+  }
+}
+
