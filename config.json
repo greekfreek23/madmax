@@ -49,7 +49,7 @@
       "logo": "https://lh5.googleusercontent.com/p/AF1QipOZblUToE57sFpI4pU8ZZktwq9uQSxlTLgAndw=w231-h165-n-k-no-nu",
       "heroImages": [
         {
-          "imageUrl": "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/307558580_799424977826116_1753210543654218538_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=MxBAjzKFF1wQ7kNvgHrpGV9&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=A95xUHdZW3I3GREldEJ7Tmd&oh=00_AYAbRkKL9quyrD1Ns5gA1oFgfU9haiT3KLRIdp5Vdi5hNA&oe=676E85EB",
+          "imageUrl": "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/307558580_799424977826116_1753210543654218538_n.jpg",
           "text": "Experience excellence with <strong>Precision Plumbing Solutions</strong> in <strong>Denver</strong>"
         }
       ],
@@ -94,7 +94,7 @@
       "businessName": "Rapid Response Plumbers",
       "phone": "555-456-7890",
       "email": "service@rapidresponse.com",
-      "logo": "https://lh5.googleusercontent.com/p/AF1QipP_e6j2Ij426RUJv9yBxgpuOQKBHpRdMkoJtTzo=w296-h168-n-k-no","https://lh5.googleusercontent.com/p/AF1QipM0WmFubjtx22UlsdwSVQd-x-AiuwAbrJ1eADFG=s3840-w3840-h1918-rw"
+      "logo": "https://lh5.googleusercontent.com/p/AF1QipP_e6j2Ij426RUJv9yBxgpuOQKBHpRdMkoJtzo=w296-h168-n-k-no",
       "heroImages": [
         {
           "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNCqUaJRGvLKJ_36zCGjqksEQ9gL9Vwzf-sBlqR=s3840-w3840-h1918-rw",
@@ -122,5 +122,8 @@
           "text": "Best plumbing service I've used in Austin. Reasonable prices too!"
         }
       ]
-    },
+    }
+  }
+}
+
   
