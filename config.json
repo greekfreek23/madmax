@@ -298,6 +298,34 @@
       "locationLink": "https://www.google.com/maps/place/Handyman+Salvage/@34.895497399999996,-85.4942791,14z/data=!4m8!1m2!2m1!1sHandyman+Salvage!3m4!1s0x88605bed9730e995:0xc23345716b25d3fe!8m2!3d34.895497399999996!4d-85.4942791",
       "locationReviewsLink": "https://www.google.com/maps/place/Handyman+Salvage/@34.895497399999996,-85.4942791,13.99z/data=!4m16!1m7!3m6!1s0x88605bed9730e995:0xc23345716b25d3fe!2sHandyman+Salvage!8m2!3d34.895497399999996!4d-85.4942791!16s%2Fg%2F11ckvg1dmb!3m7!1s0x88605bed9730e995:0xc23345716b25d3fe!8m2!3d34.895497399999996!4d-85.4942791!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
       "reviews": []
+    },
+    "site25": {
+      "businessName": "Highland Home Hardware",
+      "phone": "+1 334-537-9207",
+      "email": "",
+      "logo": "",
+      "heroImages": [
+        {
+          "imageUrl": "",
+          "text": "<strong>Highland Home Hardware</strong> - Reliable plumbing services for Highland Home and surrounding areas."
+        },
+        {
+          "imageUrl": "",
+          "text": "24/7 Emergency Services by <strong>Highland Home Hardware</strong>. Call Now!"
+        }
+      ],
+      "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJeUzmB1iKkogRmlLq5h8ybJI&q=plumber,+35592,+Vernon,+AL,+US&authuser=0&hl=en&gl=US",
+      "rating": 4.6,
+      "reviewCount": 77,
+      "street": "19000 Montgomery Hwy",
+      "city": "Highland Home",
+      "state": "Alabama",
+      "zip": 36041,
+      "facebook": "https://www.facebook.com/Highland-Home-Hardware-115221386553255/",
+      "verified": true,
+      "locationLink": "https://www.google.com/maps/place/Highland+Home+Hardware/@31.959266799999998,-86.31115059999999,14z/data=!4m8!1m2!2m1!1sHighland+Home+Hardware!3m4!1s0x888e74c3cbfa0aeb:0x945f652c19db60be!8m2!3d31.959266799999998!4d-86.31115059999999",
+      "locationReviewsLink": "https://www.google.com/maps/place/Highland+Home+Hardware/@31.959266799999998,-86.31115059999999,13.99z/data=!4m16!1m7!3m6!1s0x888e74c3cbfa0aeb:0x945f652c19db60be!2sHighland+Home+Hardware!8m2!3d31.959266799999998!4d-86.31115059999999!16s%2Fg%2F11ckvg1dmb!3m7!1s0x888e74c3cbfa0aeb:0x945f652c19db60be!8m2!3d31.959266799999998!4d-86.31115059999999!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
+      "reviews": []
     }
   }
 }
