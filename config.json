@@ -290,7 +290,19 @@
       "verified": true,
       "locationLink": "https://www.google.com/maps/place/J.W.+Lawson+Plumbing/@33.855677299999996,-86.8021239,14z/data=!4m8!1m2!2m1!1sJ.W.+Lawson+Plumbing!3m4!1s0x8889af509f447ac7:0xd31185b6eb2a8f8d!8m2!3d33.855677299999996!4d-86.8021239",
       "locationReviewsLink": "https://www.google.com/maps/place/J.W.+Lawson+Plumbing/@33.855677299999996,-86.8021239,13.99z/data=!4m16!1m7!3m6!1s0x8889af509f447ac7:0xd31185b6eb2a8f8d!2sJ.W.+Lawson+Plumbing!8m2!3d33.855677299999996!4d-86.8021239!16s%2Fg%2F11ckvg1dmb!3m7!1s0x8889af509f447ac7:0xd31185b6eb2a8f8d!8m2!3d33.855677299999996!4d-86.8021239!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
-      "reviews": []
+      "reviews": [
+        {
+          "name": "Jordan Ashleigh",
+          "rating": 5,
+          "text": "a month ago I call him on a Monday. He came out on Tuesday. He fix my plumbing problem that day.. He did a great job. He is a excellent plumber. I would recommend him to everyone. He was so nice. Just  excellent customer service. Nicholas Nicholas 1 review a week agoNew I know who I?ll be contacting with any plumbing needs from now on. Jeremy was detailed, honest and thorough in his work and at a fair price. 10/10 recommend!!"
+        },
+        {
+          "name": "Caroline Clawson",
+          "rating": 5,
+          "text": "2 months ago Very professional, got to the house promptly and fixed all the issues I had, will continue to use his services in the future, highly recommended Kay Kay a month ago Quick to respond when I called. Came out the same day and made the repairs needed. Will use his services again."
+        }
+      ],
+      "averageRating": 5
     },
     "site25": {
       "businessName": "Highland Home Hardware",
