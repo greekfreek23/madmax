@@ -186,6 +186,34 @@
       "locationLink": "https://www.google.com/maps/place/Handyman+Salvage/@34.895497399999996,-85.4942791,14z/data=!4m8!1m2!2m1!1sHandyman+Salvage!3m4!1s0x88605bed9730e995:0xc23345716b25d3fe!8m2!3d34.895497399999996!4d-85.4942791",
       "locationReviewsLink": "https://www.google.com/maps/place/Handyman+Salvage/@34.895497399999996,-85.4942791,13.99z/data=!4m16!1m7!3m6!1s0x88605bed9730e995:0xc23345716b25d3fe!2sHandyman+Salvage!8m2!3d34.895497399999996!4d-85.4942791!16s%2Fg%2F11ckvg1dmb!3m7!1s0x88605bed9730e995:0xc23345716b25d3fe!8m2!3d34.895497399999996!4d-85.4942791!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
       "reviews": []
+    },
+    "site28": {
+      "businessName": "Autauga Home Supply",
+      "phone": "+1 334-365-5903",
+      "email": "",
+      "logo": "https://lh3.googleusercontent.com/p/AF1QipMpTmHrwLx-UC9eJWG0eLwKH4UiOBczTCWEIIUt=s680-w680-h510",
+      "heroImages": [
+        {
+          "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNb6Ziq9XSUd4qDAtq2igMEz6RQ6TkYsK4X5bjU=s680-w680-h510",
+          "text": "<strong>Autauga Home Supply</strong> - Reliable plumbing services for Prattville and surrounding areas."
+        },
+        {
+          "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMJ0ss1xje_9X8sKLR9oVajVMcMpThu2p5sbZHD=s680-w680-h510",
+          "text": "24/7 Emergency Services by <strong>Autauga Home Supply</strong>. Call Now!"
+        }
+      ],
+      "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJm1cUvQwvi4gRRYWgbt5hcF0&q=plumber,+36263,+Graham,+AL,+US&authuser=0&hl=en&gl=US",
+      "rating": 4.5,
+      "reviewCount": 75,
+      "street": "425 E Main St",
+      "city": "Prattville",
+      "state": "Alabama",
+      "zip": 36067,
+      "facebook": "https://www.facebook.com/people/Autauga-Home-Supply-Inc/100069643200232/",
+      "verified": true,
+      "locationLink": "https://www.google.com/maps/place/Autauga+Home+Supply/@32.4598101,-86.46304909999999,14z/data=!4m8!1m2!2m1!1sAutauga+Home+Supply!3m4!1s0x888e8e4bf4aa931d:0xa2272f0aada258d0!8m2!3d32.4598101!4d-86.46304909999999",
+      "locationReviewsLink": "https://www.google.com/maps/place/Autauga+Home+Supply/@32.4598101,-86.46304909999999,13.99z/data=!4m16!1m7!3m6!1s0x888e8e4bf4aa931d:0xa2272f0aada258d0!2sAutauga+Home+Supply!8m2!3d32.4598101!4d-86.46304909999999!16s%2Fg%2F11ckvg1dmb!3m7!1s0x888e8e4bf4aa931d:0xa2272f0aada258d0!8m2!3d32.4598101!4d-86.46304909999999!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
+      "reviews": []
     }
   }
 }
