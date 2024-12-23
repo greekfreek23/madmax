@@ -407,6 +407,34 @@
       "locationReviewsLink": "https://www.google.com/maps/place/Rainsville+Hardware+%26+Supply/@34.4912541,-85.8419638,13.99z/data=!4m16!1m7!3m6!1s0x8861decc4589cbf7:0x15c946552da7260d!2sRainsville+Hardware+%26+Supply!8m2!3d34.4912541!4d-85.8419638!16s%2Fg%2F11ckvg1dmb!3m7!1s0x8861decc4589cbf7:0x15c946552da7260d!8m2!3d34.4912541!4d-85.8419638!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
       "reviews": [],
       "averageRating": 5
+    },
+    "site19": {
+      "businessName": "Mountain Top Hardware & Supply",
+      "phone": "+1 205-589-6500",
+      "email": "",
+      "logo": "",
+      "heroImages": [
+        {
+          "imageUrl": "",
+          "text": "<strong>Mountain Top Hardware & Supply</strong> - Professional services in Altoona and surrounding areas."
+        },
+        {
+          "imageUrl": "",
+          "text": "24/7 Emergency Services by <strong>Mountain Top Hardware & Supply</strong>. Contact us today!"
+        }
+      ],
+      "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJgypvxIIhiogR7zxTdk2BzG8&q=plumber,+35952,+Altoona,+AL,+US&authuser=0&hl=en&gl=US",
+      "rating": 4.7,
+      "reviewCount": 92,
+      "street": "11174 US-278",
+      "city": "Altoona",
+      "state": "Alabama",
+      "zip": 35952,
+      "facebook": "https://www.facebook.com/MountainTopHardwareandSupply/",
+      "verified": true,
+      "locationLink": "https://www.google.com/maps/place/Mountain+Top+Hardware+%26+Supply/@34.0513177,-86.1845154,14z/data=!4m8!1m2!2m1!1sMountain+Top+Hardware+%26+Supply!3m4!1s0x888a2182c46f2a83:0x6fcc814d76533cef!8m2!3d34.0513177!4d-86.1845154",
+      "locationReviewsLink": "https://www.google.com/maps/place/Mountain+Top+Hardware+%26+Supply/@34.0513177,-86.1845154,13.99z/data=!4m16!1m7!3m6!1s0x888a2182c46f2a83:0x6fcc814d76533cef!2sMountain+Top+Hardware+%26+Supply!8m2!3d34.0513177!4d-86.1845154!16s%2Fg%2F11ckvg1dmb!3m7!1s0x888a2182c46f2a83:0x6fcc814d76533cef!8m2!3d34.0513177!4d-86.1845154!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
+      "reviews": []
     }
   }
 }
