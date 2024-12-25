@@ -1,11 +1,11 @@
 {
   "siteConfigs": {
     "site16": {
-      "businessName": "LT Drain and Small Repair",
+      "businessName": "Premier Painting",
       "phone": "+1 251-421-0367",
       "email": "",
       "logo": "https://lh3.googleusercontent.com/p/AF1QipOvgU9V2YyoxmwtyoWo2_NJRfIZBYhQbLIyVqlu=s680-w680-h510",
-      "aboutContent": "At LT Drain and Small Repair, we specialize in providing fast, reliable plumbing solutions with years of experience serving the Mobile area. Our team is dedicated to delivering quality service and professional results.",
+      "aboutContent": "At Premier Painting, we specialize in providing top-notch painting services with a commitment to quality and customer satisfaction.",
       "aboutImages": [
         "https://lh3.googleusercontent.com/p/AF1QipPOpqBYE068bMPCqWmSrPrfC6TfVxbv2BrfroDe=s680-w680-h510",
         "https://lh3.googleusercontent.com/p/AF1QipPOuC40JhRZAMuJOJX5x4HsZa3uo8mZdP4MVWmp=s680-w680-h510"
@@ -13,84 +13,58 @@
       "heroImages": [
         {
           "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPOpqBYE068bMPCqWmSrPrfC6TfVxbv2BrfroDe=s680-w680-h510",
-          "text": "<strong>LT Drain and Small Repair</strong> - Professional services in Mobile and surrounding areas."
+          "text": "<strong>Premier Painting</strong> - Transforming your spaces with professional painting services."
         },
         {
           "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPOuC40JhRZAMuJOJX5x4HsZa3uo8mZdP4MVWmp=s680-w680-h510",
-          "text": "24/7 Emergency Services by <strong>LT Drain and Small Repair</strong>. Contact us today!"
+          "text": "Quality craftsmanship by <strong>Premier Painting</strong>. Contact us for a free estimate!"
         }
       ],
       "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJsfZoWHtFdwYRdQ8P-Vagj3w",
-      "rating": 5,
-      "reviewCount": 96,
+      "rating": 4.7,
+      "reviewCount": 28,
       "street": "92",
       "city": "Mobile",
       "state": "Alabama",
       "zip": "36608",
       "facebook": "",
       "verified": true,
-      "locationLink": "https://www.google.com/maps/place/LT+Drain+and+Small+Repair/@30.647145,-88.1153928,14z/",
-      "locationReviewsLink": "https://www.google.com/maps/place/LT+Drain+and+Small+Repair/@30.647145,-88.1153928,13.99z/",
+      "locationLink": "https://www.google.com/maps/place/Premier+Painting/@31.0904763,-85.5209453,14z/",
+      "locationReviewsLink": "https://www.google.com/maps/place/Premier+Painting/@31.0904763,-85.5209453,13.99z/",
       "reviews": []
     },
     "site5": {
-      "businessName": "J.W. Lawson Plumbing",
+      "businessName": "Charles Pickle Septic Service",
       "phone": "+1 205-229-4450",
       "email": "",
       "logo": "",
+      "aboutContent": "Charles Pickle Septic Service offers reliable septic tank maintenance and repair services to ensure your system runs smoothly.",
+      "aboutImages": [
+        "https://lh3.googleusercontent.com/p/AF1QipPOpqBYE068bMPCqWmSrPrfC6TfVxbv2BrfroDe=s680-w680-h510",
+        "https://lh3.googleusercontent.com/p/AF1QipPOuC40JhRZAMuJOJX5x4HsZa3uo8mZdP4MVWmp=s680-w680-h510"
+      ],
       "heroImages": [
         {
-          "imageUrl": "",
-          "text": "<strong>J.W. Lawson Plumbing</strong> - Professional services in Warrior and surrounding areas."
+          "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPOpqBYE068bMPCqWmSrPrfC6TfVxbv2BrfroDe=s680-w680-h510",
+          "text": "<strong>Charles Pickle Septic Service</strong> - Professional septic services in Warrior and surrounding areas."
         },
         {
-          "imageUrl": "",
-          "text": "24/7 Emergency Services by <strong>J.W. Lawson Plumbing</strong>. Contact us today!"
+          "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPOuC40JhRZAMuJOJX5x4HsZa3uo8mZdP4MVWmp=s680-w680-h510",
+          "text": "24/7 Emergency Services by <strong>Charles Pickle Septic Service</strong>. Contact us today!"
         }
       ],
-      "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJx3pEn1CviYgRjY8q67aFEdM&q=plumber,+35584,+Sipsey,+AL,+US&authuser=0&hl=en&gl=US",
-      "rating": 4.9,
-      "reviewCount": 183,
+      "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJYTBMYHr9iIgR2AeDcVvhEj0&authuser=0&hl=en&gl=US",
+      "rating": 3.8,
+      "reviewCount": 34,
       "street": "42 205 Chapel Rd",
       "city": "Warrior",
       "state": "Alabama",
-      "zip": 35180,
+      "zip": "35180",
       "facebook": "",
       "verified": true,
-      "locationLink": "https://www.google.com/maps/place/J.W.+Lawson+Plumbing/@33.855677299999996,-86.8021239,14z/data=!4m8!1m2!2m1!1sJ.W.+Lawson+Plumbing!3m4!1s0x8889af509f447ac7:0xd31185b6eb2a8f8d!8m2!3d33.855677299999996!4d-86.8021239",
-      "locationReviewsLink": "https://www.google.com/maps/place/J.W.+Lawson+Plumbing/@33.855677299999996,-86.8021239,13.99z/data=!4m16!1m7!3m6!1s0x8889af509f447ac7:0xd31185b6eb2a8f8d!2sJ.W.+Lawson+Plumbing!8m2!3d33.855677299999996!4d-86.8021239!16s%2Fg%2F11ckvg1dmb!3m7!1s0x8889af509f447ac7:0xd31185b6eb2a8f8d!8m2!3d33.855677299999996!4d-86.8021239!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
-      "reviews": [
-        {
-          "name": "Portia Gaines",
-          "rating": 5,
-          "text": "a month ago I call him on a Monday. He came out on Tuesday. He fix my plumbing problem that day.. He did a great job. He is a excellent plumber. I would recommend him to everyone. He was so nice. Just excellent customer service. Nicholas Nicholas a week agoNew I know who I?ll be contacting with any plumbing needs from now on. Jeremy was detailed, honest and thorough in his work and at a fair price. 10/10 recommend!!"
-        },
-        {
-          "name": "Carl Murray",
-          "rating": 5,
-          "text": "I reached out to Jeremy on a Sunday at 11:30am about a clogged kitchen sink, I was unable to plunge or snake myself effectively. He responded quickly and after a few questions over the next half hour or so, He arrived at ~2:15 pm. The issue and everything was done by 3:00 pm. He was very knowledgeable and helpful. I would recommend 1"
-        },
-        {
-          "name": "Allee Fradenburg",
-          "rating": 5,
-          "text": "2 reviews?1 photo We called JW Lawson Plumbing Tuesday evening and Jeremy came the next day to help with an outside water meter issue. He was able to identify it within a few minutes and fix the problem. He?s very knowledgeable and a Great Plumber! We are so very happy he was able to help us so quickly and will definitely keep his number for all plumbing related issues going forward. Thank you Jeremy!! It was my privilege to serve you today. Your thumb is on the fast track to healing .I have awesome customers ."
-        },
-        {
-          "name": "Davis Mask",
-          "rating": 5,
-          "text": "Mr. Lawson was able to come out quick and fixed our issue with ease. Perfect man to call for fast, efficient plumbing work at a reasonable cost. (Also his responses to 1 star comments are hilarious) Glad I could help . Haven't read them in a long time. \" I never look back darling , distracts from the now\". (Edna Mode)"
-        },
-        {
-          "name": "Cheryl Palmer",
-          "rating": 5,
-          "text": "Jeremy came late in the evening and found why the sink and shower were backing up. A temporary solution was set up with plans to come back on Saturday. He was very knowledgeable and a pleasure to have service our home. Thank you for the kind words Mrs Palmer. It is a pleasure to be of Service to you and your family ."
-        },
-        {
-          "name": "Ryan Childers",
-          "rating": 5,
-          "text": "a month ago I highly recommend JW plumbing. Jeremy came and fixed what I screwed up and was professional and did a great job. He also fixed something that wasn?t done correctly when my house was built. Fair priced exceptional service. C Bartee C Bartee a month ago Lawson Plumbing will be my go-to for any and all future plumbing needs. Jeremy came out on a Sunday morning, was very professional and courteous, charged a fair price, and did excellent work in a timely manner. Will use again."
-        }
-      ]
+      "locationLink": "https://www.google.com/maps/place/Charles+Pickle+Septic+Service/@33.627758,-86.91602999999999,14z/",
+      "locationReviewsLink": "https://www.google.com/maps/place/Charles+Pickle+Septic+Service/@33.627758,-86.91602999999999,13.99z/data=!4m16!1m7!3m6!1s0x8889af509f447ac7:0xd31185b6eb2a8f8d!2sJ.W.+Lawson+Plumbing!8m2!3d33.855677299999996!4d-86.8021239!16s%2Fg%2F11ckvg1dmb!3m7!1s0x8889af509f447ac7:0xd31185b6eb2a8f8d!8m2!3d33.855677299999996!4d-86.8021239!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
+      "reviews": []
     }
   }
 }
