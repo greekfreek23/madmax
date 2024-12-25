@@ -1,24 +1,658 @@
 {
-  "businessReports": {
-    "Premier Painting": {
-      "totalReviews": 784,
-      "averageRating": 4.71,
-      "lastReportGenerated": "12/25/2024, 2:31:26 PM"
-    },
-    "Charles Pickle Septic Service": {
-      "totalReviews": 1156,
-      "averageRating": 3.82,
-      "lastReportGenerated": "12/25/2024, 2:31:26 PM"
-    },
-    "Anything Plumbing": {
-      "totalReviews": 3969,
-      "averageRating": 4.92,
-      "lastReportGenerated": "12/25/2024, 2:31:26 PM"
-    },
-    "Shamrock Home Repairs": {
-      "totalReviews": 100,
-      "averageRating": 3.3,
-      "lastReportGenerated": "12/25/2024, 2:31:26 PM"
+  "premier-painting": {
+    "reviews": [
+      {
+        "author": "Anna Kat",
+        "text": "Very impressed with the job premier painting did on my house! The workers had a great attitude and were in and out in no time!",
+        "rating": 5
+      },
+      {
+        "author": "Amy Booher",
+        "text": "I was very pleased with the service Premiere Painting provided! I was surprised by how quickly they finished the job. My home looks great!",
+        "rating": 5
+      },
+      {
+        "author": "Dan Booher",
+        "text": "Highly recommend Premier Painting! Weston and his team took care of all my painting needs in a professional manner.",
+        "rating": 5
+      },
+      {
+        "author": "messi king 34",
+        "text": "Very detailed, very clean crew, very highly accredited recently read a magazine this company was featured in for outstanding work.",
+        "rating": 5
+      },
+      {
+        "author": "Chris Alexander",
+        "text": "Very professional, and quality work! Great local company that will deal with you honestly!",
+        "rating": 5
+      },
+      {
+        "author": "Peterson Alexander",
+        "text": "Best Painting Contractor in Southeast Alabama period",
+        "rating": 5
+      },
+      {
+        "author": "Champion",
+        "text": "Friendly staff, very clean crew, best painters in Alabama.",
+        "rating": 5
+      },
+      {
+        "author": "Jessica Alexander",
+        "text": "Great Company for any of your commercial, residential or industrial painting needs. The company specializes in large painting projects. Very knowledgeable staff.",
+        "rating": 5
+      },
+      {
+        "author": "Gabe Booher",
+        "text": "Premier Painting is excellent choice for any of your painting needs, I can?t say enough good things about Weston & his team.",
+        "rating": 5
+      },
+      {
+        "author": "Laleigh Adams",
+        "text": "If you?re look for painters,  I would highly recommend Premier. The owner is knowledgeable and friendly. They go above and beyond to get the job done.",
+        "rating": 5
+      },
+      {
+        "author": "Tim Cain",
+        "text": "I've done business with several of today's paint companies, and feel most confident and comfortable with Premier's ability to satisfy.",
+        "rating": 5
+      },
+      {
+        "author": "Brody Griffin",
+        "text": "Very highly quality commercial and industrial painting services",
+        "rating": 5
+      },
+      {
+        "author": "Hunter Stovall",
+        "text": "",
+        "rating": 5
+      },
+      {
+        "author": "Gauge Zorn",
+        "text": "This company is very talented in many areas, very high end quality and great at complex projects.",
+        "rating": 5
+      },
+      {
+        "author": "Dawson Spivey",
+        "text": "",
+        "rating": 5
+      },
+      {
+        "author": "James Wright",
+        "text": "VERY detailed oriented company, employees are well trained. This company performed work on a property for us in Dothan, Alabama. When you need a painting project complete don?t hesitate to call the best. Premier Painting is the best for painting in our area.",
+        "rating": 5
+      },
+      {
+        "author": "Kelvin",
+        "text": "Very honest company, great at commercial and industrial work.",
+        "rating": 5
+      },
+      {
+        "author": "sean litherland",
+        "text": "The guys he sent out we excellent painters!",
+        "rating": 5
+      },
+      {
+        "author": "brent carpenter",
+        "text": "Great company and highly recommend.  Did a great job and very easy to work with.",
+        "rating": 5
+      },
+      {
+        "author": "Charlotte Vergara",
+        "text": "Very happy  the work performed, the crew was on time and very curtious. Work performed was second to none ! Will do business again.",
+        "rating": 5
+      },
+      {
+        "author": "Dylana Spivey",
+        "text": "Very High Quality Work, very professional company who is also licensed with the Alabama Homebuilders Board.",
+        "rating": 5
+      },
+      {
+        "author": "Kevin S",
+        "text": "Great job at excellent price,will do business again",
+        "rating": 5
+      },
+      {
+        "author": "Kama Clay",
+        "text": "I can?t say enough about this crew! Fantastic job, so kind and considerate. The best work. You can?t even tell where the repair was done now that they fixed it! Brace and Weston were the best to work with. Weston definitely took care of all my needs for the house repair! Above and beyond service! Brace even cleaned up the plumbers mess they left! So nice!",
+        "rating": 5
+      },
+      {
+        "author": "Cheyenne Clay",
+        "text": "",
+        "rating": 5
+      },
+      {
+        "author": "Nicole Freber",
+        "text": "They did a great job, definitely will use again!",
+        "rating": 5
+      },
+      {
+        "author": "Robert Freber",
+        "text": "",
+        "rating": 5
+      }
+    ],
+    "metrics": {
+      "totalReviews": 28,
+      "avgRating": "4.71",
+      "reviewsLast30Days": 0,
+      "reviewsLast60Days": 0,
+      "reviewsLast90Days": 0,
+      "yearly": {
+        "2021": 4,
+        "2022": 11,
+        "2023": 12,
+        "2024": 1
+      }
+    }
+  },
+  "charles-pickle-septic-service": {
+    "reviews": [
+      {
+        "author": "jason hogg",
+        "text": "They did our septic,water, pad and gravel driveway. They do very good clean work and show up when They say.",
+        "rating": 5
+      },
+      {
+        "author": "alicia vodosia",
+        "text": "",
+        "rating": 5
+      },
+      {
+        "author": "Joe Nelson",
+        "text": "",
+        "rating": 5
+      },
+      {
+        "author": "Phillip Higginbotham",
+        "text": "",
+        "rating": 5
+      },
+      {
+        "author": "Kim Eriksson",
+        "text": "Pickle did an amazing job for us. We called about a problem with our septic tank. They came out within 2 hours, and did a great job! Another company was going to charge us more and were going to take another day to come out.",
+        "rating": 5
+      },
+      {
+        "author": "Reginald Conner",
+        "text": "Very helpful and understanding people unlike others the could have tried to get over but never attempted and gave advice on ways to solve problems on my on thanks a lot we will continue to use them",
+        "rating": 5
+      },
+      {
+        "author": "T Lawley",
+        "text": "These guys came out and repaired my septic system after another company tried up selling to all new field lines to the tune of $4k+. They looked at our system and after giving them the go ahead came out and repaired the very next day. No need to replace field lines. We?re very appreciative of their honesty and prompt response to our inquiry. Thanks guys!",
+        "rating": 5
+      },
+      {
+        "author": "Peter Wright",
+        "text": "Mr Pickle came out when he said he would and banged out our new septic install. Very professional and quality team from his wife in the office to his helpers!  Some small damage occurred when he was digging a massive rock out of the septic hole and he came out immediately to repair and make the neighbors happy.  Highly recommend!",
+        "rating": 5
+      },
+      {
+        "author": "Fredrick Washington",
+        "text": "",
+        "rating": 5
+      },
+      {
+        "author": "T M",
+        "text": "",
+        "rating": 5
+      },
+      {
+        "author": "Jonathan Pickle",
+        "text": "",
+        "rating": 5
+      },
+      {
+        "author": "Tom Muldoon",
+        "text": "Perfect service.  On time and professional.",
+        "rating": 5
+      },
+      {
+        "author": "Jon Vickers",
+        "text": "These guys are the best! After the first company showed and tried to upcharge for unnecessary work, after the second company showed up and damaged the septic tank and lid by dropping tye lid into the tank and lied about it Pumped, I contacted Charles Pickle Sepric Tank Service. These guys knew exactly what they were doing and were honest and upfront the entire process. They pumped and inspected septic tank! No upcharges no dishonesty! They maintained communication at all times. They arrived on schedule. Not only did they pump and inspect, these guys repaired the damaged cause by the previous companies. Thank you to Crystal, Justin, Jeremy and everyone involved. I highly recommend!",
+        "rating": 5
+      },
+      {
+        "author": "B G",
+        "text": "I called late Friday and  they came the next day on a Saturday . I was very pleased with the service. They were very knowledgeable and kind.  I will definitely use them again.",
+        "rating": 5
+      },
+      {
+        "author": "Jason Norton",
+        "text": "",
+        "rating": 5
+      },
+      {
+        "author": "Conor McNamara",
+        "text": "I had to do a lot of work with the Health Dept in order to get my tank moved for a pool and Justin went above and beyond to help make this happen and did a great job putting a new tank in and removing the old tank!!!",
+        "rating": 5
+      },
+      {
+        "author": "Jason Harney",
+        "text": "Very fast and professional service. Was able to fix the problem with my septic tank and then fixed a drain problem in the shower. They had some of the best rates when I called around. I would highly recommend them to anyone. A+++",
+        "rating": 5
+      },
+      {
+        "author": "Johnathan Keith",
+        "text": "Very quick and professional, they were even able to help me troubleshoot issues with my drains that didn?t directly relate to my septic tank. Excellent service and would definitely hire them again if I need my tank serviced.",
+        "rating": 5
+      },
+      {
+        "author": "david blue",
+        "text": "After 30 years working with Building Inspection Services you want a good quality job with an inspection report approves. Justin is highly trained with the expertise to meet all the code requirements. I highly recommend calling Justin with Charles Pickle Septic Service for all your. Septic needs.",
+        "rating": 5
+      },
+      {
+        "author": "David Walker",
+        "text": "I highly recommend Pickle Plumbing for all your plumbing needs. I have used their services on multiple occasions. Nothing but speedy, professional service.",
+        "rating": 5
+      },
+      {
+        "author": "Kimberly Green",
+        "text": "Hard worker Johnathan Pickle is",
+        "rating": 5
+      },
+      {
+        "author": "LaKendria Williams",
+        "text": "Great customer service and service",
+        "rating": 5
+      },
+      {
+        "author": "erica pannell",
+        "text": "Always on time and gets the job done fast.",
+        "rating": 5
+      },
+      {
+        "author": "Chris",
+        "text": "",
+        "rating": 5
+      }
+    ],
+    "metrics": {
+      "totalReviews": 34,
+      "avgRating": "3.82",
+      "reviewsLast30Days": 0,
+      "reviewsLast60Days": 0,
+      "reviewsLast90Days": 0,
+      "yearly": {
+        "2016": 1,
+        "2017": 1,
+        "2018": 6,
+        "2019": 9,
+        "2020": 1,
+        "2021": 4,
+        "2022": 5,
+        "2023": 2,
+        "2024": 5
+      }
+    }
+  },
+  "anything-plumbing": {
+    "reviews": [
+      {
+        "author": "Jake Faulk",
+        "text": "Awesome service, fast repair, arrived asap and fixed a few other issues along the way. Repeat customer, my go to plumbing expert! Highly reccomended.",
+        "rating": 5
+      },
+      {
+        "author": "Hannah Garnett",
+        "text": "Update: second time using this wonderful company. They were able to replace our water heater quickly and did an excellent job. 10/10 on skill and service\n\nSo thankful for Jarrett! He was so kind and professional, and he was able to help us with a pretty big water leak. Will definitely recommend to friends",
+        "rating": 5
+      },
+      {
+        "author": "Scott Lambert",
+        "text": "Highly recommend Anything Plumbing! We had a leak in an unknown location. They came out quickly and found and repaired the leak quickly.  They were also much more thorough and affordable than another plumber we had out previously. They took great care in ensuring our yard was kept neat and clean throughout the process. Anything Plumbing will be the first people we call for future plumbing needs.",
+        "rating": 5
+      },
+      {
+        "author": "Michele Kennedy",
+        "text": "Anything Plumbing replaced our water heater.They were able to readily schedule our appointment, arrived promptly, were pleasant, communicative, skilled, and efficient.? They charged a fair price for good honest work. Will call again for future plumbing needs.",
+        "rating": 5
+      },
+      {
+        "author": "James Polk",
+        "text": "Has been able to show up and take care of any problem I've had on our properties within a very reasonable amount of time. And the follow through was fantastic, never had to recall for a job, done first time every time.",
+        "rating": 5
+      },
+      {
+        "author": "Steve Brahm",
+        "text": "Awesome performance by AP!  Tremendous knowledge, very friendly, extremely good communication, punctual, and a work ethic second to none.  AP did more than they promised and all the work was high quality.  Highly recommend!!",
+        "rating": 5
+      },
+      {
+        "author": "Laura McKee",
+        "text": "Great service, very professional, and reasonably priced! Will definitely be using for future needs!",
+        "rating": 5
+      },
+      {
+        "author": "Joe Essner",
+        "text": "Jarrett completed the job quickly and professionally. All the feeling and benefit of a small business and personal attention. I highly recommend AP.",
+        "rating": 5
+      },
+      {
+        "author": "Van Allen",
+        "text": "Jarrett came out on a Sunday to repair supply line to kitchen sink. He was on time, professional, courteous, and performed quality work! It was a positive experience and I would recommend.",
+        "rating": 5
+      },
+      {
+        "author": "Daniel S",
+        "text": "Great customer service and top quality plumbing work.",
+        "rating": 5
+      },
+      {
+        "author": "Amanda Gajus",
+        "text": "This is the first time I've used Anything Plumbing and they surpassed my expectations with their professionalism and quality of work. Thank you!\n\nSincerely,\n\nA lifetime customer",
+        "rating": 5
+      },
+      {
+        "author": "Lo Wang",
+        "text": "Jarrett at Anything Plumbing was very professional from start to finish. He gave me a 45 minute heads up of when he would be there which gave me time to get home to meet him. He was very thorough with his troubleshooting and quickly figured out my issue. Not only was he quick to figure it out but he had my pressure regulator valve replaced and the hot water heater leak repaired in just under 2 hours. I wouldn't hesitate to call him again in the future with any plumbing needs. Thanks Jarrett!",
+        "rating": 5
+      },
+      {
+        "author": "Eric",
+        "text": "I called Anything plumbing on a Sunday evening and he was very helpful over the phone. He came out first thing Monday morning. Fixed my slap leak in a few hours. He even filled hole with concrete. Jarrett did a wonderful job. Would highly recommend. Thank you Anything Plumbing for getting my family water again!",
+        "rating": 5
+      },
+      {
+        "author": "Sharon Bachle",
+        "text": "Responded quickly. Came out same day I called, Monday. Was back on Wednesday to replace 17 year old water heater. Updated the plumbing as well as installed Rheeme 50 gallon. Price was very reasonable, less than other quote we got and certainly more expedient. They were professional, responsive and really nice people. I highly recommend Anything Plumbing.",
+        "rating": 5
+      },
+      {
+        "author": "Anthony Krones",
+        "text": "Had a heating element die in my tankless water heater. Was absolutely a consummate professional and was even early for the service call. His pricing was fair and he did a wonderful job. This is the guy. I'm definitely going to be calling in the future!",
+        "rating": 5
+      },
+      {
+        "author": "Sherry Frye",
+        "text": "We have no regrets calling Anything Plumbing. They did a great job replacing our hot water heater for a reasonable price. We definitely recommend Anything Plumbing if you want a plumber you can trust. We would call again for any future plumbing needs.",
+        "rating": 5
+      },
+      {
+        "author": "Laura Hamilton",
+        "text": "They are very professional, knowledgeable and reliable. We highly recommend their business and would definitely use them again.",
+        "rating": 5
+      },
+      {
+        "author": "Kris",
+        "text": "",
+        "rating": 5
+      },
+      {
+        "author": "Rick Schwarze",
+        "text": "Very professional and answered all my questions. Quality work. Certainly would recommend.",
+        "rating": 5
+      },
+      {
+        "author": "Irene B.",
+        "text": "Jarrett was great. He was able to help us the same day and gave me directions over the phone of what to do until he got to the house. He was quick and professional. We would definitely recommend Anything Plumping and use them again.",
+        "rating": 5
+      },
+      {
+        "author": "Tommy Ford",
+        "text": "Jared is a smart guy who I respect for his professional services. I can always rely on him to shoot me straight.",
+        "rating": 5
+      },
+      {
+        "author": "Lesa Brahm",
+        "text": "Quick response, good price, professional, friendly team.  I recommend anything plumbing.",
+        "rating": 5
+      },
+      {
+        "author": "Kevin Krotec",
+        "text": "My hot water heater was running constantly. Called Jarrett at anything plumbing and he was over the next day. He found the leak and fixed the issue quickly and even fixed a thermostat issue with my hot water heater. I asked him for more work and he showed up when he said he would and did professional work and was courteous the whole time. Im not looking forward to more plumbing issues in the future but i would easily feel comfortable calling him for all my plumbing. A+",
+        "rating": 5
+      },
+      {
+        "author": "Mitra Bridwell",
+        "text": "",
+        "rating": 5
+      },
+      {
+        "author": "Jimmy Troupe",
+        "text": "Replaced both washing machine fill faucets. Did a great job installing and cleaning after completion. Will definitely use again and highly recommend to anyone needing fast quality service.",
+        "rating": 5
+      },
+      {
+        "author": "Mike Mayhan",
+        "text": "Excellent work.",
+        "rating": 5
+      },
+      {
+        "author": "Lydia White",
+        "text": "Our ?go to? people for plumbing. Always responsive, on time and very knowledgeable. Reasonable costs.  Would highly recommend for anything plumbing!",
+        "rating": 5
+      },
+      {
+        "author": "Belinda Greenaway",
+        "text": "Jarrett came to my home yesterday to fix a small plumbing problem.  I'd already had 2 different contractors try and fix it to no avail. Jarrett identified the problem immediately and replaced what was broken so now I have a functioning bathroom sink. He was polite and professional and also a clean worker. I will definitely use him again.",
+        "rating": 5
+      },
+      {
+        "author": "Don Roxby",
+        "text": "I called a number of plumbing companies within 20 miles of my location before I select it anything plumbing. It turned out to be a wise choice. I had same day service and the repairman was friendly, fast and efficient. The repair bill was well below what all of the other companies quoted. I highly recommend this company for your plumbing needs.",
+        "rating": 5
+      },
+      {
+        "author": "alan edmonds",
+        "text": "I had to get a water pressure regulator replaced at my residence. They were great . Very Professional and worked promptly to fix my problem. I would definitely recommend there service.  Fair pricing and great work.",
+        "rating": 5
+      },
+      {
+        "author": "Adam Barney",
+        "text": "This is an Incredible company to work with. If you have plumbing issues, call Anything Plumbing! They were extremely responsive, worked within my schedule and focused on providing high quality work. I can honestly say I have never experienced better customer service than Anything Plumbing. On top of that, they do top quality work. They have a customer for life!",
+        "rating": 5
+      },
+      {
+        "author": "Tammy Kelley",
+        "text": "I didn't hesitate to call Jarrett back for my second plumbing problem this month. Both times he was courteous, responsive, on-time, and professional. Prices are reasonable and he cleans up after the job. Hopefully, I won't need repairs again for a while but if I do, I will call on Anything Plumbing.",
+        "rating": 5
+      },
+      {
+        "author": "Morgan Daray",
+        "text": "I have used Anything Plumbing three different times for various problems. Each time I have been extremely satisfied with their service and the work they completed. Jarrett is professional in all regards. Each time I have received quality work in a timely manner at a fair price. I will continue to use Anything Plumbing for all my plumbing needs and highly recommend them to others.",
+        "rating": 5
+      },
+      {
+        "author": "Jamie L. Adams",
+        "text": "Jarrett is exceptional! Came over early to get the job done and done well. Installed a garbage disposal and fixed our drips in each bathroom. Personable, reliable, kind, and honest. I would highly recommend Anything Plumbing. Thank you Jarrett and wife (whom we didn't catch her name), you did a great job!!",
+        "rating": 5
+      },
+      {
+        "author": "Bobby Morrison",
+        "text": "",
+        "rating": 5
+      },
+      {
+        "author": "Martin Mueller",
+        "text": "I highly recommend this company. If you find yourself in need of plumbing services don't hesitate to use them. I'm the owner of a service company, and one of my employees accidently cut through a waterline at our customer's home. Jarrett arrived quickly (got there earlier than when he said he would). Jarrett was extremely professional. I can attest that he is highly skilled & a very knowledgeable plumber. He worked fast and did a great job cleaning up after the repair was made. Nothing short of an excellent job! I will most definitely use them again if I have plumbing needs.",
+        "rating": 5
+      },
+      {
+        "author": "Brian Winkles",
+        "text": "A+. I appreciated their professionalism. They got right to work and got the job done quickly. Would call them again. Thanks again and have a good day!",
+        "rating": 5
+      },
+      {
+        "author": "Kevin D",
+        "text": "",
+        "rating": 5
+      },
+      {
+        "author": "Linda Hopper",
+        "text": "",
+        "rating": 5
+      },
+      {
+        "author": "Sean O'Neill",
+        "text": "My Garbage disposal started leaking and making quite a mess under the kitchen sink.  In the past, I read many favorable reviews about Jarrett and Anything Plumbing from a web-site called \"My Neighborhood\".  I decided to call Anything Plumbing and give them a try.  Jarrett arrived the next day exactly at the appointed time.  He had everything he needed to compete the task with him.  He explained to me why the original configuration of discharge piping (dishwasher as well as the garbage disposal) were not optimal and changed them to both look and function better.  He also installed a new garbage disposal.  All of this was completed in less than 1.5 hours and at an expense that was much less than I had anticipated (I've lived at this location over thirty years and had other plumbing issues).  Needless to say, I'm very impressed with Anything Plumbing and they are in my contacts folder.  Jarrett will be coming back in the near future to replace an old Shower valve for me.",
+        "rating": 5
+      },
+      {
+        "author": "Chuck Truman",
+        "text": "Punctual, professional, and competent. I will use them again if I have plumbing needs.  Same day service in my case!",
+        "rating": 5
+      },
+      {
+        "author": "A. J.",
+        "text": "This duo of plumbers is bar none the best you'll find in the Huntsville area. I highly recommend you call up Jarrett for your plumbing needs. He came next day to replace a water heater, which led to a leaking hot water line fix and a hose bib replacement. He was thorough and accurate when cutting the drywall and replaced with patches that look very professional. He clearly explained what he was doing and showed me how he was going to do it. Please do yourself a favor and look no further than Anything Plumbing!",
+        "rating": 5
+      },
+      {
+        "author": "anom8ly",
+        "text": "I am very pleased with the service.  When we were talking pricing before he started, he laid out several possibilities of problems with varying impact on cost.  He only repaired what he needed to and the cost was contained.  I know that if he wanted to be shady he could have been.  The opportunity was there, but I really am thankful that honest guys like Jaritt are out there.\n\nOn the technical side of details, my outdoor hose bib was leaking and has been since the house was purchased last year.  The home inspector identified high water psi, and also the leaking hose bib.  The inspectors said you should probably request a pressure regulator on your house, it is very high.  I decided not to request a pressure regulator but I did request the hose bib be fixed.  Long story short is, it was not fixed.\n\nAs it got closer to winter I started worrying about water freezing around the wet ground where it leaks and then messing up my foundation so I called Jaritt.\n\nAt the end of the service Jaritt tells me that he did not need to install a psi regulator because the psi was normal now and then explained that the city had fixed the issue in my neighborhood.  So there was opportunity there to jack the price.  But he was honest and I am appreciative.  Definitely recommend.",
+        "rating": 5
+      },
+      {
+        "author": "Shawn Cordner",
+        "text": "I called Wednesday afternoon about 3:00 and they came the next day on Thursday at 12:00 before they came they gave me a call to make sure that  I was expecting them they got right to the job and did it right very nice to have a prompt plumber.",
+        "rating": 5
+      },
+      {
+        "author": "Chad LaQua",
+        "text": "Jarrett, was very professional, and provided services the very next day. He replaced two shower cartridges at a very affordable price! Anything Plumbing also provided a very reasonable estimate to remodel the bathroom/shower that adheres to Veterans Administration Standards for home improvement. Great job! Highly recommended.",
+        "rating": 5
+      },
+      {
+        "author": "yale mullins",
+        "text": "I've been using Anything Plumbing for my plumbing needs for years now and they have always been good to me. They are honest, kind, and best of all they do great work!",
+        "rating": 5
+      },
+      {
+        "author": "Jeff Case",
+        "text": "We had a ?water? leak, in the yard and after a couple of days of trying to decide if it was our neighbors or ours! We found it was ours, we then spent the next two days waiting on another plumbing company, that first called to come at 8 pm, to work in the yard. Too late to dig and see outside.They then didn?t show up by 5 the next day, when we called , couldn?t say when they were going to get to us.\nSo we moved on to Anything Plumbing, Jarrett and crew, showed up on time, diagnosed the problem, fixed it, and seemed fair in the price.  Not a big name brand, but I?d call him again before I?d call the others. Oct2019",
+        "rating": 5
+      },
+      {
+        "author": "Thomas Allen Whitaker",
+        "text": "Very professional, trustworthy, honest, and do very neat, professional job.",
+        "rating": 5
+      },
+      {
+        "author": "Shane Thompson",
+        "text": "Completely professional, prices are the best I know of, on time (early, even), and will clearly explain all the issues before and during the work. HIGHLY recommend.",
+        "rating": 5
+      },
+      {
+        "author": "Donna Boyett",
+        "text": "I had a main water pipe leak that Jarrett and team fixed after having three other plumbers come out and repair previously within two years of our newly built home. Jarrett located the problem and no issues since. I called him back to install new hammered bathroom sinks today and they did a Beautiful job!!! So Pleased with their work and prices. Very Reasonable and Knowledgeable!!! Thank you!!",
+        "rating": 5
+      },
+      {
+        "author": "Jeff Marsh",
+        "text": "Found out this afternoon that we had a water leak on our side of the meter.  Jarrett was on-site within a couple of hours, worked through the rain and had us fixed up same day.  Great work and great attitude!",
+        "rating": 5
+      },
+      {
+        "author": "Michael Rowand",
+        "text": "Had major water leak out by my water meter. They got to me pretty quick, and did a excellent job on the repair. Job well done at a resonable fee. If you want a job done by a local plumber I highly recommend Anything Plumbing for the job.",
+        "rating": 5
+      },
+      {
+        "author": "Cindy Colley",
+        "text": "I'd never met Jarrett but he was recommended to me.  I called in the morning and he offered to be at my house in the early afternoon. He diagnosed my problem--a broken pipe in my yard that was showing no obvious signs on the surface--dug 3.5' down,  and repaired the damage.  He was courteous, respectful, and made me feel I could trust him.  I'll use him again.  I recommend him without reservation.",
+        "rating": 5
+      },
+      {
+        "author": "Cynthia",
+        "text": "I have used Anything Plumbing twice this month.  The quality of Jarrett's work is exceptional.  He arrives at the time stated and makes sure that everything is running perfectly before he leaves your home.",
+        "rating": 5
+      },
+      {
+        "author": "Jennifer R",
+        "text": "JUST purchased a home, he repaired my issue same day. VERY nice, VERY good work! And his prices beat others! I will use again!  Thank you!!!",
+        "rating": 5
+      },
+      {
+        "author": "Grant Tate",
+        "text": "Very fast and professional, very reasonable! Will use them from here on out.",
+        "rating": 5
+      },
+      {
+        "author": "Trey Evans",
+        "text": "Called Anything Plumbing about my tub faucet. Jarrett came out and took a look to see what my problem was. He fixed it in no time and was a reasonable price! Will call again!",
+        "rating": 5
+      },
+      {
+        "author": "austin OSMER",
+        "text": "I had a water line leaking and called them. They showed up the same day and had it fixed. Would definitely recommend.",
+        "rating": 5
+      },
+      {
+        "author": "Blake Redmond",
+        "text": "I have used Anything Plumbing twice within the past year.  Once for a pressure relief valve by the City Meter and also a leaking shower mixing valve.  My mother has also used Anything Plumbing.  The service was quick and professional.   The fixes were repaired professionally and I have had no further problems since the time of repair.",
+        "rating": 5
+      },
+      {
+        "author": "Daniel Shady",
+        "text": "I have used Anything Plumbing for 3 plumbing jobs over the last 7 years.  Each time I was very pleased with the quality of work performed by Jarrett.  Anything Plumbing's service was prompt and professional.  The expense for each job was also very reasonable.  Highly recommended!!",
+        "rating": 5
+      },
+      {
+        "author": "Amanda Whitley",
+        "text": "Great work! Friendly and professional.",
+        "rating": 5
+      }
+    ],
+    "metrics": {
+      "totalReviews": 63,
+      "avgRating": "4.92",
+      "reviewsLast30Days": 1,
+      "reviewsLast60Days": 1,
+      "reviewsLast90Days": 2,
+      "yearly": {
+        "2016": 2,
+        "2017": 8,
+        "2018": 3,
+        "2019": 3,
+        "2021": 8,
+        "2022": 17,
+        "2023": 16,
+        "2024": 6
+      }
+    }
+  },
+  "shamrock-home-repairs": {
+    "reviews": [
+      {
+        "author": "Grant Watson",
+        "text": "After being quoted by two well known roofing companies that I needed a new roof,  Raymond was able to find the leak and fixed the problem.  What he thought was initially the problem he later discovered was a short cut the builder had done to the roof and fixed that problem as well.  I would definitely recommend Raymond and would use again.",
+        "rating": 5
+      },
+      {
+        "author": "Melissa Snider",
+        "text": "Built a beautiful deck for our 1958 bungalow. Every old house comes with special surprises; Shamrock upgraded our old porch foundation and redesigned the existing structure to suit our needs, without charging extra for the additional work. We?re so pleased with the results!",
+        "rating": 5
+      },
+      {
+        "author": "Cindy Free",
+        "text": "Mr. Roop was hired to finish some renovations to several posts on my front porch, back patio, and shed. He did a great job despite several issues that made the job difficult and unique. He remained patient with changes I made mid-way through the job and made several trips to pick up materials needed.  He was very polite and patient and was very flexible with his schedule to accommodate me. He stayed within budget which was very reasonable.",
+        "rating": 5
+      },
+      {
+        "author": "Mary Steele",
+        "text": "",
+        "rating": 5
+      },
+      {
+        "author": "Matt Langford",
+        "text": "",
+        "rating": 5
+      }
+    ],
+    "metrics": {
+      "totalReviews": 10,
+      "avgRating": "3.30",
+      "reviewsLast30Days": 0,
+      "reviewsLast60Days": 0,
+      "reviewsLast90Days": 0,
+      "yearly": {
+        "2020": 7,
+        "2021": 1,
+        "2022": 2
+      }
     }
   }
 }
