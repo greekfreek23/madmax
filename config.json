@@ -1,43 +1,11 @@
-"site25": {
-      "businessName": "Highland Home Hardware",
-      "phone": "+1 334-537-9207",
-      "email": "",
-      "logo": "",
-      "aboutContent": "Highland Home Hardware has been serving the Highland Home community with dedication and expertise. Our team of professionals is committed to providing top-quality hardware and plumbing solutions to meet all your needs.",
-      "aboutImages": [
-        "https://lh3.googleusercontent.com/p/AF1QipPOpqBYE068bMPCqWmSrPrfC6TfVxbv2BrfroDe=s680-w680-h510",
-        "https://lh3.googleusercontent.com/p/AF1QipPOuC40JhRZAMuJOJX5x4HsZa3uo8mZdP4MVWmp=s680-w680-h510"
-      ],
-      "heroImages": [
-        {
-          "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPOpqBYE068bMPCqWmSrPrfC6TfVxbv2BrfroDe=s680-w680-h510",
-          "text": "<strong>Highland Home Hardware</strong> - Reliable plumbing services for Highland Home and surrounding areas."
-        },
-        {
-          "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPOuC40JhRZAMuJOJX5x4HsZa3uo8mZdP4MVWmp=s680-w680-h510",
-          "text": "24/7 Emergency Services by <strong>Highland Home Hardware</strong>. Call Now!"
-        }
-      ],
-      "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJeUzmB1iKkogRmlLq5h8ybJI",
-      "rating": 4.6,
-      "reviewCount": 77,
-      "street": "19000 Montgomery Hwy",
-      "city": "Highland Home",
-      "state": "Alabama",
-      "zip": 36041,
-      "facebook": "https://www.facebook.com/Highland-Home-Hardware-115221386553255/",
-      "verified": true,
-      "locationLink": "https://www.google.com/maps/place/Highland+Home+Hardware/@31.959266799999998,-86.31115059999999,14z/",
-      "locationReviewsLink": "https://www.google.com/maps/place/Highland+Home+Hardware/@31.959266799999998,-86.31115059999999,13.99z/",
-      "reviews": []
-    },
-
-"site16": {
+{
+  "siteConfigs": {
+    "site16": {
       "businessName": "LT Drain and Small Repair",
       "phone": "+1 251-421-0367",
       "email": "",
       "logo": "https://lh3.googleusercontent.com/p/AF1QipOvgU9V2YyoxmwtyoWo2_NJRfIZBYhQbLIyVqlu=s680-w680-h510",
-      "aboutContent": "At LT Drain and Small Repair, we specialize in providing fast, reliable plumbing solutions. With years of experience in the industry, our team is dedicated to delivering quality service and professional results for all your plumbing needs.",
+      "aboutContent": "At LT Drain and Small Repair, we specialize in providing fast, reliable plumbing solutions with years of experience serving the Mobile area. Our team is dedicated to delivering quality service and professional results.",
       "aboutImages": [
         "https://lh3.googleusercontent.com/p/AF1QipPOpqBYE068bMPCqWmSrPrfC6TfVxbv2BrfroDe=s680-w680-h510",
         "https://lh3.googleusercontent.com/p/AF1QipPOuC40JhRZAMuJOJX5x4HsZa3uo8mZdP4MVWmp=s680-w680-h510"
@@ -65,3 +33,5 @@
       "locationReviewsLink": "https://www.google.com/maps/place/LT+Drain+and+Small+Repair/@30.647145,-88.1153928,13.99z/",
       "reviews": []
     }
+  }
+}
