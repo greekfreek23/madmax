@@ -401,6 +401,23 @@
       "facebook": "",
       "primaryColor": "#fac02d",
       "secondaryColor": "#727987"
+    },
+    "s-s-plumbing-service": {
+      "business name": "S&S Plumbing Service",
+      "logo": "https://lh5.googleusercontent.com/-ovY2-bLpEoU/AAAAAAAAAAI/AAAAAAAAAAA/UMzFZXHjji4/photo.jpg",
+      "phone": "+1 205-862-4220",
+      "street": "",
+      "city": "",
+      "postal code": "",
+      "state": "",
+      "rating": 4.7,
+      "reviews": 95,
+      "review link": "",
+      "photos count": "",
+      "working hours": "{\"Sunday\": \"Closed\", \"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"Closed\"}",
+      "facebook": "",
+      "primaryColor": "#4c8bdc",
+      "secondaryColor": "#19467f"
     }
   }
 }
