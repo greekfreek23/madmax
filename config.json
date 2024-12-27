@@ -267,6 +267,23 @@
       "photos count": 1,
       "working hours": "",
       "facebook": "https://www.facebook.com/ParkerPlumbingandGas/"
+    },
+    "day-night-plumbing": {
+      "business name": "Day & Night Plumbing",
+      "logo": "https://lh6.googleusercontent.com/-BHmNqFxrXjA/AAAAAAAAAAI/AAAAAAAAAAA/P5B_iO2H0vQ/photo.jpg",
+      "phone": "+1 205-527-5647",
+      "street": "533 Dunkirk Dr",
+      "city": "Birmingham",
+      "postal code": 35214,
+      "state": "Alabama",
+      "rating": 1,
+      "reviews": 1,
+      "review link": "",
+      "photos count": "",
+      "working hours": "",
+      "facebook": "",
+      "primaryColor": "#4474e4",
+      "secondaryColor": "#133585"
     }
   }
 }
