@@ -161,7 +161,7 @@
       "about": "{}",
       "range": "",
       "posts": "",
-      "logo": "https://lh3.googleusercontent.com/-b-lhbi4hMxk/AAAAAAAAAAI/AAAAAAAAAAA/SIkMgUf6xz0/photo.jpg",
+      "logo": "https://lh3.googleusercontent.com/-b-lhbi4hMxk/AAAAAAAAAAI/AAAAAAAAAAA/SIkMgUf6xz0/s44-p-k-no-ns-nd/photo.jpg",
       "description": "",
       "typical_time_spent": "",
       "verified": true,
@@ -226,7 +226,8 @@
       "primaryColor": "#04bce4",
       "secondaryColor": "#027b96",
       "_rowIndex": 5,
-      "_colCount": 109
+      "_colCount": 109,
+      "businessName": "Byers Plumbing"
     },
     "on-time-plumbing-inc": {
       "query": "plumber, 35244, Birmingham, AL, US",
@@ -738,7 +739,7 @@
       "about": "{\"Payments\": {\"Credit cards\": true, \"NFC mobile payments\": true}}",
       "range": "",
       "posts": "",
-      "logo": "https://lh3.googleusercontent.com/-DazTNESI_AQ/AAAAAAAAAAI/AAAAAAAAAAA/tpCmgTQtGjk/photo.jpg",
+      "logo": "https://lh3.googleusercontent.com/-DazTNESI_AQ/AAAAAAAAAAI/AAAAAAAAAAA/tpCmgTQtGjk/s44-p-k-no-ns-nd/photo.jpg",
       "description": "",
       "typical_time_spent": "",
       "verified": true,
@@ -801,7 +802,8 @@
       "website_has_fb_pixel": "",
       "website_has_google_tag": "",
       "primaryColor": "#7f7f7f",
-      "secondaryColor": "#7c7c7c"
+      "secondaryColor": "#7c7c7c",
+      "businessName": "Quality Plumbing Service"
     },
     "s-s-plumbing-service": {
       "_rowIndex": 3,
@@ -853,7 +855,7 @@
       "about": "{\"Service options\": {\"Online estimates\": true}}",
       "range": "",
       "posts": "",
-      "logo": "https://lh5.googleusercontent.com/-ovY2-bLpEoU/AAAAAAAAAAI/AAAAAAAAAAA/UMzFZXHjji4/photo.jpg",
+      "logo": "https://lh5.googleusercontent.com/-ovY2-bLpEoU/AAAAAAAAAAI/AAAAAAAAAAA/UMzFZXHjji4/s44-p-k-no-ns-nd/photo.jpg",
       "description": "",
       "typical_time_spent": "",
       "verified": true,
@@ -916,7 +918,8 @@
       "website_has_fb_pixel": "",
       "website_has_google_tag": "",
       "primaryColor": "#4c8bdc",
-      "secondaryColor": "#19467f"
+      "secondaryColor": "#19467f",
+      "businessName": "S&S Plumbing Service"
     },
     "k-wood-plumbing": {
       "_rowIndex": 4,
@@ -968,7 +971,7 @@
       "about": "{}",
       "range": "",
       "posts": "",
-      "logo": "https://lh6.googleusercontent.com/-09T0cU52WLU/AAAAAAAAAAI/AAAAAAAAAAA/bZdASVXdnd0/photo.jpg",
+      "logo": "https://lh6.googleusercontent.com/-09T0cU52WLU/AAAAAAAAAAI/AAAAAAAAAAA/bZdASVXdnd0/s44-p-k-no-ns-nd/photo.jpg",
       "description": "",
       "typical_time_spent": "",
       "verified": true,
@@ -1031,7 +1034,8 @@
       "website_has_fb_pixel": "",
       "website_has_google_tag": "",
       "primaryColor": "#4372bb",
-      "secondaryColor": "#898681"
+      "secondaryColor": "#898681",
+      "businessName": "K-Wood Plumbing"
     },
     "rowser-plumbing": {
       "_rowIndex": 10,
