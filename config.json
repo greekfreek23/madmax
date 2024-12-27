@@ -14,7 +14,19 @@
       "facebook": "https://facebook.com/ExampleBiz",
       "primaryColor": "#FF0000",
       "secondaryColor": "#00FF00"
+    },
+    "lovelady-plumbing": {
+      "business name": "Lovelady Plumbing",
+      "logo": "",
+      "phone": "+1 205-663-4846",
+      "street": "",
+      "city": "Alabaster",
+      "postal code": "",
+      "state": "Alabama",
+      "rating": 4.2,
+      "reviews": 22,
+      "review link": "",
+      "facebook": "https://www.facebook.com/loveladyplumbing/posts/"
     }
   }
 }
-
