@@ -117,6 +117,23 @@
       "photo count": "",
       "working hours": "",
       "facebook": ""
+    },
+    "stanfords-plumbing": {
+      "business name": "Stanford's Plumbing",
+      "logo": "https://lh5.googleusercontent.com/-daLlDMuW4nE/AAAAAAAAAAI/AAAAAAAAAAA/q_jG4ZwYFHc/photo.jpg",
+      "phone": "+1 334-282-4694",
+      "street": "482 Medley Rd",
+      "city": "New Brockton",
+      "postal code": "",
+      "state": "Alabama",
+      "rating": 4.5,
+      "reviews": 8,
+      "review link": "",
+      "photo count": "",
+      "working hours": "",
+      "facebook": "",
+      "primaryColor": "#4474e4",
+      "secondaryColor": "#133585"
     }
   }
 }
