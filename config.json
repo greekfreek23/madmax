@@ -367,6 +367,23 @@
       "facebook": "",
       "primaryColor": "#807e80",
       "secondaryColor": "#847c7d"
+    },
+    "one-call-services-tuscaloosa-plumbing": {
+      "business name": "One Call Services | Tuscaloosa Plumbing",
+      "logo": "https://lh4.googleusercontent.com/-gWXDakB_3Mw/AAAAAAAAAAI/AAAAAAAAAAA/h04_fZy65_o/photo.jpg",
+      "phone": "+1 205-758-6237",
+      "street": "",
+      "city": "",
+      "postal code": "",
+      "state": "",
+      "rating": 5,
+      "reviews": 3,
+      "review link": "https://search.google.com/local/reviews?placeid=ChIJ45FDOfVDXyARRKuvgsFR0a0&q=plumber,+35401,+Tuscaloosa,+AL,+US&authuser=0&hl=en&gl=US",
+      "photos count": 19,
+      "working hours": "{\"Sunday\": \"Open 24 hours\", \"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\"}",
+      "facebook": "",
+      "primaryColor": "#af2122",
+      "secondaryColor": "#5e7ca7"
     }
   }
 }
