@@ -1,21 +1,21 @@
 {
   "siteConfigs": {
-    "quality-plumbing-service": {
-      "businessName": "Quality Plumbing Service",
-      "phone": "+1 205-566-7263",
-      "rating": 4.8,
-      "reviewCount": 19,
-      "street": "2010 Kirkman Dr",
-      "city": "Birmingham",
-      "state": "Alabama",
-      "zip": 35242,
-      "reviewLink": "https://search.google.com/local/reviews?placeid=ChIJmTnUl30AiYgRNavePpL8vhg&q=plumber,+35244,+Birmingham,+AL,+US&authuser=0&hl=en&gl=US",
+    "s-s-plumbing-service": {
+      "businessName": "S&S Plumbing Service",
+      "phone": "+1 205-862-4220",
+      "rating": 4.7,
+      "reviewCount": 95,
+      "street": "",
+      "city": "",
+      "state": "",
+      "zip": "",
+      "reviewLink": "",
       "facebook": "",
       "verified": true,
-      "logo": "https://lh3.googleusercontent.com/-DazTNESI_AQ/AAAAAAAAAAI/AAAAAAAAAAA/tpCmgTQtGjk/photo.jpg",
-      "primaryColor": "#7f7f7f",
-      "secondaryColor": "#7c7c7c",
-      "locationLink": "https://www.google.com/maps/place/Quality+Plumbing+Service/@33.3987055,-86.7366364,14z/data=!4m8!1m2!2m1!1sQuality+Plumbing+Service!3m4!1s0x8889007d97d43999:0x18befc923edeab35!8m2!3d33.3987055!4d-86.7366364",
+      "logo": "https://lh5.googleusercontent.com/-ovY2-bLpEoU/AAAAAAAAAAI/AAAAAAAAAAA/UMzFZXHjji4/photo.jpg",
+      "primaryColor": "#4c8bdc",
+      "secondaryColor": "#19467f",
+      "locationLink": "https://www.google.com/maps/place/S%26S+Plumbing+Service/@32.5762265,-86.6807364,14z/data=!4m8!1m2!2m1!1sS%26S+Plumbing+Service!3m4!1s0x888918ff3b1d37e9:0xa1b8c18df6ff44ca!8m2!3d32.5762265!4d-86.6807364",
       "photoCount": ""
     }
   }
