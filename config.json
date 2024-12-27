@@ -8230,6 +8230,23 @@
       "facebook": "",
       "primaryColor": "#39648b",
       "secondaryColor": "#577d9c"
+    },
+    "total-septic-service-llc": {
+      "business name": "Total Septic Service LLC",
+      "logo": "https://lh6.googleusercontent.com/-wwSWNSaPVOc/AAAAAAAAAAI/AAAAAAAAAAA/g0BfXykvlLI/photo.jpg",
+      "phone": "+1 251-275-6297",
+      "street": "",
+      "city": "",
+      "postal code": "",
+      "state": "",
+      "rating": "",
+      "reviews": "",
+      "review link": "",
+      "photos count": 3,
+      "working hours": "{\"Sunday\": \"6AM-7PM\", \"Monday\": \"6AM-7PM\", \"Tuesday\": \"6AM-7PM\", \"Wednesday\": \"6AM-7PM\", \"Thursday\": \"6AM-7PM\", \"Friday\": \"6AM-7PM\", \"Saturday\": \"6AM-7PM\"}",
+      "facebook": "",
+      "primaryColor": "#4474e4",
+      "secondaryColor": "#133585"
     }
   }
 }
