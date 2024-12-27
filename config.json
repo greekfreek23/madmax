@@ -234,6 +234,23 @@
       "facebook": "",
       "primaryColor": "#ef3b31",
       "secondaryColor": "#a27e5c"
+    },
+    "innovative-plumbing-solutions-llc": {
+      "business name": "Innovative Plumbing Solutions LLC",
+      "logo": "https://lh5.googleusercontent.com/-daUe2CRIzKg/AAAAAAAAAAI/AAAAAAAAAAA/AktVnPbnqeo/photo.jpg",
+      "phone": "+1 205-640-0200",
+      "street": "",
+      "city": "",
+      "postal code": "",
+      "state": "",
+      "rating": 4.9,
+      "reviews": 72,
+      "review link": "https://search.google.com/local/reviews?placeid=ChIJQ3fLzbtxiYgRrTY5pY3eLak&q=plumber,+35244,+Birmingham,+AL,+US&authuser=0&hl=en&gl=US",
+      "photos count": 68,
+      "working hours": "{\"Sunday\": \"Open 24 hours\", \"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\"}",
+      "facebook": "",
+      "primaryColor": "#1444c4",
+      "secondaryColor": "#8c6474"
     }
   }
 }
