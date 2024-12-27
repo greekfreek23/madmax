@@ -27,6 +27,21 @@
       "reviews": 22,
       "review link": "",
       "facebook": "https://www.facebook.com/loveladyplumbing/posts/"
+    },
+    "corey-plumbing-heating-cooling": {
+      "business name": "Corey Plumbing, Heating & Cooling",
+      "logo": "https://lh5.googleusercontent.com/-BN3u16qmWj4/AAAAAAAAAAI/AAAAAAAAAAA/kpYzWEAaPlI/photo.jpg",
+      "phone": "+1 205-365-7401",
+      "street": "3776 Village Center Way",
+      "city": "Birmingham",
+      "postal code": "",
+      "state": "Alabama",
+      "rating": 5,
+      "reviews": 2,
+      "review link": "",
+      "facebook": "",
+      "primaryColor": "#4474e4",
+      "secondaryColor": "#133585"
     }
   }
 }
