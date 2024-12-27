@@ -1,7 +1,6 @@
 {
   "cochran-brothers-plumbing-and-gas": {
-    "aboutContent": "At <strong>Cochran Brothers Plumbing and Gas</strong>, we proudly serve <strong>Alabaster</strong> and surrounding areas with exceptional plumbing services. With a stellar <strong>5.0★</strong> rating and over <strong>154</strong> glowing reviews, customers trust us for top-notch quality and reliability. Our licensed and insured team handles everything from <strong>drain cleaning</strong>, <strong>leak detection</strong>, to <strong>water heater repairs</strong> and <strong>full system installations</strong>. No matter the job, we’re here 24/7 to provide solutions tailored to your needs.",
-    
+    "aboutContent": "At <strong>Cochran Brothers Plumbing and Gas</strong>, we proudly serve <strong>Alabaster</strong> and surrounding areas with exceptional plumbing services. With a stellar <strong>5.0?</strong> rating and over <strong>154</strong> glowing reviews, customers trust us for top-notch quality and reliability. Our licensed and insured team handles everything from <strong>drain cleaning</strong>, <strong>leak detection</strong>, to <strong>water heater repairs</strong> and <strong>full system installations</strong>. No matter the job, we?re here 24/7 to provide solutions tailored to your needs.",
     "hero": [
       {
         "small": "https://example.com/photos/hero1_small.jpg",
@@ -19,7 +18,6 @@
         "original": "https://example.com/photos/hero3_large.jpg"
       }
     ],
-    
     "about": [
       {
         "small": "https://example.com/photos/about1_small.jpg",
@@ -32,19 +30,16 @@
         "original": "https://example.com/photos/about2_large.jpg"
       }
     ],
-    
     "sliders": [
       "Local plumbing experts in <strong>Alabaster</strong>. Trusted and affordable service.",
-      "Proudly maintaining a <strong>5.0★</strong> rating with <strong>154</strong> Google Reviews.",
+      "Proudly maintaining a <strong>5.0?</strong> rating with <strong>154</strong> Google Reviews.",
       "24/7 Emergency Service! Call now for fast, reliable plumbing assistance."
     ],
-    
     "heroSliders": [
       "<strong>Cochran Brothers Plumbing and Gas</strong> - Offering top-notch plumbing solutions in <strong>Alabaster</strong> and beyond.",
-      "Trusted by over <strong>154</strong> customers with a <strong>5.0★</strong> rating on Google.",
+      "Trusted by over <strong>154</strong> customers with a <strong>5.0?</strong> rating on Google.",
       "Call now for <strong>24/7 Emergency Service</strong> you can count on!"
     ],
-    
     "highLevelURL": "https://OnlinePresenceSolutions.site/home?site=cochran-brothers-plumbing-and-gas"
   }
 }
