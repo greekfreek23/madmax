@@ -42,6 +42,21 @@
       "facebook": "",
       "primaryColor": "#4474e4",
       "secondaryColor": "#133585"
+    },
+    "unknown-biz": {
+      "business name": "unknown-biz",
+      "logo": "",
+      "phone": "",
+      "street": "",
+      "city": "",
+      "postal code": "",
+      "state": "",
+      "rating": "",
+      "reviews": "",
+      "review link": "",
+      "photo count": "",
+      "working hours": "",
+      "facebook": ""
     }
   }
 }
