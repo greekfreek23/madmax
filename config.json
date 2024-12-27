@@ -284,6 +284,23 @@
       "facebook": "",
       "primaryColor": "#4474e4",
       "secondaryColor": "#133585"
+    },
+    "tiger-mechanical-service": {
+      "business name": "Tiger Mechanical Service",
+      "logo": "https://lh6.googleusercontent.com/-u1Bz5vvoPr8/AAAAAAAAAAI/AAAAAAAAAAA/eRZ4kN2JnwI/photo.jpg",
+      "phone": "+1 205-258-9661",
+      "street": "2100 Southbridge Pkwy #650",
+      "city": "Birmingham",
+      "postal code": 35209,
+      "state": "Alabama",
+      "rating": 5,
+      "reviews": 15,
+      "review link": "https://search.google.com/local/reviews?placeid=ChIJPxxB0gLBjogRsd5Pyg0WbtA&q=plumber,+35246,+Birmingham,+AL,+US&authuser=0&hl=en&gl=US",
+      "photos count": 17,
+      "working hours": "{\"Sunday\": \"Open 24 hours\", \"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\"}",
+      "facebook": "",
+      "primaryColor": "#0897ee",
+      "secondaryColor": "#678095"
     }
   }
 }
