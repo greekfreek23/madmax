@@ -89,6 +89,92 @@
         }
       ]
     },
+    "angel-plumbing-company": {
+      "business name": "Angel Plumbing Company",
+      "reviews": [
+        {
+          "reviewer_name": "Beth Earnest",
+          "review_text": "Jeff was so nice and very efficient! Fixed our upstairs toilet quickly. I will definitely call again for other plumbing issues."
+        },
+        {
+          "reviewer_name": "Patrick Elliott",
+          "review_text": "Jeff was friendly, easy to work with, cost effective, and detailed everything he was going to do before he did the work. Not to mention he was fast. Completed the entire job in 2 days. He’s a lifesaver!"
+        },
+        {
+          "reviewer_name": "Shaina Allen",
+          "review_text": "Excellent service, arrived quickly, good prices as well."
+        },
+        {
+          "reviewer_name": "Ben Barnett",
+          "review_text": "Mr. Jeff was great to work with.  I needed several plumbing issues in my house fixed. He showed up on time, made his recommendations, and even taught me a thing or two. He turned an estimate around in about a day, and got to work that same week. My wife is very happy with our new garbage disposal, I love that he fixed my water heaters plumbing. I am even more impressed with the trench drain that he placed against my garage. I can’t recommend Angel Plumbing enough."
+        },
+        {
+          "reviewer_name": "Josh Cowan",
+          "review_text": "Came out after hours and did an awesome job fixing our water leak at the meter."
+        },
+        {
+          "reviewer_name": "Tammy Mullins",
+          "review_text": "He does great work and very reasonable on prices. Thank you Angel's plumbing you are a life saver."
+        },
+        {
+          "reviewer_name": "Bobby Rhodes",
+          "review_text": ""
+        },
+        {
+          "reviewer_name": "Gage Wilkes",
+          "review_text": "Very good service Jeff-was punctual well mannered friendly and and fixed our problems when other plumbers could not"
+        },
+        {
+          "reviewer_name": "Bryan Anderson",
+          "review_text": ""
+        }
+      ]
+    },
+    "red-bay-ace-hardware": {
+      "business name": "Red Bay Ace Hardware",
+      "reviews": [
+        {
+          "reviewer_name": "Vitalino Chinchilla",
+          "review_text": ""
+        },
+        {
+          "reviewer_name": "Martje Bicker",
+          "review_text": ""
+        },
+        {
+          "reviewer_name": "Aleacia Bursaw",
+          "review_text": "We were from out of town and needed a part for my parent’s dryer. They didn’t have the part, but could get it in by the next day and did everything they could to try to help us when we spoke to them."
+        },
+        {
+          "reviewer_name": "John Kais",
+          "review_text": "Had what I needed and at a good price. Nice store and helpful people"
+        },
+        {
+          "reviewer_name": "Jaysen Eisengrein",
+          "review_text": "The Red Bay Ace is lucky to have Alex as a staff member. Also, store managers are to be congratulated for knowing its customer base and needs. We visit this fine city for our Tiffin RV needs. We needed a 30 amp to 110 volt adapter. They did not have one...THEY HAD TWO TYPES! Alex was patient and helpful in also locating an esoteric propane connection we needed. Finally, aldo.found a rare (today) incandescent light bulb to keep our water bay warm. Thank you."
+        },
+        {
+          "reviewer_name": "Sheila Traylor",
+          "review_text": "Very clean & staff was very polite & helpful"
+        },
+        {
+          "reviewer_name": "Ken Warren Umfress",
+          "review_text": ""
+        },
+        {
+          "reviewer_name": "Oliver Herrera",
+          "review_text": ""
+        },
+        {
+          "reviewer_name": "Jeff McKinney",
+          "review_text": "Certainly a welcome addition to a small town"
+        },
+        {
+          "reviewer_name": "Fun Dad",
+          "review_text": ""
+        }
+      ]
+    },
     "sellers-services-llc": {
       "business name": "Sellers Services LLC",
       "reviews": [
