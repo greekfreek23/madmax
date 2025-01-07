@@ -474,6 +474,81 @@
     "cats-plumbing": {
       "business name": "Cats Plumbing",
       "about_us_paragraph": "**About Us:**\n\nCats Plumbing is a family-owned and operated business with over 30 years of experience in providing top-quality plumbing and air conditioning services. Our mission is to deliver premium results for all our customers, ensuring their home appliances are always in working order. With over 27 years of experience in heating & cooling units, gas appliance repair, and residential and commercial kitchen appliance maintenance, our expert technician Ian Scott leads a team dedicated to excellence. We specialize in split system air conditioning installation, maintenance, and repair; gas fitting; and commercial kitchen appliance service & repair. Our commitment to professionalism, care for clients, and continuous technical training ensures we meet the highest standards in the industry.\n\n**"
+    },
+    "lt-drain-and-small-repair": {
+      "business name": "LT Drain and Small Repair",
+      "about_us_images": [
+        {
+          "small": "https://lh5.googleusercontent.com/p/AF1QipMo67dMUZ7iKrC3sbAomOWZZpckYdczmxA9uld_=w203-h270-k-no",
+          "large": "https://lh5.googleusercontent.com/p/AF1QipMo67dMUZ7iKrC3sbAomOWZZpckYdczmxA9uld_=w2048-h2048-k-no",
+          "original": "https://lh5.googleusercontent.com/p/AF1QipMo67dMUZ7iKrC3sbAomOWZZpckYdczmxA9uld_=w2048-h2048-k-no"
+        },
+        {
+          "small": "https://lh5.googleusercontent.com/p/AF1QipONJNRQPAQHndavJya_vSax41rDL81g_xCLRQG_=w203-h270-k-no",
+          "large": "https://lh5.googleusercontent.com/p/AF1QipONJNRQPAQHndavJya_vSax41rDL81g_xCLRQG_=w2048-h2048-k-no",
+          "original": "https://lh5.googleusercontent.com/p/AF1QipONJNRQPAQHndavJya_vSax41rDL81g_xCLRQG_=w2048-h2048-k-no"
+        }
+      ]
+    },
+    "dc-painting-handyman-remodeling": {
+      "business name": "DC Painting - Handyman & Remodeling",
+      "about_us_images": [
+        {
+          "small": "https://lh5.googleusercontent.com/p/AF1QipNx_Su8XxchoRKV-sYSzt031MQDEwOlr0XJ6LQ8=w203-h270-k-no",
+          "large": "https://lh5.googleusercontent.com/p/AF1QipNx_Su8XxchoRKV-sYSzt031MQDEwOlr0XJ6LQ8=w2048-h2048-k-no",
+          "original": "https://lh5.googleusercontent.com/p/AF1QipNx_Su8XxchoRKV-sYSzt031MQDEwOlr0XJ6LQ8=w2048-h2048-k-no"
+        },
+        {
+          "small": "https://lh5.googleusercontent.com/p/AF1QipM5GxiYT2KAiqFaH-7RVJxYqJPzDRLQYYpF1jlz=w203-h270-k-no",
+          "large": "https://lh5.googleusercontent.com/p/AF1QipM5GxiYT2KAiqFaH-7RVJxYqJPzDRLQYYpF1jlz=w2048-h2048-k-no",
+          "original": "https://lh5.googleusercontent.com/p/AF1QipM5GxiYT2KAiqFaH-7RVJxYqJPzDRLQYYpF1jlz=w2048-h2048-k-no"
+        }
+      ]
+    },
+    "jakes-home-solutions": {
+      "business name": "Jakes Home Solutions",
+      "about_us_images": [
+        {
+          "small": "https://lh5.googleusercontent.com/p/AF1QipMHq6ZyuZkYB1faRxwKvXJE2MMmgKWnvHNt-MP5=w203-h270-k-no",
+          "large": "https://lh5.googleusercontent.com/p/AF1QipMHq6ZyuZkYB1faRxwKvXJE2MMmgKWnvHNt-MP5=w2048-h2048-k-no",
+          "original": "https://lh5.googleusercontent.com/p/AF1QipMHq6ZyuZkYB1faRxwKvXJE2MMmgKWnvHNt-MP5=w2048-h2048-k-no"
+        },
+        {
+          "small": "https://lh5.googleusercontent.com/p/AF1QipMW7bNSQT5yFuO2w32Z2nAzWRYBQbAwT6AXCqxU=w203-h270-k-no",
+          "large": "https://lh5.googleusercontent.com/p/AF1QipMW7bNSQT5yFuO2w32Z2nAzWRYBQbAwT6AXCqxU=w2048-h2048-k-no",
+          "original": "https://lh5.googleusercontent.com/p/AF1QipMW7bNSQT5yFuO2w32Z2nAzWRYBQbAwT6AXCqxU=w2048-h2048-k-no"
+        }
+      ]
+    },
+    "cc-s-home-service-llc": {
+      "business name": "CC’s Home Service LLC",
+      "about_us_images": [
+        {
+          "small": "https://lh5.googleusercontent.com/p/AF1QipPJFSDCQut3yCJG4JP7q7AZ5VM5QPfmW3CiADMw=w203-h270-k-no",
+          "large": "https://lh5.googleusercontent.com/p/AF1QipPJFSDCQut3yCJG4JP7q7AZ5VM5QPfmW3CiADMw=w2048-h2048-k-no",
+          "original": "https://lh5.googleusercontent.com/p/AF1QipPJFSDCQut3yCJG4JP7q7AZ5VM5QPfmW3CiADMw=w2048-h2048-k-no"
+        },
+        {
+          "small": "https://lh5.googleusercontent.com/p/AF1QipNCq-qDAm3CvCp1zwoX-m0MxIBbDM_vKz3k9DkY=w203-h270-k-no",
+          "large": "https://lh5.googleusercontent.com/p/AF1QipNCq-qDAm3CvCp1zwoX-m0MxIBbDM_vKz3k9DkY=w2048-h2048-k-no",
+          "original": "https://lh5.googleusercontent.com/p/AF1QipNCq-qDAm3CvCp1zwoX-m0MxIBbDM_vKz3k9DkY=w2048-h2048-k-no"
+        }
+      ]
+    },
+    "k-k-contracted-services": {
+      "business name": "K&K Contracted Services",
+      "about_us_images": [
+        {
+          "small": "https://lh5.googleusercontent.com/p/AF1QipOidTkITSUl6JnXQEd59lhwLKa1xNsRtJuiXGwn=w203-h270-k-no",
+          "large": "https://lh5.googleusercontent.com/p/AF1QipOidTkITSUl6JnXQEd59lhwLKa1xNsRtJuiXGwn=w2048-h2048-k-no",
+          "original": "https://lh5.googleusercontent.com/p/AF1QipOidTkITSUl6JnXQEd59lhwLKa1xNsRtJuiXGwn=w2048-h2048-k-no"
+        },
+        {
+          "small": "https://lh3.googleusercontent.com/p/AF1QipPVrlRtomPC5JkmswuEab7Wh7WXkgCEWKAyrSh2=w203-h270-k-no",
+          "large": "https://lh3.googleusercontent.com/p/AF1QipPVrlRtomPC5JkmswuEab7Wh7WXkgCEWKAyrSh2=w2048-h2048-k-no",
+          "original": "https://lh3.googleusercontent.com/p/AF1QipPVrlRtomPC5JkmswuEab7Wh7WXkgCEWKAyrSh2=w2048-h2048-k-no"
+        }
+      ]
     }
   }
 }
