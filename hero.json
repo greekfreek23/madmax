@@ -1,1 +1,96 @@
-
+{
+  "siteConfigs": {
+    "sellers-services-llc": {
+      "business name": "Sellers Services LLC",
+      "hero_images": [
+        {
+          "small": "https://lh5.googleusercontent.com/p/AF1QipPGzRztncS0kCj3xcEiStAKdSg3rI-JNIGwUEMG=w203-h270-k-no",
+          "large": "https://lh5.googleusercontent.com/p/AF1QipPGzRztncS0kCj3xcEiStAKdSg3rI-JNIGwUEMG=w2048-h2048-k-no",
+          "original": "https://lh5.googleusercontent.com/p/AF1QipPGzRztncS0kCj3xcEiStAKdSg3rI-JNIGwUEMG=w2048-h2048-k-no",
+          "cta_text": "Call Sellers Services LLC now for water heater solutions!"
+        },
+        {
+          "small": "https://lh5.googleusercontent.com/p/AF1QipPrh1vznZMMZVK_f7vjtLQ-M9bJp-KXO8ANiL-s=w203-h270-k-no",
+          "large": "https://lh5.googleusercontent.com/p/AF1QipPrh1vznZMMZVK_f7vjtLQ-M9bJp-KXO8ANiL-s=w2048-h2048-k-no",
+          "original": "https://lh5.googleusercontent.com/p/AF1QipPrh1vznZMMZVK_f7vjtLQ-M9bJp-KXO8ANiL-s=w2048-h2048-k-no",
+          "cta_text": "Trust Sellers Services LLC for expert plumbing installations!"
+        },
+        {
+          "small": "https://lh5.googleusercontent.com/p/AF1QipON-fCmpI1XfF9K_kto78tjLIDEYB11suoufUXX=w203-h270-k-no",
+          "large": "https://lh5.googleusercontent.com/p/AF1QipON-fCmpI1XfF9K_kto78tjLIDEYB11suoufUXX=w2048-h2048-k-no",
+          "original": "https://lh5.googleusercontent.com/p/AF1QipON-fCmpI1XfF9K_kto78tjLIDEYB11suoufUXX=w2048-h2048-k-no",
+          "cta_text": "Need reliable plumbing? Contact Sellers Services LLC today!"
+        }
+      ]
+    },
+    "angel-plumbing-company": {
+      "business name": "Angel Plumbing Company",
+      "hero_images": [
+        {
+          "small": "https://lh5.googleusercontent.com/p/AF1QipM4C83weSY1GDQ7P5OlOlID4hoAQHu_bDjBFLqi=w203-h270-k-no",
+          "large": "https://lh5.googleusercontent.com/p/AF1QipM4C83weSY1GDQ7P5OlOlID4hoAQHu_bDjBFLqi=w2048-h2048-k-no",
+          "original": "https://lh5.googleusercontent.com/p/AF1QipM4C83weSY1GDQ7P5OlOlID4hoAQHu_bDjBFLqi=w2048-h2048-k-no",
+          "cta_text": "Call Angel Plumbing Company now for water heater solutions!"
+        },
+        {
+          "small": "https://lh5.googleusercontent.com/p/AF1QipONjL27he2HlvjkhGKZQoSA1hCgQe1zy6pFJNsP=w203-h270-k-no",
+          "large": "https://lh5.googleusercontent.com/p/AF1QipONjL27he2HlvjkhGKZQoSA1hCgQe1zy6pFJNsP=w2048-h2048-k-no",
+          "original": "https://lh5.googleusercontent.com/p/AF1QipONjL27he2HlvjkhGKZQoSA1hCgQe1zy6pFJNsP=w2048-h2048-k-no",
+          "cta_text": "Trust Angel Plumbing Company for expert plumbing installations!"
+        },
+        {
+          "small": "https://lh5.googleusercontent.com/p/AF1QipNDFgs6VQPOML1ph-FsdNiultdfjAVDW1hdmWeG=w203-h270-k-no",
+          "large": "https://lh5.googleusercontent.com/p/AF1QipNDFgs6VQPOML1ph-FsdNiultdfjAVDW1hdmWeG=w2048-h2048-k-no",
+          "original": "https://lh5.googleusercontent.com/p/AF1QipNDFgs6VQPOML1ph-FsdNiultdfjAVDW1hdmWeG=w2048-h2048-k-no",
+          "cta_text": "Need reliable plumbing? Contact Angel Plumbing Company today!"
+        }
+      ]
+    },
+    "mpe-services": {
+      "business name": "MPE Services",
+      "hero_images": [
+        {
+          "small": "https://lh5.googleusercontent.com/p/AF1QipNWZQ7r8GeaopS07lbvoB8qZbX7sWtywe67Lr0Q=w203-h270-k-no",
+          "large": "https://lh5.googleusercontent.com/p/AF1QipNWZQ7r8GeaopS07lbvoB8qZbX7sWtywe67Lr0Q=w2048-h2048-k-no",
+          "original": "https://lh5.googleusercontent.com/p/AF1QipNWZQ7r8GeaopS07lbvoB8qZbX7sWtywe67Lr0Q=w2048-h2048-k-no",
+          "cta_text": "Call MPE Services now for efficient plumbing solutions!"
+        },
+        {
+          "small": "https://lh5.googleusercontent.com/p/AF1QipN2GhUQgMhB2gUqdtYxLqJVwanLqVrY4oh44h4_=w203-h270-k-no",
+          "large": "https://lh5.googleusercontent.com/p/AF1QipN2GhUQgMhB2gUqdtYxLqJVwanLqVrY4oh44h4_=w2048-h2048-k-no",
+          "original": "https://lh5.googleusercontent.com/p/AF1QipN2GhUQgMhB2gUqdtYxLqJVwanLqVrY4oh44h4_=w2048-h2048-k-no",
+          "cta_text": "Trust MPE Services for expert plumbing installations!"
+        },
+        {
+          "small": "https://lh5.googleusercontent.com/p/AF1QipPlXe4VP8mGc_bkttRZ9nasi2nU746Q51Lq6XaT=w203-h270-k-no",
+          "large": "https://lh5.googleusercontent.com/p/AF1QipPlXe4VP8mGc_bkttRZ9nasi2nU746Q51Lq6XaT=w2048-h2048-k-no",
+          "original": "https://lh5.googleusercontent.com/p/AF1QipPlXe4VP8mGc_bkttRZ9nasi2nU746Q51Lq6XaT=w2048-h2048-k-no",
+          "cta_text": "Need reliable plumbing? Contact MPE Services today!"
+        }
+      ]
+    },
+    "huntsville-plumbing-inc": {
+      "business name": "Huntsville Plumbing Inc",
+      "hero_images": [
+        {
+          "small": "https://lh5.googleusercontent.com/p/AF1QipMvVxaQIF6zo95-u7d9Aiz5IK8BmFXGO584dQB2=w203-h270-k-no",
+          "large": "https://lh5.googleusercontent.com/p/AF1QipMvVxaQIF6zo95-u7d9Aiz5IK8BmFXGO584dQB2=w2048-h2048-k-no",
+          "original": "https://lh5.googleusercontent.com/p/AF1QipMvVxaQIF6zo95-u7d9Aiz5IK8BmFXGO584dQB2=w2048-h2048-k-no",
+          "cta_text": "Call Huntsville Plumbing Inc now for water heater solutions!"
+        },
+        {
+          "small": "https://lh5.googleusercontent.com/p/AF1QipPIDx2LiDkCj1krskxdjRNpLlszaMuT4rVeBToE=w203-h270-k-no",
+          "large": "https://lh5.googleusercontent.com/p/AF1QipPIDx2LiDkCj1krskxdjRNpLlszaMuT4rVeBToE=w2048-h2048-k-no",
+          "original": "https://lh5.googleusercontent.com/p/AF1QipPIDx2LiDkCj1krskxdjRNpLlszaMuT4rVeBToE=w2048-h2048-k-no",
+          "cta_text": "Trust Huntsville Plumbing Inc for expert plumbing installations!"
+        },
+        {
+          "small": "https://lh5.googleusercontent.com/p/AF1QipMlTMEB-lNN4Qb7GbwbltuzWdLB6MK3QJmyt58h=w203-h270-k-no",
+          "large": "https://lh5.googleusercontent.com/p/AF1QipMlTMEB-lNN4Qb7GbwbltuzWdLB6MK3QJmyt58h=w2048-h2048-k-no",
+          "original": "https://lh5.googleusercontent.com/p/AF1QipMlTMEB-lNN4Qb7GbwbltuzWdLB6MK3QJmyt58h=w2048-h2048-k-no",
+          "cta_text": "Need reliable plumbing? Contact Huntsville Plumbing Inc today!"
+        }
+      ]
+    }
+  }
+}
