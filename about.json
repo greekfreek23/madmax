@@ -1,1 +1,64 @@
-
+{
+  "siteConfigs": {
+    "sellers-services-llc": {
+      "business name": "Sellers Services LLC",
+      "about_us_images": [
+        {
+          "small": "https://lh5.googleusercontent.com/p/AF1QipO_xL8drgrOxMHQFKwpSnxhwqEI4plr3Kjm13co=w203-h270-k-no",
+          "large": "https://lh5.googleusercontent.com/p/AF1QipO_xL8drgrOxMHQFKwpSnxhwqEI4plr3Kjm13co=w2048-h2048-k-no",
+          "original": "https://lh5.googleusercontent.com/p/AF1QipO_xL8drgrOxMHQFKwpSnxhwqEI4plr3Kjm13co=w2048-h2048-k-no"
+        },
+        {
+          "small": "https://lh5.googleusercontent.com/p/AF1QipPvijNkDmHI0YbozrpQZaUy77nk6J0QtQ-Tat25=w203-h270-k-no",
+          "large": "https://lh5.googleusercontent.com/p/AF1QipPvijNkDmHI0YbozrpQZaUy77nk6J0QtQ-Tat25=w2048-h2048-k-no",
+          "original": "https://lh5.googleusercontent.com/p/AF1QipPvijNkDmHI0YbozrpQZaUy77nk6J0QtQ-Tat25=w2048-h2048-k-no"
+        }
+      ]
+    },
+    "angel-plumbing-company": {
+      "business name": "Angel Plumbing Company",
+      "about_us_images": [
+        {
+          "small": "https://lh5.googleusercontent.com/p/AF1QipOPp6-YYxzvUBQluVwCIlvfBILdeRXE0drrdthX=w203-h270-k-no",
+          "large": "https://lh5.googleusercontent.com/p/AF1QipOPp6-YYxzvUBQluVwCIlvfBILdeRXE0drrdthX=w2048-h2048-k-no",
+          "original": "https://lh5.googleusercontent.com/p/AF1QipOPp6-YYxzvUBQluVwCIlvfBILdeRXE0drrdthX=w2048-h2048-k-no"
+        },
+        {
+          "small": "https://lh5.googleusercontent.com/p/AF1QipOX92pgSSn0f-K1FHTVKkOS7c4Lrxnzmmx3A8AF=w203-h270-k-no",
+          "large": "https://lh5.googleusercontent.com/p/AF1QipOX92pgSSn0f-K1FHTVKkOS7c4Lrxnzmmx3A8AF=w2048-h2048-k-no",
+          "original": "https://lh5.googleusercontent.com/p/AF1QipOX92pgSSn0f-K1FHTVKkOS7c4Lrxnzmmx3A8AF=w2048-h2048-k-no"
+        }
+      ]
+    },
+    "mpe-services": {
+      "business name": "MPE Services",
+      "about_us_images": [
+        {
+          "small": "https://lh5.googleusercontent.com/p/AF1QipO8FHnESLOu6OHr75RBVgaPM1pYJ3XInofwe_jx=w203-h270-k-no",
+          "large": "https://lh5.googleusercontent.com/p/AF1QipO8FHnESLOu6OHr75RBVgaPM1pYJ3XInofwe_jx=w2048-h2048-k-no",
+          "original": "https://lh5.googleusercontent.com/p/AF1QipO8FHnESLOu6OHr75RBVgaPM1pYJ3XInofwe_jx=w2048-h2048-k-no"
+        },
+        {
+          "small": "https://lh5.googleusercontent.com/p/AF1QipO5TNZ5Mhvr3g_ruXfPUJ06zYm7_q4snY8cDzLv=w203-h270-k-no",
+          "large": "https://lh5.googleusercontent.com/p/AF1QipO5TNZ5Mhvr3g_ruXfPUJ06zYm7_q4snY8cDzLv=w2048-h2048-k-no",
+          "original": "https://lh5.googleusercontent.com/p/AF1QipO5TNZ5Mhvr3g_ruXfPUJ06zYm7_q4snY8cDzLv=w2048-h2048-k-no"
+        }
+      ]
+    },
+    "huntsville-plumbing-inc": {
+      "business name": "Huntsville Plumbing Inc",
+      "about_us_images": [
+        {
+          "small": "https://lh5.googleusercontent.com/p/AF1QipPrxRaIRWiNXFFbT8gZp5zq2SUTcvCTPQvaPI0r=w203-h270-k-no",
+          "large": "https://lh5.googleusercontent.com/p/AF1QipPrxRaIRWiNXFFbT8gZp5zq2SUTcvCTPQvaPI0r=w2048-h2048-k-no",
+          "original": "https://lh5.googleusercontent.com/p/AF1QipPrxRaIRWiNXFFbT8gZp5zq2SUTcvCTPQvaPI0r=w2048-h2048-k-no"
+        },
+        {
+          "small": "https://lh5.googleusercontent.com/p/AF1QipPlYyLDGe4bsiR1fykj7zleObJYsVXY4-nlToJS=w203-h270-k-no",
+          "large": "https://lh5.googleusercontent.com/p/AF1QipPlYyLDGe4bsiR1fykj7zleObJYsVXY4-nlToJS=w2048-h2048-k-no",
+          "original": "https://lh5.googleusercontent.com/p/AF1QipPlYyLDGe4bsiR1fykj7zleObJYsVXY4-nlToJS=w2048-h2048-k-no"
+        }
+      ]
+    }
+  }
+}
