@@ -1,0 +1,118 @@
+name: "Process Data (Manual)"
+
+on:
+  workflow_dispatch:  # Manual trigger from GitHub UI
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1) Check out your repo code
+      - name: Check out
+        uses: actions/checkout@v3
+
+      # 2) Set up Node
+      - name: Set up Node
+        uses: actions/setup-node@v2
+        with:
+          node-version: 16
+
+      # 3) Create a minimal package.json
+      #    (Only needed if your repo doesn't have one)
+      - name: Create package.json
+        run: |
+          echo '{ "name": "manual-flow", "version": "1.0.0", "dependencies": { "node-fetch": "^3.2.0" } }' > package.json
+
+      # 4) Install dependencies
+      - name: Install deps
+        run: npm install
+
+      # 5) Create Node script with your tokens inline (INSECURE - For demo only!)
+      - name: Create Node script
+        run: |
+          cat << 'EOF' > script.js
+          // script.js: Minimal Node logic to do a sample push to your repo
+
+          const fetch = require('node-fetch');
+
+          // Put your tokens inline here (NOT recommended for real usage)
+          const API_TOKEN    = "apify_api_HZceYJ4kjPoaIyeQb98O8TEYfVqX1w1dOvaq"; // Apify
+          const GITHUB_OWNER = "greekfreek23";
+          const GITHUB_REPO  = "madmax";
+          const GITHUB_PAT   = "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"; // GitHub
+          const OPENAI_API_KEY = "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";
+
+          async function main() {
+            console.log("Starting manual flow with real tokens...");
+
+            // Example: pushing a trivial JSON file to your 'madmax' repo
+            const timestamp = new Date().toISOString();
+            const sampleObj = {
+              note: "Triggered manually",
+              time: timestamp,
+              apifyToken: API_TOKEN.substring(0, 10) + "...(redacted)",
+              openAiKey:  OPENAI_API_KEY.substring(0, 10) + "...(redacted)"
+            };
+
+            const filePath = "manualData.json";
+            const commitMsg = "Manual commit at " + timestamp;
+            await pushFileToGitHub(JSON.stringify(sampleObj, null, 2), filePath, commitMsg);
+
+            console.log("Done pushing file to GitHub. You can add real logic with Apify/GPT here if desired!");
+          }
+
+          async function pushFileToGitHub(contentStr, filePath, commitMsg) {
+            const url = 'https://api.github.com/repos/' + GITHUB_OWNER + '/' + GITHUB_REPO + '/contents/' + filePath;
+
+            // Check if file exists
+            let sha = null;
+            {
+              const resp = await fetch(url, {
+                method: "GET",
+                headers: {
+                  Authorization: 'token ' + GITHUB_PAT,
+                  Accept: "application/vnd.github.v3+json"
+                }
+              });
+              if (resp.status === 200) {
+                const j = await resp.json();
+                sha = j.sha || null;
+              }
+            }
+
+            // Prepare payload
+            const payload = {
+              message: commitMsg,
+              content: Buffer.from(contentStr, 'utf-8').toString('base64')
+            };
+            if (sha) {
+              payload.sha = sha;
+            }
+
+            // Do the PUT
+            const putResp = await fetch(url, {
+              method: "PUT",
+              headers: {
+                Authorization: 'token ' + GITHUB_PAT,
+                Accept: "application/vnd.github.v3+json"
+              },
+              body: JSON.stringify(payload)
+            });
+
+            if (![200, 201].includes(putResp.status)) {
+              throw new Error("Failed pushing to GitHub. Status: " + putResp.status + " => " + (await putResp.text()));
+            }
+            console.log("Pushed to GitHub at path:", filePath);
+          }
+
+          // RUN
+          main().catch(err => {
+            console.error("Error in main:", err);
+            process.exit(1);
+          });
+          EOF
+
+      # 6) Run the Node script
+      - name: Run script
+        run: node script.js
