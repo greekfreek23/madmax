@@ -17,7 +17,25 @@
       "phone": "+1 256-434-0095",
       "primaryColor": "#1c93c4",
       "secondaryColor": "#908f8f"
+    },
+    "jason-s-drain-service": {
+      "business name": "Jason's Drain Service",
+      "logo": "https://lh3.googleusercontent.com/-lX3PUhYHCbc/AAAAAAAAAAI/AAAAAAAAAAA/O0cO542tW58/photo.jpg",
+      "place_id": "ChIJXRkQEk8IhogR_lyzlUctFH4",
+      "address": "",
+      "phone": "+1 205-764-8182",
+      "primaryColor": "#c83040",
+      "secondaryColor": "#92745a"
+    },
+    "salser-plumbing-and-septic-service-llc": {
+      "business name": "Salser Plumbing and Septic Service, LLC",
+      "logo": "https://lh5.googleusercontent.com/-xPmd_-MZ6d4/AAAAAAAAAAI/AAAAAAAAAAA/SCMYUc3djVE/photo.jpg",
+      "place_id": "ChIJwYPAOodCiYgRDaWtJdGuPIs",
+      "address": "",
+      "phone": "+1 205-965-0444",
+      "primaryColor": "#8b4047",
+      "secondaryColor": "#988e68"
     }
   },
-  "sha": "44dee4f53afd3ae3bea6770074e499a5aa905cc4"
+  "sha": "544df195c527e15268c08d86eb52512ee2ff10f2"
 }
