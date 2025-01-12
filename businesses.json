@@ -111,6 +111,20 @@
       },
       "primaryColor": "#0dbcae",
       "secondaryColor": "#5eb2af"
+    },
+    "boydstun-plumbing-llc": {
+      "business_info": {
+        "name": "Boydstun Plumbing LLC",
+        "phone": "+1 256-400-9606",
+        "street": "",
+        "city": "",
+        "postal_code": "",
+        "state": "",
+        "logo": "https://lh6.googleusercontent.com/-WIsufaUP28I/AAAAAAAAAAI/AAAAAAAAAAA/6uc3O2gRWeQ/photo.jpg",
+        "place_id": "ChIJU2euNoRnYogRFJlGAQtnCqo"
+      },
+      "primaryColor": "#ac242c",
+      "secondaryColor": "#7e1a20"
     }
   }
 }
