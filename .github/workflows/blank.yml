@@ -1,0 +1,27 @@
+name: My Workflow
+
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    # Pin to 22.04 to avoid the new changes
+    runs-on: ubuntu-22.04  
+
+    steps:
+      - name: Check out
+        uses: actions/checkout@v3
+
+      - name: Set up Node
+        uses: actions/setup-node@v2
+        with:
+          node-version: 16
+
+      - name: Install awscli or other dependencies
+        run: sudo apt-get update && sudo apt-get install -y awscli
+
+      - name: Your build/script step
+        run: |
+          echo "Running on ubuntu-22.04"
+          # ...
