@@ -7,7 +7,79 @@
       "address": "",
       "phone": "+1 205-569-1495",
       "primaryColor": "#4474e4",
-      "secondaryColor": "#133585"
+      "secondaryColor": "#133585",
+      "reviews": [
+        {
+          "reviewer_name": "J Williams",
+          "review_text": "Hands down the absolute best experience I?ve ever had with a plumber. Larry and his team have helped us many times over the past few years. He?s been there for repairs and to help us with plumbing updates. Most recently he did the plumbing for our home bar. He was fast, professional and knowledgeable about what needed to be done and how to do it with minimal damage to the drywall. We couldn?t be happier. I?m always telling my friends and family about him and I encourage anyone reading this review to call him for all of your plumbing needs. 10 out of 10!",
+          "rating": 5,
+          "date": "2023-06-08T18:51:57.541Z",
+          "owner_response": ""
+        },
+        {
+          "reviewer_name": "Austin Humber",
+          "review_text": "Larry is great reasonably priced always on time",
+          "rating": 5,
+          "date": "2023-05-01T11:39:07.854Z",
+          "owner_response": ""
+        },
+        {
+          "reviewer_name": "Hal Phillips",
+          "review_text": "Larry did a great job for us. He came the same day we called. I fully expected to need a complete new water heater but he was able to find parts to put it back in operation by the next day. We will gladly call Bear the next time we need plumbing work done. Highly recommend Larry and Bear Plumbing!",
+          "rating": 5,
+          "date": "2023-01-30T13:53:42.983Z",
+          "owner_response": ""
+        },
+        {
+          "reviewer_name": "A A",
+          "review_text": "Larry came through on the plumbing for our remodel. Did a very good job at a reasonable rate. Thanks Larry!",
+          "rating": 5,
+          "date": "2021-05-19T21:47:09.400Z",
+          "owner_response": ""
+        },
+        {
+          "reviewer_name": "Kristen Bailey",
+          "review_text": "",
+          "rating": 5,
+          "date": "2021-01-20T13:54:48.901Z",
+          "owner_response": ""
+        },
+        {
+          "reviewer_name": "Paul Taylor",
+          "review_text": "Larry Overton of Bear Plumbing responded to my request very quickly. He was able to perform the plumbing work at my home within  a short time after arrival.  The costs of the repairs were extremely reasonable. Larry and his co-worker were very respectful, courteous, and knowledgeable. Larry communicated with me prior to arrival to confirm the appointment date & time.  I have scheduled for Larry to perform additional plumbing work at my home because of the great service provided by Bear Plumbing.",
+          "rating": 5,
+          "date": "2020-08-26T03:33:16.544Z",
+          "owner_response": ""
+        },
+        {
+          "reviewer_name": "Tom Milton",
+          "review_text": "Larry did a great job in a timely manner and at a reasonable price!",
+          "rating": 5,
+          "date": "2020-08-26T03:02:34.947Z",
+          "owner_response": ""
+        },
+        {
+          "reviewer_name": "Kevin Arrowood",
+          "review_text": "Larry did several jobs for me and I couldn't be more pleased! He was very professional and showed up when he said he would. The pricing was great also.",
+          "rating": 5,
+          "date": "2019-10-25T13:51:40.943Z",
+          "owner_response": ""
+        },
+        {
+          "reviewer_name": "Jeff Deneen",
+          "review_text": "Why do water heaters fail on the weekends?  Larry answered promptly, came on time and did a great job.",
+          "rating": 5,
+          "date": "2019-04-06T22:20:51.071Z",
+          "owner_response": ""
+        },
+        {
+          "reviewer_name": "Reba Overton",
+          "review_text": "Was on time courteous neat.Job well done.",
+          "rating": 5,
+          "date": "2019-01-11T21:34:27.540Z",
+          "owner_response": ""
+        }
+      ]
     },
     "baine-services": {
       "business name": "Baine Services",
@@ -16,7 +88,16 @@
       "address": "",
       "phone": "+1 256-434-0095",
       "primaryColor": "#1c93c4",
-      "secondaryColor": "#908f8f"
+      "secondaryColor": "#908f8f",
+      "reviews": [
+        {
+          "reviewer_name": "Theresa McIlwain",
+          "review_text": "I have called them for two separate issues, and left messages.  No one has ever returned my calls.  Very disappointing.",
+          "rating": 1,
+          "date": "2023-10-18T13:53:20.352Z",
+          "owner_response": ""
+        }
+      ]
     },
     "jason-s-drain-service": {
       "business name": "Jason's Drain Service",
@@ -25,7 +106,177 @@
       "address": "",
       "phone": "+1 205-764-8182",
       "primaryColor": "#c83040",
-      "secondaryColor": "#92745a"
+      "secondaryColor": "#92745a",
+      "reviews": [
+        {
+          "reviewer_name": "Joseph Gutenson",
+          "review_text": "Jason and his crew replaced our water heater a few weeks ago. The unit is performing perfectly since it was installed. They came the same day I called and did the work for a very reasonable price.",
+          "rating": 5,
+          "date": "2024-09-08T20:34:11.319Z",
+          "owner_response": ""
+        },
+        {
+          "reviewer_name": "Tammy Aldridge",
+          "review_text": "I was looking for a good honest plumber and Jason had some really good reviews so we gave him a try and he lived up to those reviews.  He worked us in quickly, communicated when he was running a little behind.  Jason and his crew were very friendly and professional, got the job done and the price was reasonable!",
+          "rating": 5,
+          "date": "2024-06-20T21:31:13.779Z",
+          "owner_response": ""
+        },
+        {
+          "reviewer_name": "Michele Murdock",
+          "review_text": "Jason's Drain Service did some work on our older home that included replacing a drain pipe under the house and installing a new pressure control valve. Jason Hunter and his team were friendly, professional and did a great job. If you are looking for a true professional with over 30 years experience who will show up when he promises and get your job done efficiently, give Jason a call. I will definitely call him again when needed.",
+          "rating": 5,
+          "date": "2024-04-29T16:59:08.780Z",
+          "owner_response": ""
+        },
+        {
+          "reviewer_name": "Penny Dobson",
+          "review_text": "I called Jason Drain service due to a slowly draining kitchen sink. Sadly, it is a major problem that we won't get fixed until we absolutely have no choice but to do so, in the future. This is at a house that we just bought in another neighborhood. Anyway, Jason and his partner were just the best!!!   Unrelated to drains, my husband was trying to pick at a mound of concrete that the former owners poured onto the driveway. They got out their jack hammer like tool and helped him out before they left.",
+          "rating": 5,
+          "date": "2024-02-14T18:02:21.839Z",
+          "owner_response": ""
+        },
+        {
+          "reviewer_name": "Barry Durand",
+          "review_text": "I recently used Jason?s Drain Service for 2 jobs.   Don?t let the name fool you, they do much more than drains. They replaced a hot water heater (job 1) and replaced the cartridges in both of my bathtub faucets (job 2).  Both faucets are working perfectly now and we have plenty of hot water. Their pricing is reasonable.\n\nHowever, the best thing about them is their willingness to work with your schedule and punctuality. For both jobs, I asked them to come on a specific date. They can on the date requested and were here shortly after 8:00.  This is a drastic change from my previous plumber who was totally unreliable.\n\nJason also did not mind me standing over his shoulder and asking questions. He even stayed a couple of extra minutes to make sure that one faucet stopped dripping.\n\nHis prices are reasonable.  He is *extremely* fair with his pricing.\n\nHe is also very helpful with general information without charging for just a 5 minute conversation.\n\nEDIT: I just used him for a third job.  He again was very punctual which was amazing given we are in the middle of a very hard freeze.  His price for today's job was more than fair.\n\nI highly recommend Jason?s Drain Service.",
+          "rating": 5,
+          "date": "2024-01-18T00:18:21.650Z",
+          "owner_response": ""
+        },
+        {
+          "reviewer_name": "Mary Martina",
+          "review_text": "",
+          "rating": 5,
+          "date": "2024-01-15T19:33:04.921Z",
+          "owner_response": ""
+        },
+        {
+          "reviewer_name": "Smilez",
+          "review_text": "Did great and quick work on a leak I had outside going under the sidewalk. Thanks!",
+          "rating": 5,
+          "date": "2023-09-06T14:56:31.811Z",
+          "owner_response": ""
+        },
+        {
+          "reviewer_name": "Brandi Lovely",
+          "review_text": "Honest, quick, and great pricing!",
+          "rating": 5,
+          "date": "2023-04-14T21:10:14.374Z",
+          "owner_response": ""
+        },
+        {
+          "reviewer_name": "Richard Rhone",
+          "review_text": "Excellent and trustworthy service. Highly recommend.",
+          "rating": 5,
+          "date": "2023-01-11T19:16:51.113Z",
+          "owner_response": ""
+        },
+        {
+          "reviewer_name": "Megan W",
+          "review_text": "This is the plumber I've been looking for all these years. For real, Jason's drain was the 6th plumber I tried. Some of the others were bad, some were alright, but Jason was the only one that was great. It is such a relief to finally find a plumber I can trust and rely on. Thank you Jason!",
+          "rating": 5,
+          "date": "2022-07-23T13:42:34.435Z",
+          "owner_response": ""
+        },
+        {
+          "reviewer_name": "sbgreen68",
+          "review_text": "He had great communication skills and got to my job in a very prompt manner. Perfect work and very reasonable price. Would not hesitate to use him again. 7 out of 5 stars.",
+          "rating": 5,
+          "date": "2022-06-10T14:16:45.412Z",
+          "owner_response": ""
+        },
+        {
+          "reviewer_name": "Linda Canterberry",
+          "review_text": "These guys are great. Very professional, reasonable price, on time, quick and clean. If needed will definitely use again!",
+          "rating": 5,
+          "date": "2021-09-27T17:54:51.152Z",
+          "owner_response": ""
+        },
+        {
+          "reviewer_name": "Tuwanda Dunn",
+          "review_text": "I was very happy that I called  Jason drain service. A very  professional  service. I am well pleased with the service that was given. Jason is a very nice kind person and I recommend this business. Thanks Jason.",
+          "rating": 5,
+          "date": "2021-01-08T16:34:41.168Z",
+          "owner_response": ""
+        },
+        {
+          "reviewer_name": "Dr Adrian Rowe",
+          "review_text": "",
+          "rating": 5,
+          "date": "2020-09-25T14:33:22.820Z",
+          "owner_response": ""
+        },
+        {
+          "reviewer_name": "Beverly Callahan",
+          "review_text": "Very professional plumbing company.  Very honest and came on time, did a great job, cleaned up afterwards.  I recommend highly.",
+          "rating": 5,
+          "date": "2020-06-01T15:13:32.361Z",
+          "owner_response": ""
+        },
+        {
+          "reviewer_name": "Gwendolyn Bell",
+          "review_text": "I really enjoyed the food and the people's",
+          "rating": 4,
+          "date": "2019-08-16T13:30:09.117Z",
+          "owner_response": ""
+        },
+        {
+          "reviewer_name": "Brett Milligan",
+          "review_text": "Honest and straightforward. Excellent service and stands by his work.",
+          "rating": 5,
+          "date": "2019-01-22T23:51:29.230Z",
+          "owner_response": ""
+        },
+        {
+          "reviewer_name": "roll tide",
+          "review_text": "Awesome people!! Hands down will call them for all my plumbing needs! Jason is trust worthy and gets the job done.  The young fellow with him is very respectful and helpful! This is who yall need to go with!! Good job!!",
+          "rating": 5,
+          "date": "2019-01-11T15:30:32.312Z",
+          "owner_response": ""
+        },
+        {
+          "reviewer_name": "Jerry Cook",
+          "review_text": "The guys came out short notice, stayed until they got it right, & the price was very reasonable. Highly recommend!",
+          "rating": 5,
+          "date": "2018-11-21T18:02:58.536Z",
+          "owner_response": ""
+        },
+        {
+          "reviewer_name": "Furious Kloud (OG Kloudy)",
+          "review_text": "Very straightforward and trustworthy... You can leave them in the house and go. Would recommend to faily and friends. A+",
+          "rating": 5,
+          "date": "2018-10-10T17:15:02.114Z",
+          "owner_response": ""
+        },
+        {
+          "reviewer_name": "Ryan Massengale",
+          "review_text": "Great local guy that is honest and reliable.  Will definitely call again for my water issue needs!",
+          "rating": 5,
+          "date": "2018-01-21T03:07:09.808Z",
+          "owner_response": ""
+        },
+        {
+          "reviewer_name": "Rachael Stapp",
+          "review_text": "Quality work, great pricing, and friendly service!",
+          "rating": 5,
+          "date": "2017-12-29T21:26:10.153Z",
+          "owner_response": ""
+        },
+        {
+          "reviewer_name": "Holli Mack",
+          "review_text": "We have used Jason's Drain Service multiple times over the past few years. He has done plumbing jobs for my husband and I when we needed EMERGENCY work done, AND one job that ended up being more extensive than planned - but was the BEST job yet. He has done work on the interior and exterior of our older house, AND has upgraded fixtures for us. We couldn't be happier. He is honest, efficient, hard working, and the price point was a relief for us. In a day when it's hard to find service workers who possess both skill and integrity, I HIGHLY recommend Jason, who has both!",
+          "rating": 5,
+          "date": "2017-12-29T20:54:12.434Z",
+          "owner_response": ""
+        },
+        {
+          "reviewer_name": "Timberlake Ministries",
+          "review_text": "",
+          "rating": 5,
+          "date": "2017-12-29T20:52:34.388Z",
+          "owner_response": ""
+        }
+      ]
     },
     "salser-plumbing-and-septic-service-llc": {
       "business name": "Salser Plumbing and Septic Service, LLC",
@@ -34,8 +285,66 @@
       "address": "",
       "phone": "+1 205-965-0444",
       "primaryColor": "#8b4047",
-      "secondaryColor": "#988e68"
+      "secondaryColor": "#988e68",
+      "reviews": [
+        {
+          "reviewer_name": "Zach DeVore",
+          "review_text": "Great company, very responsive came out to fix the issue same day. Quality work at a good price would definitely recommend.",
+          "rating": 5,
+          "date": "2023-12-08T20:41:08.665Z",
+          "owner_response": ""
+        },
+        {
+          "reviewer_name": "Kevin Gardner",
+          "review_text": "Never returned my call.",
+          "rating": 1,
+          "date": "2021-02-08T17:59:20.458Z",
+          "owner_response": ""
+        },
+        {
+          "reviewer_name": "Melanie Goss",
+          "review_text": "Brandon responded to my text quickly on Sunday stating he could be at my house by 9:30 Monday morning. He actually showed up early texting me when he was on his way. My sump pump was not working, he identified the problem quickly. My float had gone bad, he replaced the float with one he had at his shop so there was no ordering parts. Works perfectly now, he even took the time to fix one of my toliets. He was very professional and just a really nice guy. The price was better than I expected especially with the time and effort it took. Will definitely be using his services in the future.",
+          "rating": 5,
+          "date": "2020-12-01T15:54:32.457Z",
+          "owner_response": ""
+        },
+        {
+          "reviewer_name": "T Martin",
+          "review_text": "Highly recommend! Quality work done efficiently with a great sense of humor!",
+          "rating": 5,
+          "date": "2020-08-01T15:23:29.900Z",
+          "owner_response": ""
+        },
+        {
+          "reviewer_name": "Russell Dulaney",
+          "review_text": "My father needed help with his line backing up. Salser plumbing was on time and returned\nMy calls. He pumped the tank and repaired issues at both ends. Very good price and service. I recommend Salser plumbing if your in need of such services.",
+          "rating": 5,
+          "date": "2019-08-19T18:46:34.684Z",
+          "owner_response": "Thank you! We appreciate your business!"
+        },
+        {
+          "reviewer_name": "Amanda Wilkins",
+          "review_text": "Very good at what they do, will recommend them to everyone.",
+          "rating": 5,
+          "date": "2019-06-06T22:31:13.430Z",
+          "owner_response": "Thank you! We appreciate your business and the recommendation. Let us know if we can be of service in the future."
+        },
+        {
+          "reviewer_name": "Andrea Dailey",
+          "review_text": "Courteous and knowledgeable people. They did a great job installing filtration system on my house!!!",
+          "rating": 5,
+          "date": "2018-11-22T21:07:53.082Z",
+          "owner_response": "Thank you for the review! It was a pleasure working with you. Let us know if you need any services in the future."
+        },
+        {
+          "reviewer_name": "mark andrews",
+          "review_text": "Update:\nThere are these guys, Clay and Rich, who don?t know what they are doing in all but the simplest of repairs, and Salser recommended them to me when I had called them about a stopped up drain under our house overflowing onto the ground.  They overcharge, knowing they can, because most of their work is in Birmingham. They say they are with Salser Plumbing, but they ask for checks to be made out to their own names. I just spoke directly with Salser and he did admit recommending Clay to me and giving me his number. Yet Salser denies any responsibility for Clay?s work or his associates. I can not verify the quality of work that Salser does, they have yet to come out to service us. I would say make sure you are calling Salser. Also, I cannot emphasize the importance of educating yourself on plumbing repairs.  Watch a YouTube video and do it yourself before you let Clay or Rich handle anything but snaking out a line. Do it yourself, if possible. We found ourselves in a tragic circumstance with this last repair, Clay and his associate did not come through, yet demanded payment before we could even get home from our grandson?s funeral to check the repair, which was not done properly or according to our specific instructions. It is now leaking copiously again, as we told them it would. I hope to give Salser themselves a chance to redeem their good name. Mr Salser states he will no longer recommend Clay. I hope he doesn?t.",
+          "rating": 2,
+          "date": "2018-10-16T15:49:03.628Z",
+          "owner_response": "RESPONSE TO MARK?S UPDATE: As I said before, this review still has nothing to do with the work and performance of Salser Plumbing  as we have never performed services for you. We are sorry that you had a bad experience with Clay and Rich but that does not warrant a bad review for our business.\n\nMark, apparently you have posted this review under the wrong company. Salser Plumbing has not done any work for you, and we also do not have any employees by the names of Clay and Rich. So we would appreciate it if you would delete your review as it does not pertain to Salser Plumbing. Most of our work is in Shelby county as well as Talladega so if you ever need a good reputable plumber, please give us a call. Sorry that you had a bad experience with your plumber."
+        }
+      ]
     }
   },
-  "sha": "544df195c527e15268c08d86eb52512ee2ff10f2"
+  "sha": "0a8eabde6e35ceedc8b174653e53e8eeaed38722"
 }
