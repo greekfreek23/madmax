@@ -12,7 +12,11 @@
         "place_id": "ChIJ6QA7jzxriYgRDmObfyc9xK4"
       },
       "primaryColor": "#4474e4",
-      "secondaryColor": "#133585"
+      "secondaryColor": "#133585",
+      "colors": {
+        "primaryColor": "#4474e4",
+        "secondaryColor": "#133585"
+      }
     },
     "baine-services": {
       "business_info": {
@@ -26,7 +30,11 @@
         "place_id": "ChIJZTQBq7aNYogRcOEA6xbmy58"
       },
       "primaryColor": "#1c93c4",
-      "secondaryColor": "#908f8f"
+      "secondaryColor": "#908f8f",
+      "colors": {
+        "primaryColor": "#1c93c4",
+        "secondaryColor": "#908f8f"
+      }
     },
     "fussell-plumbing": {
       "business_info": {
@@ -124,7 +132,11 @@
         "place_id": "ChIJU2euNoRnYogRFJlGAQtnCqo"
       },
       "primaryColor": "#ac242c",
-      "secondaryColor": "#7e1a20"
+      "secondaryColor": "#7e1a20",
+      "colors": {
+        "primaryColor": "#ac242c",
+        "secondaryColor": "#7e1a20"
+      }
     },
     "joe-reid-dawes-plumbing-service": {
       "business_info": {
@@ -138,7 +150,11 @@
         "place_id": "ChIJ29szL0uxm4gRugrW7_NheWw"
       },
       "primaryColor": "#4474e4",
-      "secondaryColor": "#133585"
+      "secondaryColor": "#133585",
+      "colors": {
+        "primaryColor": "#4474e4",
+        "secondaryColor": "#133585"
+      }
     },
     "a-c-e-plumbing-solutions": {
       "business_info": {
@@ -152,7 +168,29 @@
         "place_id": "ChIJ1SnXvb0WHCQRRRzL0uKBx6s"
       },
       "primaryColor": "#757d89",
-      "secondaryColor": "#747584"
+      "secondaryColor": "#747584",
+      "colors": {
+        "primaryColor": "#757d89",
+        "secondaryColor": "#747584"
+      }
+    },
+    "quality-plumbing-co": {
+      "colors": {
+        "primaryColor": "#363d78",
+        "secondaryColor": "#6b72a1"
+      }
+    },
+    "r-c-construction-and-repairs": {
+      "colors": {
+        "primaryColor": "#4474e4",
+        "secondaryColor": "#133585"
+      }
+    },
+    "aaa-septic-tank-service-of-cullman-llc": {
+      "colors": {
+        "primaryColor": "#992d33",
+        "secondaryColor": "#9b6d74"
+      }
     }
   }
 }
