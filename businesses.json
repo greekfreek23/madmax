@@ -83,6 +83,34 @@
       },
       "primaryColor": "#4e66a3",
       "secondaryColor": "#7094b4"
+    },
+    "strickland-plumbing-maintenance": {
+      "business_info": {
+        "name": "Strickland Plumbing & Maintenance",
+        "phone": "+1 205-368-0503",
+        "street": "",
+        "city": "",
+        "postal_code": "",
+        "state": "",
+        "logo": "https://lh3.googleusercontent.com/-Hbw7gww0joQ/AAAAAAAAAAI/AAAAAAAAAAA/Jfe49m_Yo-k/photo.jpg",
+        "place_id": "ChIJTxBP5nIjiYgRbG-KkLQzTZw"
+      },
+      "primaryColor": "#90493d",
+      "secondaryColor": "#716e89"
+    },
+    "reese-plumbing-llc": {
+      "business_info": {
+        "name": "Reese Plumbing LLC",
+        "phone": "+1 334-430-6864",
+        "street": "",
+        "city": "",
+        "postal_code": "",
+        "state": "",
+        "logo": "https://lh4.googleusercontent.com/-I5cKSOJiRoU/AAAAAAAAAAI/AAAAAAAAAAA/PGxqO3lBv_Y/photo.jpg",
+        "place_id": "ChIJkUsHLO-S6k4RquPYl5V1n54"
+      },
+      "primaryColor": "#0dbcae",
+      "secondaryColor": "#5eb2af"
     }
   }
 }
