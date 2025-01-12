@@ -41,6 +41,48 @@
       },
       "primaryColor": "#4c5db2",
       "secondaryColor": "#5c6ca6"
+    },
+    "jason-s-drain-service": {
+      "business_info": {
+        "name": "Jason's Drain Service",
+        "phone": "+1 205-764-8182",
+        "street": "2010 Mountainbrook Dr",
+        "city": "Cottondale",
+        "postal_code": 35453,
+        "state": "Alabama",
+        "logo": "https://lh3.googleusercontent.com/-lX3PUhYHCbc/AAAAAAAAAAI/AAAAAAAAAAA/O0cO542tW58/photo.jpg",
+        "place_id": "ChIJXRkQEk8IhogR_lyzlUctFH4"
+      },
+      "primaryColor": "#c83040",
+      "secondaryColor": "#92745a"
+    },
+    "salser-plumbing-and-septic-service-llc": {
+      "business_info": {
+        "name": "Salser Plumbing and Septic Service, LLC",
+        "phone": "+1 205-965-0444",
+        "street": "",
+        "city": "",
+        "postal_code": "",
+        "state": "",
+        "logo": "https://lh5.googleusercontent.com/-xPmd_-MZ6d4/AAAAAAAAAAI/AAAAAAAAAAA/SCMYUc3djVE/photo.jpg",
+        "place_id": "ChIJwYPAOodCiYgRDaWtJdGuPIs"
+      },
+      "primaryColor": "#8b4047",
+      "secondaryColor": "#988e68"
+    },
+    "hydrotech-plumbing-llc": {
+      "business_info": {
+        "name": "HydroTech Plumbing LLC",
+        "phone": "+1 256-572-9349",
+        "street": "",
+        "city": "",
+        "postal_code": "",
+        "state": "",
+        "logo": "https://lh6.googleusercontent.com/-buuldVqsHuA/AAAAAAAAAAI/AAAAAAAAAAA/0MnU22efhLQ/photo.jpg",
+        "place_id": "ChIJ0dUplGv_iYgRm4hjeLCoORw"
+      },
+      "primaryColor": "#4e66a3",
+      "secondaryColor": "#7094b4"
     }
   }
 }
