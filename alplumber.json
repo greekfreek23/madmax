@@ -1,0 +1,46 @@
+{
+  "siteConfigs": {
+    "bishop-s-plumbing-services": {
+      "business name": "Bishop\u2019s Plumbing & Services",
+      "logo": "https://lh3.googleusercontent.com/-PllwRtHoVt4/AAAAAAAAAAI/AAAAAAAAAAA/nTsdCP2C4sU/s44-p-k-no-ns-nd/photo.jpg",
+      "phone": "+1 251-747-3237",
+      "street": "",
+      "city": "",
+      "postal code": "",
+      "state": "",
+      "country": "",
+      "rating": "5",
+      "reviews": "5",
+      "primaryColor": "#6cc4e0",
+      "secondaryColor": "#5c9cac"
+    },
+    "down-south-plumbing-services": {
+      "business name": "Down South Plumbing Services",
+      "logo": "https://lh5.googleusercontent.com/-XAoAjUzdFUo/AAAAAAAAAAI/AAAAAAAAAAA/wFF3bCUWDXA/s44-p-k-no-ns-nd/photo.jpg",
+      "phone": "+1 251-656-4806",
+      "street": "",
+      "city": "",
+      "postal code": "",
+      "state": "",
+      "country": "",
+      "rating": "5",
+      "reviews": "5",
+      "primaryColor": "#7f7f7f",
+      "secondaryColor": "#909090"
+    },
+    "dyer-plumbing-llc": {
+      "business name": "Dyer Plumbing LLC",
+      "logo": "https://lh6.googleusercontent.com/-zsgbN-yrliY/AAAAAAAAAAI/AAAAAAAAAAA/C7tVYHTDdDk/s44-p-k-no-ns-nd/photo.jpg",
+      "phone": "+1 251-228-1299",
+      "street": "",
+      "city": "",
+      "postal code": "",
+      "state": "",
+      "country": "",
+      "rating": "5",
+      "reviews": "2",
+      "primaryColor": "#cc443c",
+      "secondaryColor": "#b49cb4"
+    }
+  }
+}
