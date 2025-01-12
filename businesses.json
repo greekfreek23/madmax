@@ -125,6 +125,20 @@
       },
       "primaryColor": "#ac242c",
       "secondaryColor": "#7e1a20"
+    },
+    "joe-reid-dawes-plumbing-service": {
+      "business_info": {
+        "name": "Joe Reid - Dawes Plumbing Service",
+        "phone": "+1 251-401-0370",
+        "street": "9373 Labrador Run S",
+        "city": "Mobile",
+        "postal_code": 36695,
+        "state": "Alabama",
+        "logo": "https://lh5.googleusercontent.com/-TFBtodnq-Ig/AAAAAAAAAAI/AAAAAAAAAAA/yzHjh0dctXI/photo.jpg",
+        "place_id": "ChIJ29szL0uxm4gRugrW7_NheWw"
+      },
+      "primaryColor": "#4474e4",
+      "secondaryColor": "#133585"
     }
   }
 }
