@@ -191,6 +191,12 @@
         "primaryColor": "#992d33",
         "secondaryColor": "#9b6d74"
       }
+    },
+    "southern-home-solutions": {
+      "colors": {
+        "primaryColor": "#4474e4",
+        "secondaryColor": "#133585"
+      }
     }
   }
 }
