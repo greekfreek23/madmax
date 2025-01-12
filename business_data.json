@@ -1,0 +1,22 @@
+{
+  "siteConfigs": {
+    "bear-plumbing-llc": {
+      "business name": "Bear Plumbing, LLC",
+      "logo": "https://lh5.googleusercontent.com/-2hVVbygxZtA/AAAAAAAAAAI/AAAAAAAAAAA/TZcwIOxsDrg/photo.jpg",
+      "place_id": "ChIJ6QA7jzxriYgRDmObfyc9xK4",
+      "address": "",
+      "phone": "+1 205-569-1495",
+      "primaryColor": "#4474e4",
+      "secondaryColor": "#133585"
+    },
+    "baine-services": {
+      "business name": "Baine Services",
+      "logo": "https://lh5.googleusercontent.com/-yd57pjyC5Rs/AAAAAAAAAAI/AAAAAAAAAAA/kRPy4BnBALg/photo.jpg",
+      "place_id": "ChIJZTQBq7aNYogRcOEA6xbmy58",
+      "address": "",
+      "phone": "+1 256-434-0095",
+      "primaryColor": "#1c93c4",
+      "secondaryColor": "#908f8f"
+    }
+  }
+}
