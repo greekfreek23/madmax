@@ -1,0 +1,133 @@
+{
+  "cluster_index": 10,
+  "centerLat": 32.414544,
+  "centerLng": -84.8657605,
+  "businesses": [
+    {
+      "name": "Right hand man handyman service Llc",
+      "place_id": "ChIJNWGoBmLX8ogRT4hAuqzfgww",
+      "rating": "",
+      "totalSheetReviews": 0,
+      "logo": "https://lh6.googleusercontent.com/-WAN-FczA1a4/AAAAAAAAAAI/AAAAAAAAAAA/apMMPA2RRYw/s44-p-k-no-ns-nd/photo.jpg",
+      "primaryColor": null,
+      "secondaryColor": null,
+      "latitude": "32.414544",
+      "longitude": "-84.8657605",
+      "rawReviews": [
+        {
+          "error": "no_reviews",
+          "errorDescription": "Place \"Right hand man handyman service Llc\" (ID: ChIJNWGoBmLX8ogRT4hAuqzfgww) has no reviews",
+          "searchString": "Direct Detail URL: https://www.google.com/maps/search/?api=1&query=ChIJNWGoBmLX8ogRT4hAuqzfgww&query_place_id=ChIJNWGoBmLX8ogRT4hAuqzfgww",
+          "isAdvertisement": false,
+          "placeId": "ChIJNWGoBmLX8ogRT4hAuqzfgww",
+          "location": {
+            "lat": 32.414544,
+            "lng": -84.8655775
+          },
+          "address": null,
+          "categoryName": "Handyman/Handywoman/Handyperson",
+          "categories": [
+            "Handyman/Handywoman/Handyperson",
+            "Service establishment"
+          ],
+          "title": "Right hand man handyman service Llc",
+          "permanentlyClosed": false,
+          "temporarilyClosed": false,
+          "reviewsCount": 0,
+          "url": "https://www.google.com/maps/search/?api=1&query=Right%20hand%20man%20handyman%20service%20Llc&query_place_id=ChIJNWGoBmLX8ogRT4hAuqzfgww",
+          "price": null,
+          "cid": "901810283356391503",
+          "fid": "0x88f2d76206a86135:0xc83dfacba40884f",
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOZkkFTMwhhhIJku2jgdOffW3IyGoDJIH5SJL0j=w408-h544-k-no"
+        }
+      ],
+      "chatGptInsights": {
+        "error": "ChatGPT returned 401"
+      }
+    },
+    {
+      "name": "Right hand man handyman service Llc",
+      "place_id": "ChIJNWGoBmLX8ogRT4hAuqzfgww",
+      "rating": "",
+      "totalSheetReviews": 0,
+      "logo": "https://lh6.googleusercontent.com/-WAN-FczA1a4/AAAAAAAAAAI/AAAAAAAAAAA/apMMPA2RRYw/s44-p-k-no-ns-nd/photo.jpg",
+      "primaryColor": null,
+      "secondaryColor": null,
+      "latitude": "32.414544",
+      "longitude": "-84.8657605",
+      "rawReviews": [
+        {
+          "error": "no_reviews",
+          "errorDescription": "Place \"Right hand man handyman service Llc\" (ID: ChIJNWGoBmLX8ogRT4hAuqzfgww) has no reviews",
+          "searchString": "Direct Detail URL: https://www.google.com/maps/search/?api=1&query=ChIJNWGoBmLX8ogRT4hAuqzfgww&query_place_id=ChIJNWGoBmLX8ogRT4hAuqzfgww",
+          "isAdvertisement": false,
+          "placeId": "ChIJNWGoBmLX8ogRT4hAuqzfgww",
+          "location": {
+            "lat": 32.414544,
+            "lng": -84.8655775
+          },
+          "address": null,
+          "categoryName": "Handyman/Handywoman/Handyperson",
+          "categories": [
+            "Handyman/Handywoman/Handyperson",
+            "Service establishment"
+          ],
+          "title": "Right hand man handyman service Llc",
+          "permanentlyClosed": false,
+          "temporarilyClosed": false,
+          "reviewsCount": 0,
+          "url": "https://www.google.com/maps/search/?api=1&query=Right%20hand%20man%20handyman%20service%20Llc&query_place_id=ChIJNWGoBmLX8ogRT4hAuqzfgww",
+          "price": null,
+          "cid": "901810283356391503",
+          "fid": "0x88f2d76206a86135:0xc83dfacba40884f",
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOZkkFTMwhhhIJku2jgdOffW3IyGoDJIH5SJL0j=w408-h544-k-no"
+        }
+      ],
+      "chatGptInsights": {
+        "error": "ChatGPT returned 401"
+      }
+    },
+    {
+      "name": "Right hand man handyman service Llc",
+      "place_id": "ChIJNWGoBmLX8ogRT4hAuqzfgww",
+      "rating": "",
+      "totalSheetReviews": 0,
+      "logo": "https://lh6.googleusercontent.com/-WAN-FczA1a4/AAAAAAAAAAI/AAAAAAAAAAA/apMMPA2RRYw/s44-p-k-no-ns-nd/photo.jpg",
+      "primaryColor": null,
+      "secondaryColor": null,
+      "latitude": "32.414544",
+      "longitude": "-84.8657605",
+      "rawReviews": [
+        {
+          "error": "no_reviews",
+          "errorDescription": "Place \"Right hand man handyman service Llc\" (ID: ChIJNWGoBmLX8ogRT4hAuqzfgww) has no reviews",
+          "searchString": "Direct Detail URL: https://www.google.com/maps/search/?api=1&query=ChIJNWGoBmLX8ogRT4hAuqzfgww&query_place_id=ChIJNWGoBmLX8ogRT4hAuqzfgww",
+          "isAdvertisement": false,
+          "placeId": "ChIJNWGoBmLX8ogRT4hAuqzfgww",
+          "location": {
+            "lat": 32.414544,
+            "lng": -84.8655775
+          },
+          "address": null,
+          "categoryName": "Handyman/Handywoman/Handyperson",
+          "categories": [
+            "Handyman/Handywoman/Handyperson",
+            "Service establishment"
+          ],
+          "title": "Right hand man handyman service Llc",
+          "permanentlyClosed": false,
+          "temporarilyClosed": false,
+          "reviewsCount": 0,
+          "url": "https://www.google.com/maps/search/?api=1&query=Right%20hand%20man%20handyman%20service%20Llc&query_place_id=ChIJNWGoBmLX8ogRT4hAuqzfgww",
+          "price": null,
+          "cid": "901810283356391503",
+          "fid": "0x88f2d76206a86135:0xc83dfacba40884f",
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOZkkFTMwhhhIJku2jgdOffW3IyGoDJIH5SJL0j=w408-h544-k-no"
+        }
+      ],
+      "chatGptInsights": {
+        "error": "ChatGPT returned 401"
+      }
+    }
+  ]
+}
