@@ -1,106 +1,38 @@
 {
   "siteConfigs": {
-    "preston-plumbing": {
-      "business name": "Preston Plumbing",
+    "crowes-trenching-plumbing": {
+      "business name": "Crowes trenching & plumbing",
       "reviews": [
         {
-          "error": "no_reviews",
-          "errorDescription": "Place \"Preston Plumbing\" (ID: ChIJw8CCO4RglCkRQTC4UD3RDEM) has no reviews",
-          "searchString": "Direct Detail URL: https://www.google.com/maps/search/?api=1&query=ChIJw8CCO4RglCkRQTC4UD3RDEM&query_place_id=ChIJw8CCO4RglCkRQTC4UD3RDEM",
-          "isAdvertisement": false,
-          "placeId": "ChIJw8CCO4RglCkRQTC4UD3RDEM",
-          "location": {
-            "lat": 32.67853,
-            "lng": -83.1940624
-          },
-          "address": null,
-          "categoryName": "Plumber",
-          "categories": [
-            "Plumber",
-            "Service establishment"
-          ],
-          "title": "Preston Plumbing",
-          "permanentlyClosed": false,
-          "temporarilyClosed": false,
-          "reviewsCount": 0,
-          "url": "https://www.google.com/maps/search/?api=1&query=Preston%20Plumbing&query_place_id=ChIJw8CCO4RglCkRQTC4UD3RDEM",
-          "price": null,
-          "cid": "4831466561539158081",
-          "fid": "0x299460843b82c0c3:0x430cd13d50b83041"
-        }
-      ],
-      "chatGptInsights": {
-        "error": "ChatGPT returned 401"
-      }
-    },
-    "george-brothers-contracting": {
-      "business name": "George Brothers' Contracting",
-      "reviews": [
-        {
-          "error": "no_reviews",
-          "errorDescription": "Place \"George Brothers' Contracting\" (ID: ChIJqVsZfr8084gRzQzlp63cz3M) has no reviews",
-          "searchString": "Direct Detail URL: https://www.google.com/maps/search/?api=1&query=ChIJqVsZfr8084gRzQzlp63cz3M&query_place_id=ChIJqVsZfr8084gRzQzlp63cz3M",
-          "isAdvertisement": false,
-          "placeId": "ChIJqVsZfr8084gRzQzlp63cz3M",
-          "location": {
-            "lat": 32.67853,
-            "lng": -83.1940624
-          },
-          "address": null,
-          "categoryName": "General contractor",
-          "categories": [
-            "General contractor",
-            "Cabinet maker",
-            "Electrician",
-            "Service establishment",
-            "Painter",
-            "Plumber"
-          ],
-          "title": "George Brothers' Contracting",
-          "permanentlyClosed": false,
-          "temporarilyClosed": false,
-          "reviewsCount": 0,
-          "url": "https://www.google.com/maps/search/?api=1&query=George%20Brothers'%20Contracting&query_place_id=ChIJqVsZfr8084gRzQzlp63cz3M",
-          "price": null,
-          "cid": "8345131272945077453",
-          "fid": "0x88f334bf7e195ba9:0x73cfdcada7e50ccd"
-        }
-      ],
-      "chatGptInsights": {
-        "error": "ChatGPT returned 401"
-      }
-    },
-    "dorsey-plumbing-llc": {
-      "business name": "Dorsey Plumbing LLC",
-      "reviews": [
-        {
-          "searchString": "Direct Detail URL: https://www.google.com/maps/search/?api=1&query=ChIJeTIrzE1TrKMRCq-vILpE01A&query_place_id=ChIJeTIrzE1TrKMRCq-vILpE01A",
-          "name": "Elton Curtis",
-          "text": "I\u2019ve always had a good experience with Dorsey plumbing. He\u2019s done several jobs at my house and I had no problems with the work. I would have no problems  referring him to family and friends.",
+          "searchString": "Direct Detail URL: https://www.google.com/maps/search/?api=1&query=ChIJGwJ1Ls-QJa0RD-7Pnpbfxz8&query_place_id=ChIJGwJ1Ls-QJa0RD-7Pnpbfxz8",
+          "name": "Corey Hill",
+          "text": "Came out to my house to see about unclogging a bathtub. Wasn't successful in getting rid of clog and discussed other options such as running another line and gave me an estimate. Told me to call him back as he had to leave. Would not return calls or texts. Left my bathtub full of dirt and small nicks in finish from running drain auger down tub drain.",
           "textTranslated": null,
-          "publishAt": "a month ago",
-          "publishedAtDate": "2024-11-19T01:33:27.446Z",
+          "publishAt": "2 years ago",
+          "publishedAtDate": "2022-02-08T22:39:22.601Z",
           "likesCount": 0,
-          "reviewId": "ChZDSUhNMG9nS0VJQ0FnSUQzcV9uN0Z3EAE",
-          "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQzcV9uN0Z3EAE!2m1!1s0x0:0x50d344ba20afaf0a!3m1!1s2@1:CIHM0ogKEICAgID3q_n7Fw%7CCgwI59XvuQYQ0Jvu1AE%7C?hl=en",
-          "reviewerId": "114697083246038733711",
-          "reviewerUrl": "https://www.google.com/maps/contrib/114697083246038733711?hl=en",
-          "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocIuY7jslGGGKQWAyIKFYtSZzV0hnAArYMoDG4lCZEoQuCMyIA=s120-c-rp-mo-br100",
-          "reviewerNumberOfReviews": 3,
+          "reviewId": "ChdDSUhNMG9nS0VJQ0FnSURtc19PZjB3RRAB",
+          "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURtc19PZjB3RRAB!2m1!1s0x0:0x3fc7df969ecfee0f!3m1!1s2@1:CIHM0ogKEICAgIDms_Of0wE%7CCgwImuKLkAYQ8Pb2ngI%7C?hl=en",
+          "reviewerId": "101387770550493501109",
+          "reviewerUrl": "https://www.google.com/maps/contrib/101387770550493501109?hl=en",
+          "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocK5BvxFdEeVlclG_3bqYXMDAB4FhePPe-gF2x3Al60MAMhzMXk=s120-c-rp-mo-br100",
+          "reviewerNumberOfReviews": 1,
           "isLocalGuide": false,
           "reviewOrigin": "Google",
-          "stars": 5,
+          "stars": 1,
           "rating": null,
           "responseFromOwnerDate": null,
           "responseFromOwnerText": null,
           "reviewImageUrls": [],
-          "reviewContext": {},
+          "reviewContext": {
+            "null": "Yes"
+          },
           "reviewDetailedRating": {},
           "isAdvertisement": false,
-          "placeId": "ChIJeTIrzE1TrKMRCq-vILpE01A",
+          "placeId": "ChIJGwJ1Ls-QJa0RD-7Pnpbfxz8",
           "location": {
-            "lat": 32.6782694,
-            "lng": -85.485308
+            "lat": 32.759439,
+            "lng": -85.3489875
           },
           "address": null,
           "categoryName": "Plumber",
@@ -108,30 +40,374 @@
             "Plumber",
             "Service establishment"
           ],
-          "title": "Dorsey Plumbing LLC",
-          "totalScore": 5,
+          "title": "Crowes trenching & plumbing",
+          "totalScore": 4.4,
           "permanentlyClosed": false,
-          "temporarilyClosed": false,
-          "reviewsCount": 2,
-          "url": "https://www.google.com/maps/search/?api=1&query=Dorsey%20Plumbing%20LLC&query_place_id=ChIJeTIrzE1TrKMRCq-vILpE01A",
+          "temporarilyClosed": true,
+          "reviewsCount": 7,
+          "url": "https://www.google.com/maps/search/?api=1&query=Crowes%20trenching%20%26%20plumbing&query_place_id=ChIJGwJ1Ls-QJa0RD-7Pnpbfxz8",
           "price": null,
-          "cid": "5824074309323173642",
-          "fid": "0xa3ac534dcc2b3279:0x50d344ba20afaf0a",
-          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPyCKraxpzahC9cvALxJtJTrmOZx22KYUjDZu2x=w408-h544-k-no"
+          "cid": "4595887782757395983",
+          "fid": "0xad2590cf2e75021b:0x3fc7df969ecfee0f",
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMKkqvFhHQjSki1eqOWKmpD4gq4wV_08LsTo24p=w408-h408-k-no"
         },
         {
-          "searchString": "Direct Detail URL: https://www.google.com/maps/search/?api=1&query=ChIJeTIrzE1TrKMRCq-vILpE01A&query_place_id=ChIJeTIrzE1TrKMRCq-vILpE01A",
-          "name": "Margaret Williams",
-          "text": "I am very satisfied with the work by Dorsey Plumbing. I've already recommended him to a family member. I give his business 5 stars.",
+          "searchString": "Direct Detail URL: https://www.google.com/maps/search/?api=1&query=ChIJGwJ1Ls-QJa0RD-7Pnpbfxz8&query_place_id=ChIJGwJ1Ls-QJa0RD-7Pnpbfxz8",
+          "name": "Rebecca Harris",
+          "text": null,
           "textTranslated": null,
-          "publishAt": "2 months ago",
-          "publishedAtDate": "2024-11-10T20:51:41.873Z",
+          "publishAt": "3 years ago",
+          "publishedAtDate": "2021-10-20T23:41:34.131Z",
           "likesCount": 0,
-          "reviewId": "ChZDSUhNMG9nS0VJQ0FnSUMzXzVpMmNnEAE",
-          "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUMzXzVpMmNnEAE!2m1!1s0x0:0x50d344ba20afaf0a!3m1!1s2@1:CIHM0ogKEICAgIC3_5i2cg%7CCgwI3bnEuQYQwKuyoAM%7C?hl=en",
-          "reviewerId": "106042641621236005501",
-          "reviewerUrl": "https://www.google.com/maps/contrib/106042641621236005501?hl=en",
-          "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJYpIz9T_sT4z_eECpCEr_ipXWrD7-GWvGoGimTKWzPbdrMYA=s120-c-rp-mo-br100",
+          "reviewId": "ChZDSUhNMG9nS0VJQ0FnSUNHNU5MaUhREAE",
+          "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNHNU5MaUhREAE!2m1!1s0x0:0x3fc7df969ecfee0f!3m1!1s2@1:CIHM0ogKEICAgICG5NLiHQ%7CCgsIrtLCiwYQqK3yPg%7C?hl=en",
+          "reviewerId": "108338014792843227252",
+          "reviewerUrl": "https://www.google.com/maps/contrib/108338014792843227252?hl=en",
+          "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJSX15M-Nl_Y_inefBdRynf0bTzA9l5aH47Woyj63GREFqnQA=s120-c-rp-mo-br100",
+          "reviewerNumberOfReviews": 1,
+          "isLocalGuide": false,
+          "reviewOrigin": "Google",
+          "stars": 5,
+          "rating": null,
+          "responseFromOwnerDate": null,
+          "responseFromOwnerText": null,
+          "reviewImageUrls": [],
+          "reviewContext": {
+            "null": "Yes"
+          },
+          "reviewDetailedRating": {},
+          "isAdvertisement": false,
+          "placeId": "ChIJGwJ1Ls-QJa0RD-7Pnpbfxz8",
+          "location": {
+            "lat": 32.759439,
+            "lng": -85.3489875
+          },
+          "address": null,
+          "categoryName": "Plumber",
+          "categories": [
+            "Plumber",
+            "Service establishment"
+          ],
+          "title": "Crowes trenching & plumbing",
+          "totalScore": 4.4,
+          "permanentlyClosed": false,
+          "temporarilyClosed": true,
+          "reviewsCount": 7,
+          "url": "https://www.google.com/maps/search/?api=1&query=Crowes%20trenching%20%26%20plumbing&query_place_id=ChIJGwJ1Ls-QJa0RD-7Pnpbfxz8",
+          "price": null,
+          "cid": "4595887782757395983",
+          "fid": "0xad2590cf2e75021b:0x3fc7df969ecfee0f",
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMKkqvFhHQjSki1eqOWKmpD4gq4wV_08LsTo24p=w408-h408-k-no"
+        },
+        {
+          "searchString": "Direct Detail URL: https://www.google.com/maps/search/?api=1&query=ChIJGwJ1Ls-QJa0RD-7Pnpbfxz8&query_place_id=ChIJGwJ1Ls-QJa0RD-7Pnpbfxz8",
+          "name": "Kellie Pridgen",
+          "text": "I was very pleased with the service Colby provided me. He was very  punctual and very professional",
+          "textTranslated": null,
+          "publishAt": "3 years ago",
+          "publishedAtDate": "2021-08-22T01:39:25.888Z",
+          "likesCount": 0,
+          "reviewId": "ChdDSUhNMG9nS0VJQ0FnSURhenJmTndRRRAB",
+          "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURhenJmTndRRRAB!2m1!1s0x0:0x3fc7df969ecfee0f!3m1!1s2@1:CIHM0ogKEICAgIDazrfNwQE%7CCgwIzdWGiQYQoMbdpwM%7C?hl=en",
+          "reviewerId": "108344906848704114958",
+          "reviewerUrl": "https://www.google.com/maps/contrib/108344906848704114958?hl=en",
+          "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKEaorz_sMOlpbEi3SOzaERVSSzBfz-m3rCKdDMRavnDCiOaQ=s120-c-rp-mo-br100",
+          "reviewerNumberOfReviews": 1,
+          "isLocalGuide": false,
+          "reviewOrigin": "Google",
+          "stars": 5,
+          "rating": null,
+          "responseFromOwnerDate": null,
+          "responseFromOwnerText": null,
+          "reviewImageUrls": [],
+          "reviewContext": {
+            "null": "Yes"
+          },
+          "reviewDetailedRating": {},
+          "isAdvertisement": false,
+          "placeId": "ChIJGwJ1Ls-QJa0RD-7Pnpbfxz8",
+          "location": {
+            "lat": 32.759439,
+            "lng": -85.3489875
+          },
+          "address": null,
+          "categoryName": "Plumber",
+          "categories": [
+            "Plumber",
+            "Service establishment"
+          ],
+          "title": "Crowes trenching & plumbing",
+          "totalScore": 4.4,
+          "permanentlyClosed": false,
+          "temporarilyClosed": true,
+          "reviewsCount": 7,
+          "url": "https://www.google.com/maps/search/?api=1&query=Crowes%20trenching%20%26%20plumbing&query_place_id=ChIJGwJ1Ls-QJa0RD-7Pnpbfxz8",
+          "price": null,
+          "cid": "4595887782757395983",
+          "fid": "0xad2590cf2e75021b:0x3fc7df969ecfee0f",
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMKkqvFhHQjSki1eqOWKmpD4gq4wV_08LsTo24p=w408-h408-k-no"
+        },
+        {
+          "searchString": "Direct Detail URL: https://www.google.com/maps/search/?api=1&query=ChIJGwJ1Ls-QJa0RD-7Pnpbfxz8&query_place_id=ChIJGwJ1Ls-QJa0RD-7Pnpbfxz8",
+          "name": "Allen Crowe",
+          "text": null,
+          "textTranslated": null,
+          "publishAt": "3 years ago",
+          "publishedAtDate": "2021-08-08T20:46:05.325Z",
+          "likesCount": 0,
+          "reviewId": "ChZDSUhNMG9nS0VJQ0FnSUNhNDgtbmNREAE",
+          "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNhNDgtbmNREAE!2m1!1s0x0:0x3fc7df969ecfee0f!3m1!1s2@1:CIHM0ogKEICAgICa48-ncQ%7CCgwIjYXBiAYQ8L2emwE%7C?hl=en",
+          "reviewerId": "113351922481356852962",
+          "reviewerUrl": "https://www.google.com/maps/contrib/113351922481356852962?hl=en",
+          "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKLHrQRx0sQ_SX8BmPCFPmcy4vJ7Vy9utPOeqqYEbpJQegOeg=s120-c-rp-mo-br100",
+          "reviewerNumberOfReviews": 0,
+          "isLocalGuide": false,
+          "reviewOrigin": "Google",
+          "stars": 5,
+          "rating": null,
+          "responseFromOwnerDate": null,
+          "responseFromOwnerText": null,
+          "reviewImageUrls": [],
+          "reviewContext": {
+            "null": "Yes"
+          },
+          "reviewDetailedRating": {},
+          "isAdvertisement": false,
+          "placeId": "ChIJGwJ1Ls-QJa0RD-7Pnpbfxz8",
+          "location": {
+            "lat": 32.759439,
+            "lng": -85.3489875
+          },
+          "address": null,
+          "categoryName": "Plumber",
+          "categories": [
+            "Plumber",
+            "Service establishment"
+          ],
+          "title": "Crowes trenching & plumbing",
+          "totalScore": 4.4,
+          "permanentlyClosed": false,
+          "temporarilyClosed": true,
+          "reviewsCount": 7,
+          "url": "https://www.google.com/maps/search/?api=1&query=Crowes%20trenching%20%26%20plumbing&query_place_id=ChIJGwJ1Ls-QJa0RD-7Pnpbfxz8",
+          "price": null,
+          "cid": "4595887782757395983",
+          "fid": "0xad2590cf2e75021b:0x3fc7df969ecfee0f",
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMKkqvFhHQjSki1eqOWKmpD4gq4wV_08LsTo24p=w408-h408-k-no"
+        },
+        {
+          "searchString": "Direct Detail URL: https://www.google.com/maps/search/?api=1&query=ChIJGwJ1Ls-QJa0RD-7Pnpbfxz8&query_place_id=ChIJGwJ1Ls-QJa0RD-7Pnpbfxz8",
+          "name": "Mary Andrews",
+          "text": "Colby Crowe did an awesome job removing a (very difficult) old faucet and installing a new one.  The old fixtures were in a very difficult to reach place but Colby stuck it out and got the job done.  We will be calling on ya'll again in the future with plumbing needs!",
+          "textTranslated": null,
+          "publishAt": "3 years ago",
+          "publishedAtDate": "2021-08-05T21:09:24.523Z",
+          "likesCount": 0,
+          "reviewId": "ChZDSUhNMG9nS0VJQ0FnSUNhdGNHREJBEAE",
+          "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNhdGNHREJBEAE!2m1!1s0x0:0x3fc7df969ecfee0f!3m1!1s2@1:CIHM0ogKEICAgICatcGDBA%7CCgwIhKexiAYQqKS4-QE%7C?hl=en",
+          "reviewerId": "107178354602166885379",
+          "reviewerUrl": "https://www.google.com/maps/contrib/107178354602166885379?hl=en",
+          "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJpig1jMvohbl7KDV5D8ZsuZV_kvv_HjUXNY67BxdoABy1J2A=s120-c-rp-mo-br100",
+          "reviewerNumberOfReviews": 1,
+          "isLocalGuide": false,
+          "reviewOrigin": "Google",
+          "stars": 5,
+          "rating": null,
+          "responseFromOwnerDate": null,
+          "responseFromOwnerText": null,
+          "reviewImageUrls": [],
+          "reviewContext": {
+            "null": "Yes"
+          },
+          "reviewDetailedRating": {},
+          "isAdvertisement": false,
+          "placeId": "ChIJGwJ1Ls-QJa0RD-7Pnpbfxz8",
+          "location": {
+            "lat": 32.759439,
+            "lng": -85.3489875
+          },
+          "address": null,
+          "categoryName": "Plumber",
+          "categories": [
+            "Plumber",
+            "Service establishment"
+          ],
+          "title": "Crowes trenching & plumbing",
+          "totalScore": 4.4,
+          "permanentlyClosed": false,
+          "temporarilyClosed": true,
+          "reviewsCount": 7,
+          "url": "https://www.google.com/maps/search/?api=1&query=Crowes%20trenching%20%26%20plumbing&query_place_id=ChIJGwJ1Ls-QJa0RD-7Pnpbfxz8",
+          "price": null,
+          "cid": "4595887782757395983",
+          "fid": "0xad2590cf2e75021b:0x3fc7df969ecfee0f",
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMKkqvFhHQjSki1eqOWKmpD4gq4wV_08LsTo24p=w408-h408-k-no"
+        },
+        {
+          "searchString": "Direct Detail URL: https://www.google.com/maps/search/?api=1&query=ChIJGwJ1Ls-QJa0RD-7Pnpbfxz8&query_place_id=ChIJGwJ1Ls-QJa0RD-7Pnpbfxz8",
+          "name": "Briana Myles",
+          "text": "Colby is very attentive and gets the job done! Would absolutely recommend him to anyone needing help.",
+          "textTranslated": null,
+          "publishAt": "3 years ago",
+          "publishedAtDate": "2021-07-29T13:18:25.234Z",
+          "likesCount": 0,
+          "reviewId": "ChZDSUhNMG9nS0VJQ0FnSUNhdXIyV1hnEAE",
+          "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNhdXIyV1hnEAE!2m1!1s0x0:0x3fc7df969ecfee0f!3m1!1s2@1:CIHM0ogKEICAgICaur2WXg%7CCgsIodWKiAYQ-Izsbw%7C?hl=en",
+          "reviewerId": "111759455610013864906",
+          "reviewerUrl": "https://www.google.com/maps/contrib/111759455610013864906?hl=en",
+          "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJdyprFlQBluZUoKu8Fm1QbyILogKeTuYvSmNwd9QLhB164Nw=s120-c-rp-mo-br100",
+          "reviewerNumberOfReviews": 6,
+          "isLocalGuide": false,
+          "reviewOrigin": "Google",
+          "stars": 5,
+          "rating": null,
+          "responseFromOwnerDate": null,
+          "responseFromOwnerText": null,
+          "reviewImageUrls": [],
+          "reviewContext": {
+            "null": "Yes"
+          },
+          "reviewDetailedRating": {},
+          "isAdvertisement": false,
+          "placeId": "ChIJGwJ1Ls-QJa0RD-7Pnpbfxz8",
+          "location": {
+            "lat": 32.759439,
+            "lng": -85.3489875
+          },
+          "address": null,
+          "categoryName": "Plumber",
+          "categories": [
+            "Plumber",
+            "Service establishment"
+          ],
+          "title": "Crowes trenching & plumbing",
+          "totalScore": 4.4,
+          "permanentlyClosed": false,
+          "temporarilyClosed": true,
+          "reviewsCount": 7,
+          "url": "https://www.google.com/maps/search/?api=1&query=Crowes%20trenching%20%26%20plumbing&query_place_id=ChIJGwJ1Ls-QJa0RD-7Pnpbfxz8",
+          "price": null,
+          "cid": "4595887782757395983",
+          "fid": "0xad2590cf2e75021b:0x3fc7df969ecfee0f",
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMKkqvFhHQjSki1eqOWKmpD4gq4wV_08LsTo24p=w408-h408-k-no"
+        },
+        {
+          "searchString": "Direct Detail URL: https://www.google.com/maps/search/?api=1&query=ChIJGwJ1Ls-QJa0RD-7Pnpbfxz8&query_place_id=ChIJGwJ1Ls-QJa0RD-7Pnpbfxz8",
+          "name": "Katelin Rhodes",
+          "text": null,
+          "textTranslated": null,
+          "publishAt": "3 years ago",
+          "publishedAtDate": "2021-07-14T00:15:46.015Z",
+          "likesCount": 0,
+          "reviewId": "ChZDSUhNMG9nS0VJQ0FnSURxLVptWFpREAE",
+          "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURxLVptWFpREAE!2m1!1s0x0:0x3fc7df969ecfee0f!3m1!1s2@1:CIHM0ogKEICAgIDq-ZmXZQ%7CCgsIstm4hwYQ6JS6Bw%7C?hl=en",
+          "reviewerId": "100618371509476191961",
+          "reviewerUrl": "https://www.google.com/maps/contrib/100618371509476191961?hl=en",
+          "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKVT3SBeWj-Sfq4_JH0Jl1JGjqHnHhpPwEUUbL2gqFT_CR77w=s120-c-rp-mo-br100",
+          "reviewerNumberOfReviews": 1,
+          "isLocalGuide": false,
+          "reviewOrigin": "Google",
+          "stars": 5,
+          "rating": null,
+          "responseFromOwnerDate": null,
+          "responseFromOwnerText": null,
+          "reviewImageUrls": [],
+          "reviewContext": {
+            "null": "Yes"
+          },
+          "reviewDetailedRating": {},
+          "isAdvertisement": false,
+          "placeId": "ChIJGwJ1Ls-QJa0RD-7Pnpbfxz8",
+          "location": {
+            "lat": 32.759439,
+            "lng": -85.3489875
+          },
+          "address": null,
+          "categoryName": "Plumber",
+          "categories": [
+            "Plumber",
+            "Service establishment"
+          ],
+          "title": "Crowes trenching & plumbing",
+          "totalScore": 4.4,
+          "permanentlyClosed": false,
+          "temporarilyClosed": true,
+          "reviewsCount": 7,
+          "url": "https://www.google.com/maps/search/?api=1&query=Crowes%20trenching%20%26%20plumbing&query_place_id=ChIJGwJ1Ls-QJa0RD-7Pnpbfxz8",
+          "price": null,
+          "cid": "4595887782757395983",
+          "fid": "0xad2590cf2e75021b:0x3fc7df969ecfee0f",
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMKkqvFhHQjSki1eqOWKmpD4gq4wV_08LsTo24p=w408-h408-k-no"
+        }
+      ],
+      "chatGptInsights": {
+        "error": "ChatGPT returned 401"
+      }
+    },
+    "pipemasters-plumbing": {
+      "business name": "PipeMasters Plumbing",
+      "reviews": [
+        {
+          "searchString": "Direct Detail URL: https://www.google.com/maps/search/?api=1&query=ChIJf3uz7f_0jIgRLqgXkyDpyT8&query_place_id=ChIJf3uz7f_0jIgRLqgXkyDpyT8",
+          "name": "Marilyn Ricklin",
+          "text": null,
+          "textTranslated": null,
+          "publishAt": "2 years ago",
+          "publishedAtDate": "2022-06-27T23:25:43.466Z",
+          "likesCount": 0,
+          "reviewId": "ChdDSUhNMG9nS0VJQ0FnSURPeFBfdW5nRRAB",
+          "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURPeFBfdW5nRRAB!2m1!1s0x0:0x3fc9e9209317a82e!3m1!1s2@1:CIHM0ogKEICAgIDOxP_ungE%7CCgwI9_jolQYQ2Ie63gE%7C?hl=en",
+          "reviewerId": "117019580423290258243",
+          "reviewerUrl": "https://www.google.com/maps/contrib/117019580423290258243?hl=en",
+          "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocI1mdmj1KHwCLs3n4m3nkWTchPsw3k0OlmHiN0uhP_zU1qSdA=s120-c-rp-mo-br100",
+          "reviewerNumberOfReviews": 1,
+          "isLocalGuide": false,
+          "reviewOrigin": "Google",
+          "stars": 5,
+          "rating": null,
+          "responseFromOwnerDate": null,
+          "responseFromOwnerText": null,
+          "reviewImageUrls": [],
+          "reviewContext": {
+            "null": "Yes"
+          },
+          "reviewDetailedRating": {},
+          "isAdvertisement": false,
+          "placeId": "ChIJf3uz7f_0jIgRLqgXkyDpyT8",
+          "location": {
+            "lat": 32.7606775,
+            "lng": -85.6377466
+          },
+          "address": null,
+          "categoryName": "Plumber",
+          "categories": [
+            "Plumber",
+            "Service establishment"
+          ],
+          "title": "PipeMasters Plumbing",
+          "totalScore": 5,
+          "permanentlyClosed": false,
+          "temporarilyClosed": false,
+          "reviewsCount": 3,
+          "url": "https://www.google.com/maps/search/?api=1&query=PipeMasters%20Plumbing&query_place_id=ChIJf3uz7f_0jIgRLqgXkyDpyT8",
+          "price": null,
+          "cid": "4596461220824328238",
+          "fid": "0x888cf4ffedb37b7f:0x3fc9e9209317a82e",
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipN_v04GC9UkbcQefrCV5m1WdFPknCBpBOzW0QmD=w408-h306-k-no"
+        },
+        {
+          "searchString": "Direct Detail URL: https://www.google.com/maps/search/?api=1&query=ChIJf3uz7f_0jIgRLqgXkyDpyT8&query_place_id=ChIJf3uz7f_0jIgRLqgXkyDpyT8",
+          "name": "Evan R",
+          "text": "As I told Andy today our family has a new plumber! Our toilet was leaking and the tank needed to be replaced. Within two hours from calling he had it fixed. On top of that he noticed that the toilet was slow to fill after being flushed. It turns out the regulator off the street should have been set higher. He is very professional, quick to respond, and genuine in his desire to help his customers!",
+          "textTranslated": null,
+          "publishAt": "4 years ago",
+          "publishedAtDate": "2020-06-03T01:27:22.557Z",
+          "likesCount": 0,
+          "reviewId": "ChZDSUhNMG9nS0VJQ0FnSURjMG9ENEFREAE",
+          "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURjMG9ENEFREAE!2m1!1s0x0:0x3fc9e9209317a82e!3m1!1s2@1:CIHM0ogKEICAgIDc0oD4AQ%7CCgwI-vjb9gUQsIrxiQI%7C?hl=en",
+          "reviewerId": "103485244066562582627",
+          "reviewerUrl": "https://www.google.com/maps/contrib/103485244066562582627?hl=en",
+          "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJo64BJjn-I0N8wubceOxO2ZH-TnrkKR0naZGWjF4nGzm0m3A=s120-c-rp-mo-br100",
           "reviewerNumberOfReviews": 3,
           "isLocalGuide": false,
           "reviewOrigin": "Google",
@@ -143,10 +419,10 @@
           "reviewContext": {},
           "reviewDetailedRating": {},
           "isAdvertisement": false,
-          "placeId": "ChIJeTIrzE1TrKMRCq-vILpE01A",
+          "placeId": "ChIJf3uz7f_0jIgRLqgXkyDpyT8",
           "location": {
-            "lat": 32.6782694,
-            "lng": -85.485308
+            "lat": 32.7606775,
+            "lng": -85.6377466
           },
           "address": null,
           "categoryName": "Plumber",
@@ -154,16 +430,101 @@
             "Plumber",
             "Service establishment"
           ],
-          "title": "Dorsey Plumbing LLC",
+          "title": "PipeMasters Plumbing",
           "totalScore": 5,
           "permanentlyClosed": false,
           "temporarilyClosed": false,
-          "reviewsCount": 2,
-          "url": "https://www.google.com/maps/search/?api=1&query=Dorsey%20Plumbing%20LLC&query_place_id=ChIJeTIrzE1TrKMRCq-vILpE01A",
+          "reviewsCount": 3,
+          "url": "https://www.google.com/maps/search/?api=1&query=PipeMasters%20Plumbing&query_place_id=ChIJf3uz7f_0jIgRLqgXkyDpyT8",
           "price": null,
-          "cid": "5824074309323173642",
-          "fid": "0xa3ac534dcc2b3279:0x50d344ba20afaf0a",
-          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPyCKraxpzahC9cvALxJtJTrmOZx22KYUjDZu2x=w408-h544-k-no"
+          "cid": "4596461220824328238",
+          "fid": "0x888cf4ffedb37b7f:0x3fc9e9209317a82e",
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipN_v04GC9UkbcQefrCV5m1WdFPknCBpBOzW0QmD=w408-h306-k-no"
+        },
+        {
+          "searchString": "Direct Detail URL: https://www.google.com/maps/search/?api=1&query=ChIJf3uz7f_0jIgRLqgXkyDpyT8&query_place_id=ChIJf3uz7f_0jIgRLqgXkyDpyT8",
+          "name": "Andrew Hobbs",
+          "text": null,
+          "textTranslated": null,
+          "publishAt": "6 years ago",
+          "publishedAtDate": "2018-04-26T19:43:46.486Z",
+          "likesCount": 0,
+          "reviewId": "ChdDSUhNMG9nS0VJQ0FnSURneDlHejlnRRAB",
+          "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURneDlHejlnRRAB!2m1!1s0x0:0x3fc9e9209317a82e!3m1!1s2@1:CIHM0ogKEICAgIDgx9Gz9gE%7CCgwI8teI1wUQgIvf5wE%7C?hl=en",
+          "reviewerId": "113313557916908912615",
+          "reviewerUrl": "https://www.google.com/maps/contrib/113313557916908912615?hl=en",
+          "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJprAaj-KNZyIgGsZYM7m25IvVryQi5HjY4bj4vskac9qV_6A=s120-c-rp-mo-br100",
+          "reviewerNumberOfReviews": 0,
+          "isLocalGuide": false,
+          "reviewOrigin": "Google",
+          "stars": 5,
+          "rating": null,
+          "responseFromOwnerDate": null,
+          "responseFromOwnerText": null,
+          "reviewImageUrls": [],
+          "reviewContext": {},
+          "reviewDetailedRating": {},
+          "isAdvertisement": false,
+          "placeId": "ChIJf3uz7f_0jIgRLqgXkyDpyT8",
+          "location": {
+            "lat": 32.7606775,
+            "lng": -85.6377466
+          },
+          "address": null,
+          "categoryName": "Plumber",
+          "categories": [
+            "Plumber",
+            "Service establishment"
+          ],
+          "title": "PipeMasters Plumbing",
+          "totalScore": 5,
+          "permanentlyClosed": false,
+          "temporarilyClosed": false,
+          "reviewsCount": 3,
+          "url": "https://www.google.com/maps/search/?api=1&query=PipeMasters%20Plumbing&query_place_id=ChIJf3uz7f_0jIgRLqgXkyDpyT8",
+          "price": null,
+          "cid": "4596461220824328238",
+          "fid": "0x888cf4ffedb37b7f:0x3fc9e9209317a82e",
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipN_v04GC9UkbcQefrCV5m1WdFPknCBpBOzW0QmD=w408-h306-k-no"
+        }
+      ],
+      "chatGptInsights": {
+        "error": "ChatGPT returned 401"
+      }
+    },
+    "handyman-sammys": {
+      "business name": "HANDYMAN SAMMYS",
+      "reviews": [
+        {
+          "error": "no_reviews",
+          "errorDescription": "Place \"HANDYMAN SAMMYS\" (ID: ChIJASuzG4bJhYgR7B_jvZ_BotU) has no reviews",
+          "searchString": "Direct Detail URL: https://www.google.com/maps/search/?api=1&query=ChIJASuzG4bJhYgR7B_jvZ_BotU&query_place_id=ChIJASuzG4bJhYgR7B_jvZ_BotU",
+          "isAdvertisement": false,
+          "placeId": "ChIJASuzG4bJhYgR7B_jvZ_BotU",
+          "location": {
+            "lat": 32.7767938,
+            "lng": -88.0306496
+          },
+          "address": "484 Water Ln, Boligee, AL 35443",
+          "neighborhood": null,
+          "street": "484 Water Ln",
+          "city": "Boligee",
+          "postalCode": "35443",
+          "state": "Alabama",
+          "countryCode": "US",
+          "categoryName": "Handyman/Handywoman/Handyperson",
+          "categories": [
+            "Handyman/Handywoman/Handyperson"
+          ],
+          "title": "HANDYMAN SAMMYS",
+          "permanentlyClosed": false,
+          "temporarilyClosed": false,
+          "reviewsCount": 0,
+          "url": "https://www.google.com/maps/search/?api=1&query=HANDYMAN%20SAMMYS&query_place_id=ChIJASuzG4bJhYgR7B_jvZ_BotU",
+          "price": null,
+          "cid": "15394079368135516140",
+          "fid": "0x8885c9861bb32b01:0xd5a2c19fbde31fec",
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMNSBQW1Ctek8mOIyBQSOA20Q_mUK8qHoyKBdAG=w408-h306-k-no"
         }
       ],
       "chatGptInsights": {
