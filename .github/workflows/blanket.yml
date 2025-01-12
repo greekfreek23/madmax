@@ -1,0 +1,236 @@
+name: Manual Flow with Hardcoded Tokens
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node
+        uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+
+      - name: Create script.js (with inline tokens)
+        run: |
+          cat << 'EOF' > script.js
+          /*******************************************************
+           * WARNING: This is a Node.js script with inline tokens.
+           *          This is NOT secure! For demonstration only.
+           *******************************************************/
+
+          const fetch = require('node-fetch');
+          const fs = require('fs');
+          const path = require('path');
+
+          /*************************************************************
+           * 1) CONFIG - HARDCODED TOKENS (INSECURE)
+           *************************************************************/
+          const API_TOKEN = "apify_api_HZceYJ4kjPoaIyeQb98O8TEYfVqX1w1dOvaq";   // Apify
+          const GITHUB_OWNER = "greekfreek23";
+          const GITHUB_REPO  = "madmax";
+          const GITHUB_PAT   = "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";   // GitHub
+          const OPENAI_API_KEY = "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";
+
+          // Example Apify endpoints:
+          const APIFY_COLOR_ACTOR_URL = "https://api.apify.com/v2/actor-tasks/nicksanford2341~my-actor-2-task/runs?token=" + API_TOKEN;
+          const APIFY_REVIEW_SCRAPER_URL = "https://api.apify.com/v2/acts/compass~google-maps-reviews-scraper/run-sync-get-dataset-items?token=" + API_TOKEN;
+
+          async function main() {
+            console.log("Starting Node script with hardcoded tokens...");
+
+            // 1) Example call to Apify (color extraction)
+            const logoUrls = ["https://example.com/logo1.png", "https://example.com/logo2.jpg"];
+            const colorData = await fetchColorsFromApify(logoUrls);
+            console.log("colorData:", colorData);
+
+            // 2) Example call to Apify (reviews)
+            const placeIds = ["ChIJN1t_tDeuEmsRUsoyG83frY4", "FakePlaceId123"];
+            const reviews = await fetchReviewsFromApify(placeIds);
+            console.log("reviews:", reviews);
+
+            // 3) Summarize using OpenAI GPT
+            const summary = await analyzeReviewsViaChatGPT(reviews);
+            console.log("GPT summary:", summary);
+
+            // 4) Build final JSON, push to GitHub
+            const finalObj = {
+              colorData,
+              reviews,
+              summary,
+              timestamp: new Date().toISOString()
+            };
+            const jsonStr = JSON.stringify(finalObj, null, 2);
+            const filePath = "myFile.json";
+            await pushDataToGitHub(jsonStr, filePath, "Automated commit from Node script");
+
+            console.log("Done! Check your 'madmax' repo for 'myFile.json'.");
+          }
+
+          /*************************************************************
+           * fetchColorsFromApify(logoUrls)
+           *  - Example color extraction call (placeholder)
+           *************************************************************/
+          async function fetchColorsFromApify(logoUrls) {
+            if (!logoUrls.length) return [];
+            try {
+              const resp = await fetch(APIFY_COLOR_ACTOR_URL, {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ imageUrls: logoUrls })
+              });
+              if (!resp.ok) {
+                throw new Error("Failed to start Apify color actor");
+              }
+              const data = await resp.json();
+              // For real usage, poll run status, etc.
+              // But this is just a simplified example:
+              return data;
+            } catch (err) {
+              console.error("Error in fetchColorsFromApify:", err);
+              return [];
+            }
+          }
+
+          /*************************************************************
+           * fetchReviewsFromApify(placeIds)
+           *************************************************************/
+          async function fetchReviewsFromApify(placeIds) {
+            if (!placeIds.length) return [];
+            try {
+              const resp = await fetch(APIFY_REVIEW_SCRAPER_URL, {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({
+                  placeIds,
+                  maxReviews: 50,
+                  reviewsSort: "newest"
+                })
+              });
+              if (!resp.ok) {
+                throw new Error("Failed to fetch reviews from Apify");
+              }
+              const data = await resp.json();
+              return data;
+            } catch (err) {
+              console.error("Error in fetchReviewsFromApify:", err);
+              return [];
+            }
+          }
+
+          /*************************************************************
+           * analyzeReviewsViaChatGPT(allReviews)
+           *************************************************************/
+          async function analyzeReviewsViaChatGPT(allReviews) {
+            if (!allReviews.length) {
+              return { info: "No reviews to analyze" };
+            }
+            const prompt = "Please summarize the following reviews:\n" + JSON.stringify(allReviews, null, 2);
+            const completion = await callChatGPT(prompt);
+            let parsed;
+            try {
+              parsed = JSON.parse(completion);
+            } catch (e) {
+              parsed = { rawCompletion: completion };
+            }
+            return parsed;
+          }
+
+          /*************************************************************
+           * callChatGPT(prompt)
+           *************************************************************/
+          async function callChatGPT(prompt) {
+            const url = "https://api.openai.com/v1/chat/completions";
+            const payload = {
+              model: "gpt-3.5-turbo", 
+              messages: [{ role: "user", content: prompt }],
+              max_tokens: 200,
+              temperature: 0.7
+            };
+            try {
+              const resp = await fetch(url, {
+                method: "POST",
+                headers: {
+                  "Content-Type": "application/json",
+                  Authorization: "Bearer " + OPENAI_API_KEY
+                },
+                body: JSON.stringify(payload)
+              });
+              if (!resp.ok) {
+                return JSON.stringify({ error: "OpenAI responded with " + resp.status });
+              }
+              const data = await resp.json();
+              return data.choices?.[0]?.message?.content?.trim() || "";
+            } catch (err) {
+              return JSON.stringify({ error: err.message });
+            }
+          }
+
+          /*************************************************************
+           * pushDataToGitHub(jsonString, filePath, commitMessage)
+           *************************************************************/
+          async function pushDataToGitHub(jsonString, filePath, commitMessage) {
+            const url = 'https://api.github.com/repos/' + GITHUB_OWNER + '/' + GITHUB_REPO + '/contents/' + filePath;
+            const existingSha = await fetchFileSha(filePath);
+
+            const payload = {
+              message: commitMessage,
+              content: Buffer.from(jsonString, 'utf8').toString('base64')
+            };
+            if (existingSha) {
+              payload.sha = existingSha;
+            }
+
+            const resp = await fetch(url, {
+              method: "PUT",
+              headers: {
+                "Content-Type": "application/json",
+                Authorization: "token " + GITHUB_PAT,
+                Accept: "application/vnd.github.v3+json"
+              },
+              body: JSON.stringify(payload)
+            });
+            if (![200, 201].includes(resp.status)) {
+              throw new Error("Failed to push to GitHub. Status: " + resp.status + " => " + (await resp.text()));
+            }
+          }
+
+          /*************************************************************
+           * fetchFileSha(filePath)
+           *************************************************************/
+          async function fetchFileSha(filePath) {
+            const url = 'https://api.github.com/repos/' + GITHUB_OWNER + '/' + GITHUB_REPO + '/contents/' + filePath;
+            const resp = await fetch(url, {
+              method: "GET",
+              headers: {
+                Authorization: "token " + GITHUB_PAT,
+                Accept: "application/vnd.github.v3+json"
+              }
+            });
+            if (resp.status === 200) {
+              const json = await resp.json();
+              return json.sha;
+            }
+            return null;
+          }
+
+          // Run the script
+          main().catch(err => {
+            console.error("Error in main():", err);
+            process.exit(1);
+          });
+          EOF
+
+      - name: Install Node dependencies
+        run: npm install node-fetch@3
+
+      - name: Run the Node script
+        run: node script.js
+
