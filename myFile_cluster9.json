@@ -1,0 +1,457 @@
+{
+  "cluster_index": 9,
+  "centerLat": 32.8361144,
+  "centerLng": -85.2804394,
+  "businesses": [
+    {
+      "name": "Duke's Remodeling and Handy service",
+      "place_id": "ChIJc1EAqIiLP6MRpkd63NzPTFU",
+      "rating": "",
+      "totalSheetReviews": 0,
+      "logo": "https://lh5.googleusercontent.com/-nxGecCiVGPU/AAAAAAAAAAI/AAAAAAAAAAA/0Wg8Ljd7oME/s44-p-k-no-ns-nd/photo.jpg",
+      "primaryColor": null,
+      "secondaryColor": null,
+      "latitude": "32.8361144",
+      "longitude": "-85.2804394",
+      "rawReviews": [
+        {
+          "error": "no_reviews",
+          "errorDescription": "Place \"Duke's Remodeling and Handy service\" (ID: ChIJc1EAqIiLP6MRpkd63NzPTFU) has no reviews",
+          "searchString": "Direct Detail URL: https://www.google.com/maps/search/?api=1&query=ChIJc1EAqIiLP6MRpkd63NzPTFU&query_place_id=ChIJc1EAqIiLP6MRpkd63NzPTFU",
+          "isAdvertisement": false,
+          "placeId": "ChIJc1EAqIiLP6MRpkd63NzPTFU",
+          "location": {
+            "lat": 32.834132,
+            "lng": -85.2804394
+          },
+          "address": null,
+          "categoryName": "Handyman/Handywoman/Handyperson",
+          "categories": [
+            "Handyman/Handywoman/Handyperson",
+            "Service establishment"
+          ],
+          "title": "Duke's Remodeling and Handy service",
+          "permanentlyClosed": false,
+          "temporarilyClosed": false,
+          "reviewsCount": 0,
+          "url": "https://www.google.com/maps/search/?api=1&query=Duke's%20Remodeling%20and%20Handy%20service&query_place_id=ChIJc1EAqIiLP6MRpkd63NzPTFU",
+          "price": null,
+          "cid": "6146516138952640422",
+          "fid": "0xa33f8b88a8005173:0x554ccfdcdc7a47a6",
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMASAZxa6eB5KSFqOu21OLE6gdh2vvThxWfnGg_=w408-h541-k-no"
+        }
+      ],
+      "chatGptInsights": {
+        "error": "ChatGPT returned 401"
+      }
+    },
+    {
+      "name": "Precision Plumbing, LLC",
+      "place_id": "ChIJ0fqaQyUIpE0RxAe-aneAYYw",
+      "rating": "3",
+      "totalSheetReviews": 2,
+      "logo": "https://lh4.googleusercontent.com/-w82txIB5SHI/AAAAAAAAAAI/AAAAAAAAAAA/4B87JUPmzSA/s44-p-k-no-ns-nd/photo.jpg",
+      "primaryColor": "#7f7f7f",
+      "secondaryColor": "#797979",
+      "latitude": "32.710914",
+      "longitude": "-84.9439804",
+      "rawReviews": [
+        {
+          "searchString": "Direct Detail URL: https://www.google.com/maps/search/?api=1&query=ChIJ0fqaQyUIpE0RxAe-aneAYYw&query_place_id=ChIJ0fqaQyUIpE0RxAe-aneAYYw",
+          "name": "Frances jackson",
+          "text": "Your driver today 11/21/2024  between 10:30 an 10:45. Suffers from road rage. Was speeding, jerking around other cars on Hwy 80 west. He turned at the liquor store in Crawford. If you're driving a billboard, you might think of being more cautious.",
+          "textTranslated": null,
+          "publishAt": "a month ago",
+          "publishedAtDate": "2024-11-21T15:57:38.549Z",
+          "likesCount": 0,
+          "reviewId": "ChdDSUhNMG9nS0VJQ0FnSUNQcEpMX2dRRRAB",
+          "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNQcEpMX2dRRRAB!2m1!1s0x0:0x8c6180776abe07c4!3m1!1s2@1:CIHM0ogKEICAgICPpJL_gQE%7CCgwI8rD9uQYQiP3phQI%7C?hl=en",
+          "reviewerId": "112529409065840353794",
+          "reviewerUrl": "https://www.google.com/maps/contrib/112529409065840353794?hl=en",
+          "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJN7hQBheYa-rP5d9fBs8Ycz_iqnlboSA0aWusEiPFZUs9Idg=s120-c-rp-mo-br100",
+          "reviewerNumberOfReviews": 4,
+          "isLocalGuide": false,
+          "reviewOrigin": "Google",
+          "stars": 1,
+          "rating": null,
+          "responseFromOwnerDate": null,
+          "responseFromOwnerText": null,
+          "reviewImageUrls": [],
+          "reviewContext": {},
+          "reviewDetailedRating": {},
+          "isAdvertisement": false,
+          "placeId": "ChIJ0fqaQyUIpE0RxAe-aneAYYw",
+          "location": {
+            "lat": 32.7113445,
+            "lng": -84.9710019
+          },
+          "address": null,
+          "categoryName": "Plumber",
+          "categories": [
+            "Plumber",
+            "Service establishment"
+          ],
+          "title": "Precision Plumbing, LLC",
+          "totalScore": 3,
+          "permanentlyClosed": false,
+          "temporarilyClosed": false,
+          "reviewsCount": 2,
+          "url": "https://www.google.com/maps/search/?api=1&query=Precision%20Plumbing%2C%20LLC&query_place_id=ChIJ0fqaQyUIpE0RxAe-aneAYYw",
+          "price": null,
+          "cid": "10115507488431146948",
+          "fid": "0x4da40825439afad1:0x8c6180776abe07c4",
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipM40YvBNT7qWxQKcELQ0n9Ht5zan962Tw_LaBx-=w408-h321-k-no"
+        },
+        {
+          "searchString": "Direct Detail URL: https://www.google.com/maps/search/?api=1&query=ChIJ0fqaQyUIpE0RxAe-aneAYYw&query_place_id=ChIJ0fqaQyUIpE0RxAe-aneAYYw",
+          "name": "Crispy salsa",
+          "text": "Driver almost sent me to god going 90 on a 45. At 1:40pm nov 3 2024",
+          "textTranslated": null,
+          "publishAt": "2 months ago",
+          "publishedAtDate": "2024-11-03T18:41:54.668Z",
+          "likesCount": 0,
+          "reviewId": "ChdDSUhNMG9nS0VJQ0FnSUMzbk0tdm9RRRAB",
+          "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUMzbk0tdm9RRRAB!2m1!1s0x0:0x8c6180776abe07c4!3m1!1s2@1:CIHM0ogKEICAgIC3nM-voQE%7CCgwI8oefuQYQoIDivgI%7C?hl=en",
+          "reviewerId": "103464123640587038556",
+          "reviewerUrl": "https://www.google.com/maps/contrib/103464123640587038556?hl=en",
+          "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjU0LkFinmcKx10y5uXDUEqbIKRc0e7ktTl2gkSL1qmTezYto-Q=s120-c-rp-mo-br100",
+          "reviewerNumberOfReviews": 6,
+          "isLocalGuide": false,
+          "reviewOrigin": "Google",
+          "stars": 5,
+          "rating": null,
+          "responseFromOwnerDate": null,
+          "responseFromOwnerText": null,
+          "reviewImageUrls": [],
+          "reviewContext": {},
+          "reviewDetailedRating": {},
+          "isAdvertisement": false,
+          "placeId": "ChIJ0fqaQyUIpE0RxAe-aneAYYw",
+          "location": {
+            "lat": 32.7113445,
+            "lng": -84.9710019
+          },
+          "address": null,
+          "categoryName": "Plumber",
+          "categories": [
+            "Plumber",
+            "Service establishment"
+          ],
+          "title": "Precision Plumbing, LLC",
+          "totalScore": 3,
+          "permanentlyClosed": false,
+          "temporarilyClosed": false,
+          "reviewsCount": 2,
+          "url": "https://www.google.com/maps/search/?api=1&query=Precision%20Plumbing%2C%20LLC&query_place_id=ChIJ0fqaQyUIpE0RxAe-aneAYYw",
+          "price": null,
+          "cid": "10115507488431146948",
+          "fid": "0x4da40825439afad1:0x8c6180776abe07c4",
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipM40YvBNT7qWxQKcELQ0n9Ht5zan962Tw_LaBx-=w408-h321-k-no"
+        }
+      ],
+      "chatGptInsights": {
+        "error": "ChatGPT returned 401"
+      }
+    },
+    {
+      "name": "Duke's Remodeling and Handy service",
+      "place_id": "ChIJc1EAqIiLP6MRpkd63NzPTFU",
+      "rating": "",
+      "totalSheetReviews": 0,
+      "logo": "https://lh5.googleusercontent.com/-nxGecCiVGPU/AAAAAAAAAAI/AAAAAAAAAAA/0Wg8Ljd7oME/s44-p-k-no-ns-nd/photo.jpg",
+      "primaryColor": null,
+      "secondaryColor": null,
+      "latitude": "32.8361144",
+      "longitude": "-85.2804394",
+      "rawReviews": [
+        {
+          "error": "no_reviews",
+          "errorDescription": "Place \"Duke's Remodeling and Handy service\" (ID: ChIJc1EAqIiLP6MRpkd63NzPTFU) has no reviews",
+          "searchString": "Direct Detail URL: https://www.google.com/maps/search/?api=1&query=ChIJc1EAqIiLP6MRpkd63NzPTFU&query_place_id=ChIJc1EAqIiLP6MRpkd63NzPTFU",
+          "isAdvertisement": false,
+          "placeId": "ChIJc1EAqIiLP6MRpkd63NzPTFU",
+          "location": {
+            "lat": 32.834132,
+            "lng": -85.2804394
+          },
+          "address": null,
+          "categoryName": "Handyman/Handywoman/Handyperson",
+          "categories": [
+            "Handyman/Handywoman/Handyperson",
+            "Service establishment"
+          ],
+          "title": "Duke's Remodeling and Handy service",
+          "permanentlyClosed": false,
+          "temporarilyClosed": false,
+          "reviewsCount": 0,
+          "url": "https://www.google.com/maps/search/?api=1&query=Duke's%20Remodeling%20and%20Handy%20service&query_place_id=ChIJc1EAqIiLP6MRpkd63NzPTFU",
+          "price": null,
+          "cid": "6146516138952640422",
+          "fid": "0xa33f8b88a8005173:0x554ccfdcdc7a47a6",
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMASAZxa6eB5KSFqOu21OLE6gdh2vvThxWfnGg_=w408-h541-k-no"
+        }
+      ],
+      "chatGptInsights": {
+        "error": "ChatGPT returned 401"
+      }
+    },
+    {
+      "name": "Precision Plumbing, LLC",
+      "place_id": "ChIJ0fqaQyUIpE0RxAe-aneAYYw",
+      "rating": "3",
+      "totalSheetReviews": 2,
+      "logo": "https://lh4.googleusercontent.com/-w82txIB5SHI/AAAAAAAAAAI/AAAAAAAAAAA/4B87JUPmzSA/s44-p-k-no-ns-nd/photo.jpg",
+      "primaryColor": "#7f7f7f",
+      "secondaryColor": "#797979",
+      "latitude": "32.710914",
+      "longitude": "-84.9439804",
+      "rawReviews": [
+        {
+          "searchString": "Direct Detail URL: https://www.google.com/maps/search/?api=1&query=ChIJ0fqaQyUIpE0RxAe-aneAYYw&query_place_id=ChIJ0fqaQyUIpE0RxAe-aneAYYw",
+          "name": "Frances jackson",
+          "text": "Your driver today 11/21/2024  between 10:30 an 10:45. Suffers from road rage. Was speeding, jerking around other cars on Hwy 80 west. He turned at the liquor store in Crawford. If you're driving a billboard, you might think of being more cautious.",
+          "textTranslated": null,
+          "publishAt": "a month ago",
+          "publishedAtDate": "2024-11-21T15:57:38.549Z",
+          "likesCount": 0,
+          "reviewId": "ChdDSUhNMG9nS0VJQ0FnSUNQcEpMX2dRRRAB",
+          "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNQcEpMX2dRRRAB!2m1!1s0x0:0x8c6180776abe07c4!3m1!1s2@1:CIHM0ogKEICAgICPpJL_gQE%7CCgwI8rD9uQYQiP3phQI%7C?hl=en",
+          "reviewerId": "112529409065840353794",
+          "reviewerUrl": "https://www.google.com/maps/contrib/112529409065840353794?hl=en",
+          "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJN7hQBheYa-rP5d9fBs8Ycz_iqnlboSA0aWusEiPFZUs9Idg=s120-c-rp-mo-br100",
+          "reviewerNumberOfReviews": 4,
+          "isLocalGuide": false,
+          "reviewOrigin": "Google",
+          "stars": 1,
+          "rating": null,
+          "responseFromOwnerDate": null,
+          "responseFromOwnerText": null,
+          "reviewImageUrls": [],
+          "reviewContext": {},
+          "reviewDetailedRating": {},
+          "isAdvertisement": false,
+          "placeId": "ChIJ0fqaQyUIpE0RxAe-aneAYYw",
+          "location": {
+            "lat": 32.7113445,
+            "lng": -84.9710019
+          },
+          "address": null,
+          "categoryName": "Plumber",
+          "categories": [
+            "Plumber",
+            "Service establishment"
+          ],
+          "title": "Precision Plumbing, LLC",
+          "totalScore": 3,
+          "permanentlyClosed": false,
+          "temporarilyClosed": false,
+          "reviewsCount": 2,
+          "url": "https://www.google.com/maps/search/?api=1&query=Precision%20Plumbing%2C%20LLC&query_place_id=ChIJ0fqaQyUIpE0RxAe-aneAYYw",
+          "price": null,
+          "cid": "10115507488431146948",
+          "fid": "0x4da40825439afad1:0x8c6180776abe07c4",
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipM40YvBNT7qWxQKcELQ0n9Ht5zan962Tw_LaBx-=w408-h321-k-no"
+        },
+        {
+          "searchString": "Direct Detail URL: https://www.google.com/maps/search/?api=1&query=ChIJ0fqaQyUIpE0RxAe-aneAYYw&query_place_id=ChIJ0fqaQyUIpE0RxAe-aneAYYw",
+          "name": "Crispy salsa",
+          "text": "Driver almost sent me to god going 90 on a 45. At 1:40pm nov 3 2024",
+          "textTranslated": null,
+          "publishAt": "2 months ago",
+          "publishedAtDate": "2024-11-03T18:41:54.668Z",
+          "likesCount": 0,
+          "reviewId": "ChdDSUhNMG9nS0VJQ0FnSUMzbk0tdm9RRRAB",
+          "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUMzbk0tdm9RRRAB!2m1!1s0x0:0x8c6180776abe07c4!3m1!1s2@1:CIHM0ogKEICAgIC3nM-voQE%7CCgwI8oefuQYQoIDivgI%7C?hl=en",
+          "reviewerId": "103464123640587038556",
+          "reviewerUrl": "https://www.google.com/maps/contrib/103464123640587038556?hl=en",
+          "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjU0LkFinmcKx10y5uXDUEqbIKRc0e7ktTl2gkSL1qmTezYto-Q=s120-c-rp-mo-br100",
+          "reviewerNumberOfReviews": 6,
+          "isLocalGuide": false,
+          "reviewOrigin": "Google",
+          "stars": 5,
+          "rating": null,
+          "responseFromOwnerDate": null,
+          "responseFromOwnerText": null,
+          "reviewImageUrls": [],
+          "reviewContext": {},
+          "reviewDetailedRating": {},
+          "isAdvertisement": false,
+          "placeId": "ChIJ0fqaQyUIpE0RxAe-aneAYYw",
+          "location": {
+            "lat": 32.7113445,
+            "lng": -84.9710019
+          },
+          "address": null,
+          "categoryName": "Plumber",
+          "categories": [
+            "Plumber",
+            "Service establishment"
+          ],
+          "title": "Precision Plumbing, LLC",
+          "totalScore": 3,
+          "permanentlyClosed": false,
+          "temporarilyClosed": false,
+          "reviewsCount": 2,
+          "url": "https://www.google.com/maps/search/?api=1&query=Precision%20Plumbing%2C%20LLC&query_place_id=ChIJ0fqaQyUIpE0RxAe-aneAYYw",
+          "price": null,
+          "cid": "10115507488431146948",
+          "fid": "0x4da40825439afad1:0x8c6180776abe07c4",
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipM40YvBNT7qWxQKcELQ0n9Ht5zan962Tw_LaBx-=w408-h321-k-no"
+        }
+      ],
+      "chatGptInsights": {
+        "error": "ChatGPT returned 401"
+      }
+    },
+    {
+      "name": "Precision Plumbing, LLC",
+      "place_id": "ChIJ0fqaQyUIpE0RxAe-aneAYYw",
+      "rating": "3",
+      "totalSheetReviews": 2,
+      "logo": "https://lh4.googleusercontent.com/-w82txIB5SHI/AAAAAAAAAAI/AAAAAAAAAAA/4B87JUPmzSA/s44-p-k-no-ns-nd/photo.jpg",
+      "primaryColor": "#7f7f7f",
+      "secondaryColor": "#797979",
+      "latitude": "32.710914",
+      "longitude": "-84.9439804",
+      "rawReviews": [
+        {
+          "searchString": "Direct Detail URL: https://www.google.com/maps/search/?api=1&query=ChIJ0fqaQyUIpE0RxAe-aneAYYw&query_place_id=ChIJ0fqaQyUIpE0RxAe-aneAYYw",
+          "name": "Frances jackson",
+          "text": "Your driver today 11/21/2024  between 10:30 an 10:45. Suffers from road rage. Was speeding, jerking around other cars on Hwy 80 west. He turned at the liquor store in Crawford. If you're driving a billboard, you might think of being more cautious.",
+          "textTranslated": null,
+          "publishAt": "a month ago",
+          "publishedAtDate": "2024-11-21T15:57:38.549Z",
+          "likesCount": 0,
+          "reviewId": "ChdDSUhNMG9nS0VJQ0FnSUNQcEpMX2dRRRAB",
+          "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNQcEpMX2dRRRAB!2m1!1s0x0:0x8c6180776abe07c4!3m1!1s2@1:CIHM0ogKEICAgICPpJL_gQE%7CCgwI8rD9uQYQiP3phQI%7C?hl=en",
+          "reviewerId": "112529409065840353794",
+          "reviewerUrl": "https://www.google.com/maps/contrib/112529409065840353794?hl=en",
+          "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJN7hQBheYa-rP5d9fBs8Ycz_iqnlboSA0aWusEiPFZUs9Idg=s120-c-rp-mo-br100",
+          "reviewerNumberOfReviews": 4,
+          "isLocalGuide": false,
+          "reviewOrigin": "Google",
+          "stars": 1,
+          "rating": null,
+          "responseFromOwnerDate": null,
+          "responseFromOwnerText": null,
+          "reviewImageUrls": [],
+          "reviewContext": {},
+          "reviewDetailedRating": {},
+          "isAdvertisement": false,
+          "placeId": "ChIJ0fqaQyUIpE0RxAe-aneAYYw",
+          "location": {
+            "lat": 32.7113445,
+            "lng": -84.9710019
+          },
+          "address": null,
+          "categoryName": "Plumber",
+          "categories": [
+            "Plumber",
+            "Service establishment"
+          ],
+          "title": "Precision Plumbing, LLC",
+          "totalScore": 3,
+          "permanentlyClosed": false,
+          "temporarilyClosed": false,
+          "reviewsCount": 2,
+          "url": "https://www.google.com/maps/search/?api=1&query=Precision%20Plumbing%2C%20LLC&query_place_id=ChIJ0fqaQyUIpE0RxAe-aneAYYw",
+          "price": null,
+          "cid": "10115507488431146948",
+          "fid": "0x4da40825439afad1:0x8c6180776abe07c4",
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipM40YvBNT7qWxQKcELQ0n9Ht5zan962Tw_LaBx-=w408-h321-k-no"
+        },
+        {
+          "searchString": "Direct Detail URL: https://www.google.com/maps/search/?api=1&query=ChIJ0fqaQyUIpE0RxAe-aneAYYw&query_place_id=ChIJ0fqaQyUIpE0RxAe-aneAYYw",
+          "name": "Crispy salsa",
+          "text": "Driver almost sent me to god going 90 on a 45. At 1:40pm nov 3 2024",
+          "textTranslated": null,
+          "publishAt": "2 months ago",
+          "publishedAtDate": "2024-11-03T18:41:54.668Z",
+          "likesCount": 0,
+          "reviewId": "ChdDSUhNMG9nS0VJQ0FnSUMzbk0tdm9RRRAB",
+          "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUMzbk0tdm9RRRAB!2m1!1s0x0:0x8c6180776abe07c4!3m1!1s2@1:CIHM0ogKEICAgIC3nM-voQE%7CCgwI8oefuQYQoIDivgI%7C?hl=en",
+          "reviewerId": "103464123640587038556",
+          "reviewerUrl": "https://www.google.com/maps/contrib/103464123640587038556?hl=en",
+          "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjU0LkFinmcKx10y5uXDUEqbIKRc0e7ktTl2gkSL1qmTezYto-Q=s120-c-rp-mo-br100",
+          "reviewerNumberOfReviews": 6,
+          "isLocalGuide": false,
+          "reviewOrigin": "Google",
+          "stars": 5,
+          "rating": null,
+          "responseFromOwnerDate": null,
+          "responseFromOwnerText": null,
+          "reviewImageUrls": [],
+          "reviewContext": {},
+          "reviewDetailedRating": {},
+          "isAdvertisement": false,
+          "placeId": "ChIJ0fqaQyUIpE0RxAe-aneAYYw",
+          "location": {
+            "lat": 32.7113445,
+            "lng": -84.9710019
+          },
+          "address": null,
+          "categoryName": "Plumber",
+          "categories": [
+            "Plumber",
+            "Service establishment"
+          ],
+          "title": "Precision Plumbing, LLC",
+          "totalScore": 3,
+          "permanentlyClosed": false,
+          "temporarilyClosed": false,
+          "reviewsCount": 2,
+          "url": "https://www.google.com/maps/search/?api=1&query=Precision%20Plumbing%2C%20LLC&query_place_id=ChIJ0fqaQyUIpE0RxAe-aneAYYw",
+          "price": null,
+          "cid": "10115507488431146948",
+          "fid": "0x4da40825439afad1:0x8c6180776abe07c4",
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipM40YvBNT7qWxQKcELQ0n9Ht5zan962Tw_LaBx-=w408-h321-k-no"
+        }
+      ],
+      "chatGptInsights": {
+        "error": "ChatGPT returned 401"
+      }
+    },
+    {
+      "name": "Duke's Remodeling and Handy service",
+      "place_id": "ChIJc1EAqIiLP6MRpkd63NzPTFU",
+      "rating": "",
+      "totalSheetReviews": 0,
+      "logo": "https://lh5.googleusercontent.com/-nxGecCiVGPU/AAAAAAAAAAI/AAAAAAAAAAA/0Wg8Ljd7oME/s44-p-k-no-ns-nd/photo.jpg",
+      "primaryColor": null,
+      "secondaryColor": null,
+      "latitude": "32.8361144",
+      "longitude": "-85.2804394",
+      "rawReviews": [
+        {
+          "error": "no_reviews",
+          "errorDescription": "Place \"Duke's Remodeling and Handy service\" (ID: ChIJc1EAqIiLP6MRpkd63NzPTFU) has no reviews",
+          "searchString": "Direct Detail URL: https://www.google.com/maps/search/?api=1&query=ChIJc1EAqIiLP6MRpkd63NzPTFU&query_place_id=ChIJc1EAqIiLP6MRpkd63NzPTFU",
+          "isAdvertisement": false,
+          "placeId": "ChIJc1EAqIiLP6MRpkd63NzPTFU",
+          "location": {
+            "lat": 32.834132,
+            "lng": -85.2804394
+          },
+          "address": null,
+          "categoryName": "Handyman/Handywoman/Handyperson",
+          "categories": [
+            "Handyman/Handywoman/Handyperson",
+            "Service establishment"
+          ],
+          "title": "Duke's Remodeling and Handy service",
+          "permanentlyClosed": false,
+          "temporarilyClosed": false,
+          "reviewsCount": 0,
+          "url": "https://www.google.com/maps/search/?api=1&query=Duke's%20Remodeling%20and%20Handy%20service&query_place_id=ChIJc1EAqIiLP6MRpkd63NzPTFU",
+          "price": null,
+          "cid": "6146516138952640422",
+          "fid": "0xa33f8b88a8005173:0x554ccfdcdc7a47a6",
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMASAZxa6eB5KSFqOu21OLE6gdh2vvThxWfnGg_=w408-h541-k-no"
+        }
+      ],
+      "chatGptInsights": {
+        "error": "ChatGPT returned 401"
+      }
+    }
+  ]
+}
