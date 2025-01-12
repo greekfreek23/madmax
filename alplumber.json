@@ -1,46 +1,32 @@
 {
   "siteConfigs": {
-    "bishop-s-plumbing-services": {
-      "business name": "Bishop\u2019s Plumbing & Services",
-      "logo": "https://lh3.googleusercontent.com/-PllwRtHoVt4/AAAAAAAAAAI/AAAAAAAAAAA/nTsdCP2C4sU/s44-p-k-no-ns-nd/photo.jpg",
-      "phone": "+1 251-747-3237",
-      "street": "",
-      "city": "",
-      "postal code": "",
-      "state": "",
-      "country": "",
+    "brown-s-plumbing-solutions": {
+      "business name": "Brown's Plumbing Solutions",
+      "logo": "https://lh4.googleusercontent.com/-5uZnoA9qChU/AAAAAAAAAAI/AAAAAAAAAAA/i8sVbXrJGgQ/s44-p-k-no-ns-nd/photo.jpg",
+      "phone": "+1 850-530-8130",
+      "street": "20222 Erin Pond Rd",
+      "city": "Seminole",
+      "postal code": "36574",
+      "state": "Alabama",
+      "country": "United States of America",
       "rating": "5",
-      "reviews": "5",
-      "primaryColor": "#6cc4e0",
-      "secondaryColor": "#5c9cac"
+      "reviews": "8",
+      "primaryColor": "#ee4436",
+      "secondaryColor": "#747c91"
     },
-    "down-south-plumbing-services": {
-      "business name": "Down South Plumbing Services",
-      "logo": "https://lh5.googleusercontent.com/-XAoAjUzdFUo/AAAAAAAAAAI/AAAAAAAAAAA/wFF3bCUWDXA/s44-p-k-no-ns-nd/photo.jpg",
-      "phone": "+1 251-656-4806",
+    "wingman-handyman-services": {
+      "business name": "Wingman Handyman Services",
+      "logo": "https://lh4.googleusercontent.com/-049bSWWxxv4/AAAAAAAAAAI/AAAAAAAAAAA/Qs-EAOLbN8Y/s44-p-k-no-ns-nd/photo.jpg",
+      "phone": "+1 256-431-1172",
       "street": "",
       "city": "",
       "postal code": "",
       "state": "",
       "country": "",
-      "rating": "5",
-      "reviews": "5",
-      "primaryColor": "#7f7f7f",
-      "secondaryColor": "#909090"
-    },
-    "dyer-plumbing-llc": {
-      "business name": "Dyer Plumbing LLC",
-      "logo": "https://lh6.googleusercontent.com/-zsgbN-yrliY/AAAAAAAAAAI/AAAAAAAAAAA/C7tVYHTDdDk/s44-p-k-no-ns-nd/photo.jpg",
-      "phone": "+1 251-228-1299",
-      "street": "",
-      "city": "",
-      "postal code": "",
-      "state": "",
-      "country": "",
-      "rating": "5",
-      "reviews": "2",
-      "primaryColor": "#cc443c",
-      "secondaryColor": "#b49cb4"
+      "rating": "",
+      "reviews": "0",
+      "primaryColor": "#08a1f6",
+      "secondaryColor": "#056093"
     }
   }
 }
