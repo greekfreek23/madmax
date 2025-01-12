@@ -139,6 +139,20 @@
       },
       "primaryColor": "#4474e4",
       "secondaryColor": "#133585"
+    },
+    "a-c-e-plumbing-solutions": {
+      "business_info": {
+        "name": "A.C.E. Plumbing Solutions",
+        "phone": "+1 850-865-9607",
+        "street": "",
+        "city": "",
+        "postal_code": "",
+        "state": "",
+        "logo": "https://lh4.googleusercontent.com/-dqH2g87lSps/AAAAAAAAAAI/AAAAAAAAAAA/CkHxosl1J5g/photo.jpg",
+        "place_id": "ChIJ1SnXvb0WHCQRRRzL0uKBx6s"
+      },
+      "primaryColor": "#757d89",
+      "secondaryColor": "#747584"
     }
   }
 }
